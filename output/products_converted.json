@@ -1,0 +1,707 @@
+[
+  {
+    "data": {
+      "name": "HYPODERMIC 3-PARTS SYRINGES",
+      "referenceString": "4.1.1",
+      "category": 69,
+      "divisions": [
+        48
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "CONVENTIONAL HYPODERMIC NEEDLES",
+      "referenceString": "4.2.1",
+      "category": 70,
+      "divisions": [
+        48
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "CONVENTIONAL SCALP VEIN SETS",
+      "referenceString": "4.3.1",
+      "category": 69,
+      "divisions": [
+        48
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "CONVENTIONAL BLOOD LANCETS",
+      "referenceString": "4.4.1",
+      "category": 72,
+      "divisions": [
+        50
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "INFUSION SETS",
+      "referenceString": "4.5.1",
+      "category": 73,
+      "divisions": [
+        47
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "3 WAY STOP COCKS",
+      "referenceString": "4.6.1",
+      "category": 74,
+      "divisions": [
+        47
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "TRANSFUSION SETS",
+      "referenceString": "4.7",
+      "category": 75,
+      "divisions": [
+        47
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "CONVENTIONAL EXTENSION TUBES",
+      "referenceString": "4.8.1",
+      "category": 76,
+      "divisions": [
+        47
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "PEN TYPE CONVENTIONAL IV CANNULA",
+      "referenceString": "4.9.1",
+      "category": 77,
+      "divisions": [
+        47
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "LATEX EXAMINATION GLOVES",
+      "referenceString": "4.10.1",
+      "category": 78,
+      "divisions": [
+        56
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "LATEX CONDOMS",
+      "referenceString": "4.11.1",
+      "category": 69,
+      "divisions": [
+        56
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "COTTON  SURGICAL TAPE",
+      "referenceString": "4.12.1",
+      "category": 80,
+      "divisions": [
+        54
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "100% COTTON WOVEN GAUZE ",
+      "referenceString": "4.13.1",
+      "category": 81,
+      "divisions": [
+        54
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "3 PLY MASKS",
+      "referenceString": "4.14.1",
+      "category": 82,
+      "divisions": [
+        56
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "DISPOSABLE NON-WOVEN DRAPES AND OPERATION ROOM (SURGICAL) KITS",
+      "referenceString": "4.15",
+      "category": 69,
+      "divisions": [
+        53
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "LATEX FOLEY CATHETERS",
+      "referenceString": "4.16.1",
+      "category": 83,
+      "divisions": [
+        53
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "URINE BAGS - ECONOMIC TYPE",
+      "referenceString": "4.17.1",
+      "category": 69,
+      "divisions": [
+        58
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "ENDOTRACHEAL TUBES",
+      "referenceString": "4.18",
+      "category": 69,
+      "divisions": [
+        58
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "ENDOBRONCHEAL TUBES",
+      "referenceString": "4.19",
+      "category": 69,
+      "divisions": [
+        51
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "PHARINGEAL AIRWAYS",
+      "referenceString": "4.20",
+      "category": 69,
+      "divisions": [
+        51
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "NASOPHARINGEAL AIRWAYS",
+      "referenceString": "4.21",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "LARYNGEAL MASKS",
+      "referenceString": "4.22",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "TRACHEOSTOMY",
+      "referenceString": "4.23",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "ANESTHESIA CIRCUITS",
+      "referenceString": "4.24.1",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "NASA OXYGEN CANNULA",
+      "referenceString": "4.25",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "RESPIRATORY MASKS",
+      "referenceString": "4.26",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "SUCTION TUBE + JANKAUER HANDLE",
+      "referenceString": "4.27",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "STANDARD SUCTION CATHETER",
+      "referenceString": "4.28.1",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "STANDARD ENTERAL FEEDING TUBES",
+      "referenceString": "4.29.1",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "STOMACH TUBES",
+      "referenceString": "4.30",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "CENTRAL VENOUS CATHETERS (CVC)",
+      "referenceString": "4.31",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "PRESSURE TRANSDUCERS",
+      "referenceString": "4.32",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "ELECTRODES  ",
+      "referenceString": "4.33",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "SHORT-TERM HEMODIALYSIS CATHETERS",
+      "referenceString": "4.34.1",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "BLOOD VACUUM TUBES",
+      "referenceString": "4.35.1",
+      "category": 69,
+      "divisions": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  }
+]

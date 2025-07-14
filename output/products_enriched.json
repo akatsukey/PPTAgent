@@ -1,0 +1,365 @@
+[
+  {
+    "data": {
+      "name": "HYPODERMIC 3-PARTS SYRINGES",
+      "referenceString": "4.1.1",
+      "category": 59,
+      "categoryName": "Syringes",
+      "divisions": [
+        48
+      ],
+      "divisionNames": [
+        "Injectables"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "CONVENTIONAL HYPODERMIC NEEDLES",
+      "referenceString": "4.2.1",
+      "category": 60,
+      "categoryName": "Needles",
+      "divisions": [
+        48
+      ],
+      "divisionNames": [
+        "Injectables"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "CONVENTIONAL BLOOD LANCETS",
+      "referenceString": "4.4.1",
+      "category": 62,
+      "categoryName": "Blood lancets",
+      "divisions": [
+        50
+      ],
+      "divisionNames": [
+        "Diagnostic"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "INFUSION SETS",
+      "referenceString": "4.5.1",
+      "category": 63,
+      "categoryName": "Infusion Sets",
+      "divisions": [
+        47
+      ],
+      "divisionNames": [
+        "Infusion"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "TRANSFUSION SETS",
+      "referenceString": "4.7",
+      "category": 65,
+      "categoryName": "Transfusion Sets",
+      "divisions": [
+        47
+      ],
+      "divisionNames": [
+        "Infusion"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "CONVENTIONAL EXTENSION TUBES",
+      "referenceString": "4.8.1",
+      "category": 66,
+      "categoryName": "Extension Tubes",
+      "divisions": [
+        47
+      ],
+      "divisionNames": [
+        "Infusion"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "LATEX EXAMINATION GLOVES",
+      "referenceString": "4.10.1",
+      "category": 69,
+      "categoryName": "Gloves",
+      "divisions": [
+        56
+      ],
+      "divisionNames": [
+        "Protection"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "LATEX CONDOMS",
+      "referenceString": "4.11.1",
+      "category": 58,
+      "categoryName": "Condoms",
+      "divisions": [
+        56
+      ],
+      "divisionNames": [
+        "Protection"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "COTTON  SURGICAL TAPE",
+      "referenceString": "4.12.1",
+      "category": 70,
+      "categoryName": "Adhesive tapes & dressings",
+      "divisions": [
+        54
+      ],
+      "divisionNames": [
+        "Wound management"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "100% COTTON WOVEN GAUZE ",
+      "referenceString": "4.13.1",
+      "category": 71,
+      "categoryName": "Gauze",
+      "divisions": [
+        54
+      ],
+      "divisionNames": [
+        "Wound management"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "3 PLY MASKS",
+      "referenceString": "4.14.1",
+      "category": 72,
+      "categoryName": "Disposable Non-Woven Gourments",
+      "divisions": [
+        56
+      ],
+      "divisionNames": [
+        "Protection"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "LATEX FOLEY CATHETERS",
+      "referenceString": "4.16.1",
+      "category": 74,
+      "categoryName": "Urinary Catheters",
+      "divisions": [
+        53
+      ],
+      "divisionNames": [
+        "Urology"
+      ],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "STANDARD SUCTION CATHETER",
+      "referenceString": "4.28.1",
+      "category": 73,
+      "categoryName": "Suction Catheter",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "STANDARD ENTERAL FEEDING TUBES",
+      "referenceString": "4.29.1",
+      "category": 75,
+      "categoryName": "Enteral Feeding Tubes",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "SHORT-TERM HEMODIALYSIS CATHETERS",
+      "referenceString": "4.34.1",
+      "category": 76,
+      "categoryName": "Hemodialysis Catheters",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "???",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  }
+]
