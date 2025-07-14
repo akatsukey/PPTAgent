@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "ANESTHASIA",
+    "referenceString": "",
+    "standard": "???",
+    "description": "",
+    "tableInMd": "",
+    "category": null,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}
