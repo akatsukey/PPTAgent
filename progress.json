@@ -1,0 +1,90 @@
+[
+  {
+    "slide_number": 5,
+    "action": "skip",
+    "timestamp": "2025-07-14T15:42:15.460229",
+    "product_name": "SYRINGES",
+    "strapi_id": null,
+    "error": null
+  },
+  {
+    "slide_number": 6,
+    "action": "skip",
+    "timestamp": "2025-07-14T15:54:23.147606",
+    "product_name": " CONVENTIONAL HYPODERMIC 3-PARTS SYRINGES",
+    "strapi_id": null,
+    "error": null
+  },
+  {
+    "slide_number": 7,
+    "action": "extract",
+    "timestamp": "2025-07-14T15:54:42.110060",
+    "product_name": " INSULINE SYRINGES",
+    "strapi_id": null,
+    "error": null
+  },
+  {
+    "slide_number": 7,
+    "action": "upload",
+    "timestamp": "2025-07-14T15:58:03.276315",
+    "product_name": " INSULINE SYRINGES",
+    "strapi_id": 344,
+    "error": null
+  },
+  {
+    "slide_number": 7,
+    "action": "upload",
+    "timestamp": "2025-07-14T16:12:41.192972",
+    "product_name": " INSULINE SYRINGES",
+    "strapi_id": 345,
+    "error": null
+  },
+  {
+    "slide_number": 8,
+    "action": "upload",
+    "timestamp": "2025-07-14T16:22:00.932979",
+    "product_name": "CONVENTIONAL HYPODERMIC 2-PARTS SYRINGES",
+    "strapi_id": 346,
+    "error": null
+  },
+  {
+    "slide_number": 8,
+    "action": "skip",
+    "timestamp": "2025-07-14T19:30:35.804230",
+    "product_name": "CONVENTIONAL HYPODERMIC 2-PARTS SYRINGES",
+    "strapi_id": null,
+    "error": null
+  },
+  {
+    "slide_number": 9,
+    "action": "upload",
+    "timestamp": "2025-07-14T19:31:14.827699",
+    "product_name": " LIGHT PROOF HYPODERMIC SYRINGES",
+    "strapi_id": 347,
+    "error": null
+  },
+  {
+    "slide_number": 10,
+    "action": "delete",
+    "timestamp": "2025-07-14T19:33:25.283817",
+    "product_name": "ORAL/FEEDING SYRINGES",
+    "strapi_id": 342,
+    "error": null
+  },
+  {
+    "slide_number": 10,
+    "action": "delete_recreate",
+    "timestamp": "2025-07-14T19:35:02.918577",
+    "product_name": "ORAL/FEEDING SYRINGES",
+    "strapi_id": 348,
+    "error": null
+  },
+  {
+    "slide_number": 11,
+    "action": "upload",
+    "timestamp": "2025-07-14T19:36:08.682652",
+    "product_name": " INFUSION PUMP SYRINGES",
+    "strapi_id": 349,
+    "error": null
+  }
+]

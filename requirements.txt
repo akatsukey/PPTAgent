@@ -1,3 +1,6 @@
 openai
 python-pptx
 python-dotenv
+requests
+rich
+python-slugify

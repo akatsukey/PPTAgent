@@ -350,10 +350,18 @@ Extract general product information from this slide and return ONLY this JSON fo
   "name": "",                ★ Only the product title, do NOT include slide number or division word
   "referenceString": "",     ★ The numeric code at the very start of the title (e.g. 4.1.1)
   "standard": "",            ★ Text after "Manufacturing Standard:" (may be "???" if missing)
-  "description": "",         ★ MARKDOWN: 4 subtitles (COMPOSITION, STERILIZATION, PRESENTATIONS, PERFORMANCE) each followed by bullet lines
+  "description": "",         ★ MARKDOWN FORMAT: Use ## for section headers and - for bullet points. Example:
+                             ★ ## COMPOSITION
+                             ★ - Barrel + Plunger: Medical Grade Polypropylene (PP)
+                             ★ - Gasket: Isoprene Latex-Free Rubber and Natural Rubber
+                             ★ 
+                             ★ ## STERILIZATION
+                             ★ - Ethylene Oxide (EO) Sterile
   "categoryGuess": "",       ★ Choose ONE from {list(category_map.keys())}
   "divisionGuess": ""        ★ Choose ONE from {list(division_map.keys())}
 }}
+
+IMPORTANT: For the description field, format each section with ## headers and - bullet points exactly as shown in the example above.
 
 Return ONLY the JSON.
 
