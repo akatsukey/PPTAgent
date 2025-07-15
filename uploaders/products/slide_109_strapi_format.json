@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "PE APRONS",
+    "referenceString": "4.14.10",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% Polypropylene (PE)\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- Various Colors\n- Various material thicknesses\n\n## PERFORMANCE\n- One size\n- Durable\n- Easy to put on and take off\n- Fasteners at the waist",
+    "tableInMd": "| Film Quality | Dimensions |\n|---|---|\n| 30 Microns | 70 x 110cm |\n| 45 Microns | 90 x 150cm |",
+    "category": 72,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

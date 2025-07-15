@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Some Important Meanings",
+    "referenceString": "5.9",
+    "standard": "???",
+    "description": "## MEANING OF 'ASEPTIC'\n- In medicine, aseptic means “free from living microorganisms that can cause disease (aka germs like bacteria or viruses).”\n- Aseptic gowning refers to the use of medical clothing to keep environments germ-free and avoid the transfer of germs.\n- Creating a germ-free environment is important in medicine but also in food packaging, especially for drinks, like milk and fruit juice, which can grow bacteria if they’re not prepared and stored properly.\n\n## MEANING OF 'HYPOALLERGENIC'\n- A product or material that is less likely to cause allergic reactions.\n- Hypoallergenic skincare: Products formulated to minimize allergic reactions.\n- Hypoallergenic gloves (e.g., nitrile gloves): Designed for people allergic to latex.\n- Hypoallergenic fabrics: Used for sensitive skin or allergy-prone individuals.\n\n## MEANING OF 'STERILE'\n- Medical and Hygiene Context: Free from bacteria, viruses, fungi, or any other microorganisms.\n- Example: Sterile surgical instruments (Instruments that have been disinfected to prevent infections).\n- In the medical field, sterility is crucial for preventing infections in surgeries, injections, and medical devices.\n\n## MEANING OF 'HYDROPHOBIC FILTER'\n- A filter that repels water while allowing the passage of gases or air.\n- Medical Devices: Used in ventilators, IV systems, and bacterial filters to prevent fluid contamination.\n- Laboratories: Protects sensitive equipment from moisture while allowing airflow.\n- Industrial Use: In fuel filtration, hydrophobic filters block water but allow fuel to pass through.\n\n## DELIVERY TIME VS. GOODS READINESS TIME\n- Goods Readiness Time: This refers to the moment when the goods are fully prepared and available for pickup from the manufacturing facility at any time.\n- Delivery Time: This marks the moment when the goods leave the port of origin and commence their journey to the destination port.",
+    "tableInMd": "",
+    "category": 69,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

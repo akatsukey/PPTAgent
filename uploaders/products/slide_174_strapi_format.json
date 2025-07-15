@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Contact Us",
+    "referenceString": "6",
+    "standard": "???",
+    "description": "## MARKETS\n- LATINO AMERICA\n- USA\n- WESTERN EUROPE\n- AFRICA\n- MIDDLE EAST & ASIA\n\n## CONTACT DETAILS\n- Arce 867, piso 1ro C, CABA 1426, Argentina, +54 911 36834451\n- Wielandstr. 43, 12159 Berlin, Germany, T: +49 1573 143 0811\n- Room 708, Xintai Center T3, No. 1098 North Meiling Road, Putuo District, Post Code: 200333, Shanghai, P.R.China, Tel: +86 21 6094 3001/3002",
+    "tableInMd": "",
+    "category": null,
+    "divisions": [
+      null
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

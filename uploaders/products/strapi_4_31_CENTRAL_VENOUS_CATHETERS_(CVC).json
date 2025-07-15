@@ -1,0 +1,25 @@
+{
+  "name": "CENTRAL VENOUS CATHETERS (CVC)",
+  "referenceString": "4.31",
+  "category": 78,
+  "categoryName": "CENTRAL VENOUS CATHETERS (CVC)",
+  "divisions": [
+    47,
+    50
+  ],
+  "divisionNames": [
+    "Infusion",
+    "Diagnostic"
+  ],
+  "standard": "???",
+  "description": "## FEATURES\n- Standard\n- Side Hole\n- Soft Hub\n- Flexible Tubing\n- Soft Tip\n- Soft Tip\n\n## MATERIAL OF CATHETER\n- TPU (MEDICAL GRADE POLYURETHANE)\n\n## PROPERTIES\n- Flexibility: Our Central Venous Catheter is made of superior polyurethane with excellent elasticity, flow rate is secured in venous obstructions.\n- Soft and elasticity. After insertion into body, it will become soft of 50% under body temperature(37°C). Forming according to the shape of blood vessel, reduce the trauma and anti-kink.\n- Minimize the irritation of blood vessel\n- Inner and outer of the catheter is smooth to protect the blood vessel, and avoid the thrombosis, reduce the resistance of catheterization.\n- Catheter marking to show the length of insertion.\n- The radiopaque tube and tip facilitate catheter location when visualized by X-Ray.\n- Catheter is thin and smooth to minimize the effect on blood flow.\n- Catheter lumen spaced regularly to keep unblocked blood flowing.\n- Radiopaque, facilitates quick visualization under X-Ray.",
+  "tableInMd": "| Lumen | Catheter Size (Fr) | Catheter Length (cm) | Dilator | Guide Wire | Tubing Shape |\n|---|---|---|---|---|---|\n| Single Lumen | 24Ga | 5 | 4F x 5cm | 0.018\" x 43.4cm | Straight/Y NEEDLE 20Ga |\n|  |  | 8 |  |  |  |\n|  |  | 9 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 12 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  |  | 20 |  |  |  |\n|  | 22Ga | 5 |  | 0.018\" x 50cm | Straight/Y NEEDLE 20Ga |\n|  |  | 8 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.018\" x 60cm |  |\n|  |  | 30 |  | 0.018\" x 70cm |  |\n|  | 20Ga | 5 |  | 0.021\" x 50cm | Straight/Y NEEDLE 20Ga |\n|  |  | 8 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.021\" x 60cm |  |\n|  |  | 30 |  | 0.021\" x 70cm |  |\n|  | 18Ga | 5 | 5.5F x 6cm | 0.025\" x 50cm | Straight/Y NEEDLE 19Ga / 20Ga |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 8 |  | 0.025\" x 50cm |  |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 10 |  | 0.025\" x 50cm |  |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 13 |  | 0.025\" x 50cm |  |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 15 |  | 0.025\" x 50cm |  |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 16 |  | 0.025\" x 50cm |  |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 20 |  | 0.025\" x 60cm |  |\n|  |  |  |  | 0.021\" x 60cm |  |\n|  |  | 30 |  | 0.025\" x 70cm |  |\n|  |  |  |  | 0.021\" x 70cm |  |\n|  | 16Ga | 5 | 6F x 10cm | 0.032\" x 50cm | Straight/Y NEEDLE 18Ga |\n|  |  | 8 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  | 14Ga | 16 |  |  |  |\n|  |  | 20 |  | 0.032\" x 60cm |  |\n|  |  | 30 |  | 0.032\" x 70cm |  |\n|  |  | 13 | 8F x 10cm | 0.032\" x 50cm |  |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.032\" x 60cm |  |\n|  |  | 30 |  | 0.032\" x 70cm |  |\n| Double Lumen | 4Fr | 5 | 5.5F x 6cm | 0.018\" x 50cm | Straight/Y NEEDLE 20Ga |\n|  |  | 8 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.018\" x 60cm |  |\n|  |  | 30 |  | 0.018\" x 70cm |  |\n|  | 5Fr | 5 | 7F x 7cm | 0.021\" x 50cm |  |\n|  |  | 8 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.021\" x 60cm |  |\n|  |  | 30 |  | 0.021\" x 70cm |  |\n|  | 7Fr | 13 | 8F x 10cm | 0.035\" x 50cm | Straight/Y NEEDLE 18Ga |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.035\" x 60cm |  |\n|  |  | 30 |  | 0.035\" x 70cm |  |",
+  "images": [],
+  "PackagingInformation": {
+    "packing_per_inner_box": 0,
+    "inner_boxes_per_carton": 0,
+    "loading_capacity_20GP": 0,
+    "loading_capacity_40HC": 0,
+    "additional_notes": "Not specified"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Anesthesia",
+    "referenceString": "",
+    "standard": "???",
+    "description": "",
+    "tableInMd": "| HMEF |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|\n| Cat. No. | ADULT | ADULT ANGLED | PAEDIATRIC | PAEDIATRIC ANGLED | INFANT ANGLED | ADULT CORRUGATED PAPER | ADULT MECHANICAL HEPA |\n| Humidity Output | 31mg/H2O @ VT500ml | 31mg/H2O @ VT500ml | 31mg/H2O @ VT500ml | 31mg/H2O @ VT500ml | 31.5mg/H2O @ VT50ml | 25mg/H2O @ VT500ml | 31mg/H2O @ VT500ml |\n| Filtration Efficiency (%) | 99.999 | 99.999 | 99.999 | 99.999 | 99.999 | 999.999 | 999.999 |\n| Resistance | 100pa @ 60LPM | 130pa @ 60LPM | 120pa @ 15LPM | 110pa @ 15LPM | 190pa @ 10LPM | 100pa @ 30LPM | 140pa @ 30LPM |\n| Dead Space (ml) | 55ml | 66ml | 26ml | 32ml | 14ml | 55ml | 55ml |\n| Tidal Volume (ml) | 150-1500 | 200-1500 | 120-1500 | 120-1500 | >45 | 150-1500 | 150-1500 |\n| Connections | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22M/15F - 22F/15M |\n| Weight (g) | 27 | 31 | 19 | 18 | 9 | 27 | 40 |\n| Gas Monitoring Luer Port | Yes | Yes | Yes | Yes | Yes | Yes | Yes |",
+    "category": null,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

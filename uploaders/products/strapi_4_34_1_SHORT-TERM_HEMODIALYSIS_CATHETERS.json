@@ -1,0 +1,27 @@
+{
+  "name": "SHORT-TERM HEMODIALYSIS CATHETERS",
+  "referenceString": "4.34.1",
+  "category": 76,
+  "categoryName": "Hemodialysis Catheters",
+  "divisions": [
+    51,
+    59,
+    50
+  ],
+  "divisionNames": [
+    "Hemodialysis",
+    "Surgery",
+    "Diagnostic"
+  ],
+  "standard": "???",
+  "description": "## FEATURES\n- Soft tip: Tapered tip facilitates ease of insertion without use of peel-away sheath. Reduces vessel trauma during insertion\n- Radiopaque: Radiopaque, facilitates quick visualization under X-Ray.\n- Side holes: 2.5cm far from end hole reduces recircling and wall-suction. Minimizes risk of clot formation\n- Rotatable Suture Wing: Facilitates skin inspection. Avoid blood vessel wall-suction. Minimizes risk of exit infections. No tube-kinking occured\n- Silicone Extension Tube: Increases patient comfort, will not crimp over time, able to visualize fluid\n- Compound-packaging Tray: Various Accessories for choice\n- Multi-lumen available: Single, double, triple lumen\n- Inline Clamps: good flexibility. damage resistant. printed priming volumes\n- Made from PU (medical grade): Better flexibility and anti-kinking performance\n- Thermosensitive: softens as it warms to body temperature\n- Smooth inside an outside surface: avoid clot formation\n- Marking on catheter available\n- Pre-curved Type: More comfortable on patients",
+  "tableInMd": "| Lumen | Catheter Size (Fr) | Catheter Length (cm) | Dilator | Guide Wire | Tubing Shape |\n|---|---|---|---|---|---|\n| SINGLE LUMEN | 7Fr | 5 | 8F x 10cm | 0.035\" x 50cm | STRAIGHT |\n|  |  | 8 |  |  | CURVED |\n|  |  | 10 |  |  | STRAIGHT |\n|  |  | 13 |  |  | CURVED |\n|  |  | 16 |  |  | STRAIGHT |\n|  |  | 20 |  | 0.035\" x 60cm | CURVED |\n|  | 8Fr | 5 | 9F x 10cm | 0.038\" x 50cm | STRAIGHT |\n|  |  | 8 |  |  | CURVED |\n|  |  | 10 |  |  | STRAIGHT |\n|  |  | 13 |  |  | CURVED |\n|  |  | 16 |  |  | STRAIGHT |\n|  |  | 20 |  | 0.038\" x 60cm | CURVED |\n| DOUBLE LUMEN | 6.5Fr | 8 | 7F x 10cm | 0.021\" x 50cm | STRAIGHT |\n|  |  | 10 |  |  | CURVED |\n|  |  | 13 |  |  | STRAIGHT |\n|  |  | 16 |  |  | CURVED |\n|  |  | 20 |  | 0.021\" x 60cm | STRAIGHT |\n|  | 8.5Fr | 5 | 9F x 10cm | 0.025\" x 50cm | STRAIGHT |\n|  |  | 8 |  |  | CURVED |\n|  |  | 10 |  |  | STRAIGHT |\n|  |  | 13 |  |  | CURVED |\n|  |  | 16 |  |  | STRAIGHT |\n|  |  | 20 |  | 0.025\" x 60cm | CURVED |\n|  | 10Fr | 10 | 9F x 10cm | 0.038\" x 50cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 13 | 9F x 10cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 16 | 9F x 10cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 20 | 9F x 10cm | 0.038\" x 60cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  | 11.5Fr | 13 | 12F x 15cm | 0.038\" x 50cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 16 | 12F x 15cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 20 | 12F x 15cm | 0.038\" x 60cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 25 | 12F x 15cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  | 12Fr | 13 | 12F x 15cm | 0.038\" x 50cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 16 | 12F x 15cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 20 | 12F x 15cm | 0.038\" x 60cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  | 14Fr | 13 | 14F x 15cm | 0.038\" x 50cm | STRAIGHT |\n|  |  |  | 12F x 15cm |  | CURVED |\n|  |  | 16 | 14F x 15cm | 0.038\" x 60cm | STRAIGHT |\n|  |  |  | 12F x 15cm |  | CURVED |\n|  |  | 20 | 14F x 15cm | 0.038\" x 70cm | STRAIGHT |\n|  |  |  | 12F x 15cm |  | CURVED |\n| Triple Lumen | 12Fr | 13 | 12F x 15cm | 0.038\" x 50cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 16 | 12F x 15cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 20 | 12F x 15cm | 0.038\" x 60cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |",
+  "images": [],
+  "PackagingInformation": {
+    "packing_per_inner_box": 0,
+    "inner_boxes_per_carton": 0,
+    "loading_capacity_20GP": 0,
+    "loading_capacity_40HC": 0,
+    "additional_notes": "Not specified"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "RED-LATEX URETHRAL CATHETERS",
+    "referenceString": "4.16.6",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% Natural Rubber (Latex)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Red Color\n- 1- Way\n\n## PERFORMANCE\n- Highly Smoot Surface allowing successful introduction\n- Funnelled Tips",
+    "tableInMd": "| PEDIATRIC |  |  |\n|---|---|---|\n| Size (Fr/Ch) | Color Code | Length (mm) |\n| 6 | Light Green | 270 |\n| 8 | Blue | 270 |\n| 10 | Black | 270 |\n| ADULT |  |  |\n| Size (Fr/Ch) | Color Code | Length (mm) |\n| 12 | White | 400 |\n| 14 | Green | 400 |\n| 16 | Orange | 400 |\n| 18 | Red | 400 |\n| 20 | Yellow | 400 |\n| 22 | Violet | 400 |\n| 24 | Dark blue | 400 |",
+    "category": 74,
+    "divisions": [
+      53
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

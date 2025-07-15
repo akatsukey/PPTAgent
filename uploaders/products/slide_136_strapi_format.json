@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "FILTERS",
+    "referenceString": "4.24.2",
+    "standard": "??????????",
+    "description": "## PACKING\n- pc/inner box\n- inner box/Carton\n## LOADING CAPACITY\n- 20GP (29m3): …….. \n- 40HC (69m3): …….. \n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n## MATERIAL\n- Medical-grade EVA/PE material   or    Non-toxic PVC ??????\n## FEATURES\n- Available with gas bag and water traps\n- Available with extra limb\n- Different length available\n- Available with single and double lumen for therapies with additional additives",
+    "tableInMd": "|  | ELOCTROSTATIC FILTER |  |  |  |  |  |\n|---|---|---|---|---|---|---|\n|  | ADULT | ADULT ANGLED | ADULT | PAEDIATRIC | PAEDIATRIC ANGLED | INFGANT ANGLED |\n| Filtration Efficiency (%) | 99.999 | 99.999 | 99.999 | 99.999 | 99.999 | 99.999 |\n| Humidity Output | N/A | N/A | N/A | N/A | N/A | N/A |\n| Resistance | 100pa @ 30LPM | 100pa @ 30LPM | 60pa @ 30LPM | 120pa @ 15LPM | 100pa @ 15LPM | 160pa @ 7.5LPM |\n| Dead Space (ml) | 32ml | 30ml | 30ml | 26ml | 32ml | 13ml |\n| Tidal Volume (ml) | 90-1500 | 90-1500 | 90-1500 | 100-1500 | 90-1500 | >45ml |\n| Connections | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22F/15M-22M | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22M/15F - 22F |\n| Weight (g) | 23 | 23 | 23 | 18 | 19 | 9 |\n| Gas Monitoring Luer Port | Yes | Yes | No | Yes | Yes | Yes |",
+    "category": null,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

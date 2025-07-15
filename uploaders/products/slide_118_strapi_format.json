@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "NELATON CATHETERS",
+    "referenceString": "4.16.7",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Standard and Atraumatic Eyes Tips\n- PVC and DEHP-FREE PVC\n\n## PERFORMANCE\n- Smooth surface allowing successful introduction\n- Central positioned Balloon",
+    "tableInMd": "| MALE Type |  |\n|---|---|\n| Size (Fr/Ch) | Color Code |\n| 6 | Light Green |\n| 8 | Blue |\n| 10 | Black |\n| 12 | White |\n| 14 | Green |\n| 16 | Orange |\n| 18 | Red |\n| 20 | Yellow |\n| 22 | Violet |\n| 24 | Dark blue |",
+    "category": 74,
+    "divisions": [
+      53
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

@@ -1,19 +1,15 @@
 [
   {
     "data": {
-      "name": "HYPODERMIC 3-PARTS SYRINGES",
-      "referenceString": "4.1.1",
-      "category": 59,
-      "categoryName": "Syringes",
+      "name": "MALE EXTERNAL CATHETERS",
+      "referenceString": "4.16.9",
+      "standard": "??????????",
+      "description": "## COMPOSITION\n- 100% Silicon\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Latex free\n- Short/Medium/Long Sizes\n\n## PERFORMANCE\n- self-adhesive sheath\n- Soft and Skin-friendly\n- Highly Transparent",
+      "tableInMd": "| Type | Shape | Size (mm) |\n|---|---|---|\n| STANDARD |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |\n| SPECIAL |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |\n| EXTRA |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |",
+      "category": 74,
       "divisions": [
-        48
+        53
       ],
-      "divisionNames": [
-        "Injectables"
-      ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -143,8 +139,8 @@
         "Infusion"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber and Natural Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Lock and Luer Slip Tips\n- With and Without Needle\n- Latex and latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Clear graduation printing technology\n- High Transparency and UV-Light Proof colour Barrel\n- Fit ALL-STANDARD pumps brands worldwide\n- Smooth sliding\n- Smooth Surface\n\n## INJECTION\n\n## ANESTHESIA",
+      "tableInMd": "| 20ml | Luer Lock Tip | Blister | Soft Box / Hard Box |\n|---|---|---|---|\n| 30ml | Luer Lock Tip | Blister | Soft Box / Hard Box |\n| 50ml | Luer Lock Tip | Blister | Soft Box / Hard Box |\n| 60ml | Luer Lock Tip | Blister | Soft Box / Hard Box |\n| 100ml | Luer Lock Tip | Blister | Soft Box / Hard Box |\n| 120ml | Luer Lock Tip | Blister | Soft Box / Hard Box |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -168,8 +164,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber\n\n## STERILIZATION\n- Gamma Sterilization (R)\n\n## PRESENTATIONS\n- Luer Lock and Luer Slip Tips\n- With and Without Needle\n- Latex -free Gasket\n- Customizable graduation including logo\n- Including Needle Safe Silicon Rubber Dice\n- Including Syringe Luer Cap\n\n## PERFORMANCE\n- Ultra-precision sprayed solid heparin lithium\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding\n- Smooth Surface\n- Luer cap\n- Silicon Rubber",
+      "tableInMd": "| Syringe Size | Needle Size | Blood Preset Volume | Heparin Lithium UI |\n|---|---|---|---|\n| 1ml | 0.5mm x 16mm | 0.6ml | 30IU |\n| 3ml | 0.5mm x 16mm | 1.6ml | 80IU |\n| 3ml | 0.6mm x 16mm | 1.6ml | 80IU |\n| 3ml | 0.5mm x 25mm | 1.6ml | 80IU |\n| 3ml | 0.6mm x 32mm | 1.6ml | 80IU |\n| 3ml | 0.7mm x 25mm | 1.6ml | 80IU |\n| 3ml | 0.7mm x 32mm | 1.6ml | 80IU |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -193,8 +189,8 @@
         "Injectables"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polycarbonate (PC)\n- Gasket: Isoprene Latex-Free Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Lock Tip\n- With and Without Needle\n- Latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding\n- Smooth Surface\n\n## INJECTION\n## AESTHETIC TREATMENT",
+      "tableInMd": "| 1ml | Luer Lock Tip | Blister | Hard Box |\n|---|---|---|---|\n| 3ml | Luer Lock Tip | Blister | Hard Box |\n| 5ml | Luer Lock Tip | Blister | Hard Box |\n| 10ml | Luer Lock Tip | Blister | Hard Box |\n| 20ml | Luer Lock Tip | Blister | Hard Box |\n| 30ml | Luer Lock Tip | Blister | Hard Box |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -218,8 +214,8 @@
         "Urology"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber and Natural Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Slip Tips with Cap\n- Latex-free Gasket\n- Colour coded caps\n- Customizable graduation including logo\n- Concentric Luer Tips\n\n## PERFORMANCE\n- Easy to use\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding",
+      "tableInMd": "| LUER LOCK and LUER SLIP TIPS | Syringes with water, to be used to fill the balloon from a balloon catheter only |\n|---|---|\n|  | Syringe water luer 10 ml sterile |\n|  | Syringe water luer 20 ml sterile |\n|  | Syringes with water + glycerine, to be used to fill the balloon from a balloon catheter only |\n|  | Syringe water with 10% glycerine luer 10 ml sterile |\n|  | Syringe water with 10% glycerine luer 10 ml sterile |\n|  | Syringes with NaCl 0,9%, for flushing only, may be used in a sterile field |\n|  | Syringe luer lock 5 ml filled with 3 ml NaCI 0,9% sterile |\n|  | Syringe luer lock 10 ml NaCI 0,9% sterile |\n|  | Syringe luer lock 10 ml filled with 5 ml NaCl 0,9% sterile |\n|  | Syringe luer lock 20 ml NaCI 0,9% sterile |\n|  | Syringe luer Lock 10 ml filled with 3 ml NaCl 0,9% sterile |\n|  | Syringes with NaCl 0,9%, for flushing only. |\n|  | Syringe luer lock 5 ml filled with 3 ml NaCI 0,9% sterile & NS Outside |\n|  | Syringe luer lock 10 ml NaCI 0,9% sterile & NS Outside |\n|  | Syringe luer lock 10 ml filled with 5 ml NaCl 0,9% sterile & NS Outside |\n|  | Syringe luer lock 20 ml NaCI 0,9% sterile & NS Outside |\n|  | Syringe luer Lock 10 ml filled with 3 ml NaCl 0,9% sterile & NS Outside |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -243,8 +239,8 @@
         "Injectables"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Lock and Luer Slip Tips\n- Fixed, Mounted Needle and Without Needle\n- Latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Easy Activation Safety Mechanism\n- inviolable closure technology\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding\n- Smooth Surface\n- CLICK AND SET\n- INJECTION\n- EXTRA SAFE",
+      "tableInMd": "| 1ml | Without / With Mounted | Blister | Soft Box / Hard Box |\n|---|---|---|---|\n| 2ml | Without / With Mounted | Blister | Soft Box / Hard Box |\n| 3ml | Without / With Mounted | Blister | Soft Box / Hard Box |\n| 5ml | Without / With Mounted | Blister | Soft Box / Hard Box |\n| 6ml | Without / With Mounted | Blister | Soft Box / Hard Box |\n| 10ml | Without / With Mounted | Blister | Soft Box / Hard Box |\n| 12ml | Without / With Mounted | Blister | Soft Box / Hard Box |\n| 20ml | Without / With Mounted | Blister | Soft Box / Hard Box |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -268,8 +264,8 @@
         "Injectables"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger + Needle Cover: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber\n\n## STERILIZATION\n- Gamma Sterilization (R)\n\n## PRESENTATIONS\n- Luer Lock and Luer Slip Tips\n- Fixed, Mounted Needle and Without Needle\n- Latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Easy Activation Safety Mechanism\n- inviolable closure technology\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding\n- Smooth Surface\n- CLICK AND SET\n- INJECTION\n- EXTRA SAFE",
+      "tableInMd": "| 1ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |\n|---|---|---|---|\n| 2ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |\n| 3ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |\n| 5ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |\n| 6ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |\n| 10ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -295,8 +291,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Lock and Luer Slip Tips\n- With and Without Needle\n- Latex -free Gasket\n- Customizable graduation including logo\n- Including Needle Safe Silicon Rubber Dice\n- Including Syringe Luer Cap\n\n## PERFORMANCE\n- Easy Activation Safety Mechanism\n- inviolable closure technology\n- Ultra-precision sprayed solid heparin lithium\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding\n- Smooth Surface\n- Luer cap\n- Silicon Rubber\n## DIAGNOSTIC\n- EXTRA SAFE",
+      "tableInMd": "| Syringe Size | Needle Size | Blood Preset Volume | Heparin Lithium UI |\n|---|---|---|---|\n| 1ml | 0.5mm x 16mm | 0.6ml | 30IU |\n| 3ml | 0.5mm x 16mm | 1.6ml | 80IU |\n| 3ml | 0.6mm x 16mm | 1.6ml | 80IU |\n| 3ml | 0.5mm x 25mm | 1.6ml | 80IU |\n| 3ml | 0.6mm x 32mm | 1.6ml | 80IU |\n| 3ml | 0.7mm x 25mm | 1.6ml | 80IU |\n| 3ml | 0.7mm x 32mm | 1.6ml | 80IU |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -322,8 +318,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Lock Tip\n- Fixed, Mounted Needle and Without Needle\n- Latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Easy Activation Safety Mechanism\n- inviolable closure technology\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding\n- Smooth Surface\n- CLICK AND SET\n- INJECTION\n- EXTRA SAFE\n- DIAGNOSTIC",
+      "tableInMd": "| 1ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |\n|---|---|---|---|\n| 2ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |\n| 3ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |\n| 5ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |\n| 6ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |\n| 10ml | Without / With Mounted Needle | Blister | Soft Box / Hard Box |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -349,8 +345,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Mounted Needle\n- Latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Easy Activation Safety Mechanism\n- inviolable closure technology\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding\n- Smooth Surface\n\n## CLICK AND SET\n\n## INJECTION\n\n## EXTRA SAFE\n\n## DIAGNOSTIC",
+      "tableInMd": "| 1ml | With Fixed Needle | Blister | Soft Box / Hard Box |\n|---|---|---|---|\n| 2ml | With Fixed Needle | Blister | Soft Box / Hard Box |\n| 3ml | With Fixed Needle | Blister | Soft Box / Hard Box |\n| 5ml | With Fixed Needle | Blister | Soft Box / Hard Box |\n| 6ml | With Fixed Needle | Blister | Soft Box / Hard Box |\n| 10ml | With Fixed Needle | Blister | Soft Box / Hard Box |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -376,8 +372,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Needle Hub\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- 3 and 5 bevelled tip sharpness technology\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Thin wall technology => pressure reduction",
+      "tableInMd": "| The Type of injection | Function | Gauge | Needle length |\n|---|---|---|---|\n| Intramuscular injection | It delivers medicine directly into the muscles. | needles vary between 20g – and 29g | 13 mm to 16 mm |\n| Intradermal injection | It is used to deliver substance just beneath the dermis. It is preferably used to test skin allergies. | needles vary between 25g and 30g | 8mm to 13mm |\n| Subcutaneous injection | It is used to inject medicine in the subcutaneous layer between skin and muscles, for example, insulin in diabetes patients. | needles vary between25g and 30g | 1/2” – 5/8” or 4mm to 8mm. |\n| Intravenous injection | It is used to inject directly into the veins | needles vary between 20g and 25g | 1/2” or longer |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -405,8 +401,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Needle Hub\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- 3 and 5 bevelled tip sharpness technology\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Thin wall technology => pressure reduction\n\n## INJECTION\n- DIABETES CARE",
+      "tableInMd": "| SIZE | COLOR CODE | LENGTH |\n|---|---|---|\n| 30G |  | 8mm |\n| 31G |  | 4mm |\n|  |  | 5mm |\n|  |  | 6mm |\n|  |  | 8mm |\n| 32G |  | 4mm |\n|  |  | 5mm |\n|  |  | 6mm |\n| 33G |  | 4mm |\n| 34G |  | 4mm |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -434,8 +430,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Needle Hub\n- Isoprene Latex-Free Rubber Holder’s Needle’s Cover\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- 3 bevelled tip sharpness technology\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Thin wall technology => pressure reduction",
+      "tableInMd": "| Size | Hub Color |\n|---|---|\n| 20 Gauge x 1\" | Yellow |\n| 20 Gauge x 1½\" |  |\n| 21 Gauge x 1\" | Green |\n| 21 Gauge x 1½\" |  |\n| 22 Gauge x 1\" | Black |\n| 22 Gauge x 1½\" |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -463,8 +459,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Needle Hub\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance",
+      "tableInMd": "| Gauge x Length | Diameter x Length (mm) |\n|---|---|\n| 18G x 1 1/2 | 1,2 x 40 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -490,8 +486,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Needle Hub and Cover\n- Paper label Seal\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- American and European Luer\n- Long and Short Lengths\n\n## PERFORMANCE\n- 3 bevelled tip sharpness technology\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Thin wall technology => pressure reduction\n\n## INJECTION\n- DENTAL CARE",
+      "tableInMd": "| Reference | ​Cannula |  |  | Hub |  |\n|---|---|---|---|---|---|\n|  | Gauge (G) | Effective Length (mm) | Length at cartridge (mm)​ | ​Type | Colour |\n| DN*M2541 | 25 | 41 | ​10.7 | Inch/Imperial | Orange |\n| DN*M2721 | 27 | 21 | 10.7​ | Inch/Imperial | Grey |\n| DN*M2722 | 27 | 22 | ​10.7 | Inch/Imperial | Grey |\n| DN*M2730 | 27 | 30 | ​10.7 | Inch/Imperial | Grey |\n| DN*M2735 | 27 | 35 | ​10.7 | Inch/Imperial | Grey |\n| DN*M2741 | 27 | 41 | 10.7​ | Inch/Imperial | Grey |\n| DN*M3016 | 30 | 16 | 10.7​ | Inch/Imperial | Yellow |\n| DN*M3019 | 30 | 19 | ​10.7 | Inch/Imperial | Yellow​ |\n| DN*M3021 | 30 | 21 | ​10.7 | Inch/Imperial​ | Yellow |\n| ​DN*M3022 | ​30 | ​22 | ​10.7 | ​Inch/Imperial | ​Yellow​ |\n| DN*M2508F | 25 | 8 | ​10.7 | Metric | Orange |\n| DN*M2535F | 25 | 35 | ​10.7 | Metric | Orange |\n| DN*M2716F | 27 | 16 | 10.7​ | Metric | Grey |\n| DN*M2721B | 27 | 21 | ​13.2 | Metric | Grey |\n| DN*M2721F | 27 | 21 | ​10.7 | Metric | Grey |\n| DN*M2735B | 27 | 35 | ​13.2 | Metric | Grey |\n| DN*M3013B | 30 | 13 | ​13.2 | Metric | Yellow |\n| DN*M3013F | 30 | 13 | ​10.7 | Metric | Yellow |\n| DN*M3016B | 30 | 16 | ​13.2 | Metric | Yellow |\n| DN*M3016F | 30 | 16 | ​10.7 | Metric | Yellow |\n| DN*M3021B | 30 | 21 | ​13.2 | Metric | Yellow |\n| DN​*M3021F | 30 | 21 | ​10.7 | Metric | Yellow |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -517,8 +513,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Needle Hub and Needle Cover\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- Easy Activation Safety Mechanism\n- inviolable closure technology\n- 3 and 5 bevelled tip sharpness technology\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Thin wall technology => pressure reduction\n\n## CLICK AND SET\n\n## INJECTION\n\n## EXTRA SAFE",
+      "tableInMd": "| Gauge\u000bsize | OD×Length\u000b(mm) | Color\u000bcoding | Packaging |  |  | Container Load |  |\n|---|---|---|---|---|---|---|---|\n|  |  |  | Primary container | Secondary container | Storage container | 20\"GP | 40\"HQ |\n| 30G × 1/2\" | 0.30×13 | Yellow | Blister | 100 pcs / Inner box | 10,000 pcs / Carton | 3250000 pcs | 7750000 pcs |\n| 27G × 1/2\" | 0.40×13 | Grey | Blister |  |  |  |  |\n| 26G × 1/2\" | 0.45×13 | Brown | Blister |  |  |  |  |\n| 26G × 5/8\" | 0.45×16 |  | Blister |  |  |  |  |\n| 26G × 1\" | 0.45×25 |  | Blister |  |  |  |  |\n| 25G × 5/8\" | 0.50×16 | Orange | Blister |  |  |  |  |\n| 25G × 1\" | 0.50×25 |  | Blister |  |  |  |  |\n| 24G × 3/4\" | 0.55×19 | Purple | Blister |  |  |  |  |\n| 24G × 1\" | 0.55×25 |  | Blister |  |  |  |  |\n| 23G × 1\" | 0.60×25 | Blue | Blister |  |  |  |  |\n| 23G × 1 1/2\" | 0.60×38 |  | Blister |  |  |  |  |\n| 22G × 1\" | 0.70×25 | Black | Blister |  |  |  |  |\n| 22G × 1 1/4\" | 0.70×32 |  | Blister |  |  |  |  |\n| 22G × 1 1/2\" | 0.70×38 |  | Blister |  |  |  |  |\n| 21G × 1\" | 0.80×25 | Green | Blister |  |  |  |  |\n| 21G × 1 1/4\" | 0.80×32 |  | Blister |  |  |  |  |\n| 21G × 1 1/2\" | 0.80×38 |  | Blister |  |  |  |  |\n| 21G × 2\" | 0.80×50 |  | Blister |  |  |  |  |\n| 20G × 1\" | 0.90×25 | Yellow | Blister |  |  |  |  |\n| 20G × 1 1/2\" | 0.90×38 |  | Blister |  |  |  |  |\n| 18G × 1\" | 1.20×25 | Pink | Blister |  |  |  |  |\n| 18G × 1 1/2\" | 1.20×38 |  | Blister |  |  |  |  |\n| 19G × 1\" | 1.10×25 | Cream | Blister |  |  |  |  |\n| 19G × 1 1/2\" | 1.10×38 |  | Blister |  |  |  |  |\n| 19G × 2\" | 1.10×50 |  | Blister |  |  |  |  |\n| 16G × 1 1/2\" | 1.60×38 | White | Blister |  |  |  |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -544,8 +540,8 @@
         "Diabetis care"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Needle Hub\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- Easy Activation Safety Mechanism\n- inviolable closure technology 3 and 5 bevelled tip sharpness technology\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Thin wall technology => pressure reduction\n\n## CLICK AND SET\n## INJECTION\n## DIABETES CARE\n## EXTRA SAFE",
+      "tableInMd": "| SIZE | COLOR CODE | LENGTH |\n|---|---|---|\n| 30G |  | 8mm |\n| 31G |  | 4mm |\n|  |  | 5mm |\n|  |  | 6mm |\n|  |  | 8mm |\n| 32G |  | 4mm |\n|  |  | 5mm |\n|  |  | 6mm |\n| 33G |  | 4mm |\n| 34G |  | 4mm |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -571,8 +567,8 @@
         "Diabetis care"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Needle Hub and Needle Cover\n- Isoprene Latex-Free Rubber Holder’s Needle’s Cover\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- Easy Activation Safety Mechanism\n- inviolable closure technology\n- 3 bevelled tip sharpness technology\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Thin wall technology => pressure reduction\n- CLICK AND SET\n- DIAGNOSTIC\n- EXTRA SAFE",
+      "tableInMd": "| Size | Hub Color |\n|---|---|\n| 20 Gauge x 1\" | Yellow |\n| 20 Gauge x 1½\" |  |\n| 21 Gauge x 1\" | Green |\n| 21 Gauge x 1½\" |  |\n| 22 Gauge x 1\" | Black |\n| 22 Gauge x 1½\" |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -598,8 +594,8 @@
         "Diabetis care"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polyethylene (PE) Wings\n- Polypropylene (PP) Connector and Cap\n- PVC and DEHP-Free Tubing\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Male Luer Lock and holder’s Luer Connector + Cap\n\n## PERFORMANCE\n- 3 bevelled tip sharpness technology\n- Soft and anti-slip Surface colored Fixiation Wings\n- High Transparency and Memory Tubing\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance",
+      "tableInMd": "| Gauge | Flow (ml/min) |\n|---|---|\n| 27G | 2 |\n| 25G | 4 |\n| 23G | 11 |\n| 21G | 22 |\n| 19G | 43 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -625,8 +621,8 @@
         "Diabetis care"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polyethylene (PE) Wings\n- Polypropylene (PP) Connector, Cap and Needle Cover\n- PVC and DEHP-Free Tubing\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Male Luer Lock and holder’s Luer Connector + Cap\n\n## PERFORMANCE\n- Easy Activation Safety Slide Mechanism\n- inviolable closure technology\n- 3 bevelled tip sharpness technology\n- Soft and anti-slip Surface colored Fixiation Wings\n- High Transparency and Memory Tubing\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n\n## CLICK AND SET\n\n## INFUSION\n\n## EXTRA SAFE",
+      "tableInMd": "| Gauge | Flow (ml/min) |\n|---|---|\n| 27G | 2 |\n| 25G | 4 |\n| 23G | 11 |\n| 21G | 22 |\n| 19G | 43 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -652,8 +648,8 @@
         "Diabetis care"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polyethylene (PE) Wings\n- Polycarbonate (PC) Body\n- PVC and DEHP-Free Tubing\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Male Luer Lock and holder’s Luer Connector + Cap\n\n## PERFORMANCE\n- Easy Activation Safety Slide Mechanism\n- inviolable closure technology\n- 3 bevelled tip sharpness technology\n- Soft and anti-slip Surface colored Fixiation Wings\n- High transparency Body / Easy Detectable Blood Flash\n- High Transparency and Memory Tubing\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance",
+      "tableInMd": "| Gauge | Flow (ml/min) |\n|---|---|\n| 27G | 2 |\n| 25G | 4 |\n| 23G | 11 |\n| 21G | 22 |\n| 19G | 43 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -681,8 +677,8 @@
         "Diabetis care"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polypropylene (PP)\n- Stainless Steel\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Regulated Spring Activation Concept\n\n## PERFORMANCE\n- Easy Activation Safety Mechanism\n- inviolable closure technology\n- Electronic bevel and 100% medical grade stainless steel needle\n- Smooth Surface while outstanding Grip\n- Low Pain experience",
+      "tableInMd": "| Specifications | Puncture Depth | Volume Reference |\n|---|---|---|\n| 30G | 1.8mm |  |\n| 28G | 1.8mm |  |\n| 26G | 1.8mm |  |\n| 21G | 1.8mm |  |\n| 21G | 2.2mm |  |\n| 18G Knife Needle | 1.8mm |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -708,8 +704,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polypropylene (PP)\n- Stainless Steel\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Regulated Spring Activation Concept\n\n## PERFORMANCE\n- Easy Activation Safety Mechanism\n- inviolable closure technology\n- Electronic bevel and 100% medical grade stainless steel needle\n- Smooth Surface while outstanding Grip\n- Low Pain experience",
+      "tableInMd": "| Incision Depth | Incision Width | Volume Reference |\n|---|---|---|\n| 0.85mm | 1.75mm |  |\n| 1.0mm | 2.5mm |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -735,8 +731,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polypropylene (PP)\n- Stainless Steel\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- Electronic bevel and 100% medical grade stainless steel needle\n- Smooth Surface\n- Low Pain experience",
+      "tableInMd": "| Specifications | Volume Reference |\n|---|---|\n| 33G |  |\n| 30G |  |\n| 28G |  |\n| 26G |  |\n| 23G |  |\n| 21G |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -789,8 +785,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- PVC, PVC DEHP-FREE (Non-Phthalate) and PVC-FREE\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Fully Customizable Configurations\n- Gravity and Pump\n- TRANSPARENT and UV-LIGHT PROOF Tubing Finish\n- Soft and Hard Tubing\n\n## PERFORMANCE\n- High Tube Memory kink-resistant\n- Clear Tube and Chamber\n- Clean shaped smooth surfaced components",
+      "tableInMd": "| DRIP CHAMBER | AIR-VENT | FILTER | TUBING | CLAMP | ROLLER CLAMP | INJECTION Y-SITE | ACCESSORIES | CONNECTOR | PROTECTIVE CONNECTOR'S CAP | INDIVIDUAL PACKAGING | INNER PACKAGING |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| MEDIUM / 3 CHANELS | STANDARD | STANDARD | PVC - PREMIUM TRANSPARENT / RIGID | SLIDE | ABS - MEDIUM | LONG / LATEX | FLOW REGULATOR | LUER SLIP / TRANSPARENT | STANDARD | BLISTER | INNER BAG |\n| MEDIUM / MONO-CHANEL | WITH SPRING EFFECT | SAFETY | PVC - PREMIUM OPAC / MEMORY | ROBERT | ABS - MEDIUM WITH SVS HOLDER | LONG / LATEX-FREE | FLUID FILTER | LUER LOCK | LUER LOCK CAP | POUCH | SOFT INNER BOX |\n| MEDIUM WINGED / 3 CHANELS | N/A |  | DEHP-FREE PVC - PREMIUM OPAC / MEMORY |  | ABS - LONG | PREMIUM WITH PROTECTION / LATEX-FREE | 3-WAY STOP COCK | ROTATIVE LUER LOCK | HYDROPHOBIC FILTERED |  | HARD INNER BOX |\n| MEDIUM WINGED / MONO-CHANEL |  |  | DEHP-FREE PVC - PREMIUM TRANSPARENT / RIGID |  | ABS - LONG WITH SVS HOLDER | NEGATIVE NEEDLE-FREE |  |  | NEEDLE |  |  |\n| PREMIUM / 3 CHANELS |  |  | PVC FREE - PREMIUM OPAC / MEMORY |  | ABS - PREMIUM WITH SPIKE HOLDER | POSITIVE NEEDLE-FREE |  |  |  |  |  |\n| PREMIUM / MONO-CHANEL |  |  |  |  |  | NEUTRAL NEEDLE-FREE |  |  |  |  |  |\n| PREMIUM WINGED / 3 CHANELS |  |  |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX |  |  |  |  |  |\n| PREMIUM WINGED / MONO-CHANEL |  |  |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX-FREE |  |  |  |  |  |\n| PREMIUM DOUBLE SOFT-HARD / MONO-CHANEL |  |  |  |  |  |  |  |  |  |  |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -816,8 +812,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- PVC, PVC DEHP-FREE (Non-Phthalate) and PVC-FREE\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Fully Customizable Configurations\n- Gravity and Pump\n- TRANSPARENT and UV-LIGHT PROOF Tubing Finish\n- Soft and Hard Tubing\n\n## PERFORMANCE\n- High Tube Memory kink-resistant\n- Clear Tube and Chamber\n- Clean shaped smooth surfaced components",
+      "tableInMd": "| SPIKE | CLAMP | CHAMBER | FILTER | TUBING | ROLLER CLAMP | INJECTION Y-SITE | ACCESSORIES | CONNECTOR | PROTECTIVE CONNECTOR'S CAP | INDIVIDUAL PACKAGING | INNER PACKAGING |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| WITH AIR-VENT | SLIDE | 100ML / 20 DROPS MACRO | STANDARD | PVC - STANDAR TRANSPARENT / RIGID | PE - ROLLER | SHORT / LATEX | FLOW REGULATOR | LUER SLIP / WHITE | STANDARD | POLYBAG | INNER BAG |\n| WITH AIR-VENT AND WINGS | ROBERT | 100ML /20 DROPS MACRO WITH INJECTION SITE | SAFETY | PVC - STANDARD OPAC / MEMORY | PE - ROLLER WITH SVS HOLDER | SHORT / LATEX-FREE | FLUID FILTER | LUER SLIP / TRANSPARENT | LUER LOCK CAP | BLISTER | SOFT INNER BOX |\n|  |  | 100ML /20 DROPS MACRO WITH NEEDLE FREE INJECTION SITE | N/A | DEHP-FREE PVC - STANDARD TRANSPARENT / RIGID | ABS - SHORT | LONG / LATEX | 3-WAY STOP COCK | LUER LOCK | HYDROPHOBIC FILTERED | POUCH | HARD INNER BOX |\n|  |  | 100ML / 60 DROPS MICRO |  | DEHP-FREE PVC - STANDARD OPAC / MEMORY | ABS - SHORT WITH SVS HOLDER | LONG / LATEX-FREE |  | ROTATIVE LUER LOCK | NEEDLE |  |  |\n|  |  | 100ML /60 DROPS MICRO WITH INJECTION SITE |  | PVC - PREMIUM TRANSPARENT / RIGID | ABS - MEDIUM | PREMIUM WITH PROTECTION / LATEX-FREE |  |  |  |  |  |\n|  |  | 100ML /60 DROPS MICRO WITH NEEDLE FREE INJECTION SITE |  | PVC - PREMIUM OPAC / MEMORY | ABS - MEDIUM WITH SVS HOLDER | NEGATIVE NEEDLE-FREE |  |  |  |  |  |\n|  |  | 150ML / 20 DROPS MACRO |  | DEHP-FREE PVC - PREMIUM OPAC / MEMORY | ABS - LONG | POSITIVE NEEDLE-FREE |  |  |  |  |  |\n|  |  | 150ML /20 DROPS MACRO WITH INJECTION SITE |  | DEHP-FREE PVC - PREMIUM TRANSPARENT / RIGID | ABS - LONG WITH SVS HOLDER | NEUTRAL NEEDLE-FREE |  |  |  |  |  |\n|  |  | 150ML /20 DROPS MACRO WITH NEEDLE FREE INJECTION SITE |  | PVC FREE - PREMIUM OPAC / MEMORY | ABS - PREMIUM WITH SPIKE HOLDER | RUBBER TUBE (STRAIGHT SHAPE) / LATEX |  |  |  |  |  |\n|  |  | 150ML / 60 DROPS MICRO |  |  |  | RUBBER TUBE (STRAIGHT SHAPE) / LATEX-FREE |  |  |  |  |  |\n|  |  | 150ML /60 DROPS MICRO WITH INJECTION SITE |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX |  |  |  |  |  |\n|  |  | 150ML /60 DROPS MICRO WITH NEEDLE FREE INJECTION SITE |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX-FREE |  |  |  |  |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -843,8 +839,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- PVC, PVC DEHP-FREE (Non-Phthalate) and PVC-FREE\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Fully Customizable Configurations\n- Gravity and Pump\n- TRANSPARENT, UV-LIGHT PROOF and BLUE and VIOLET Tubing Finish\n- Soft and Hard Tubing\n\n## PERFORMANCE\n- High Tube Memory kink-resistant\n- Clear Tube and Chamber\n- Clean shaped smooth surfaced components",
+      "tableInMd": "| SPIKE | CLAMP | CHAMBER | FILTER | TUBING | ROLLER CLAMP | INJECTION Y-SITE | ACCESSORIES | CONNECTOR | PROTECTIVE CONNECTOR'S CAP | INDIVIDUAL PACKAGING | INNER PACKAGING |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| WITH AIR-VENT | SLIDE | 100ML / 20 DROPS MACRO | STANDARD | PVC - STANDAR TRANSPARENT / RIGID | PE - ROLLER | SHORT / LATEX | FLOW REGULATOR | LUER SLIP / WHITE | STANDARD | POLYBAG | INNER BAG |\n| WITH AIR-VENT AND WINGS | ROBERT | 100ML /20 DROPS MACRO WITH INJECTION SITE | SAFETY | PVC - STANDARD OPAC / MEMORY | PE - ROLLER WITH SVS HOLDER | SHORT / LATEX-FREE | FLUID FILTER | LUER SLIP / TRANSPARENT | LUER LOCK CAP | BLISTER | SOFT INNER BOX |\n|  |  | 100ML /20 DROPS MACRO WITH NEEDLE FREE INJECTION SITE | N/A | DEHP-FREE PVC - STANDARD TRANSPARENT / RIGID | ABS - SHORT | LONG / LATEX | 3-WAY STOP COCK | LUER LOCK | HYDROPHOBIC FILTERED | POUCH | HARD INNER BOX |\n|  |  | 100ML / 60 DROPS MICRO |  | DEHP-FREE PVC - STANDARD OPAC / MEMORY | ABS - SHORT WITH SVS HOLDER | LONG / LATEX-FREE |  | ROTATIVE LUER LOCK | NEEDLE |  |  |\n|  |  | 100ML /60 DROPS MICRO WITH INJECTION SITE |  | PVC - PREMIUM TRANSPARENT / RIGID | ABS - MEDIUM | PREMIUM WITH PROTECTION / LATEX-FREE |  |  |  |  |  |\n|  |  | 100ML /60 DROPS MICRO WITH NEEDLE FREE INJECTION SITE |  | PVC - PREMIUM OPAC / MEMORY | ABS - MEDIUM WITH SVS HOLDER | NEGATIVE NEEDLE-FREE |  |  |  |  |  |\n|  |  | 150ML / 20 DROPS MACRO |  | DEHP-FREE PVC - PREMIUM OPAC / MEMORY | ABS - LONG | POSITIVE NEEDLE-FREE |  |  |  |  |  |\n|  |  | 150ML /20 DROPS MACRO WITH INJECTION SITE |  | DEHP-FREE PVC - PREMIUM TRANSPARENT / RIGID | ABS - LONG WITH SVS HOLDER | NEUTRAL NEEDLE-FREE |  |  |  |  |  |\n|  |  | 150ML /20 DROPS MACRO WITH NEEDLE FREE INJECTION SITE |  | PVC FREE - PREMIUM OPAC / MEMORY | ABS - PREMIUM WITH SPIKE HOLDER | RUBBER TUBE (STRAIGHT SHAPE) / LATEX |  |  |  |  |  |\n|  |  | 150ML / 60 DROPS MICRO |  |  |  | RUBBER TUBE (STRAIGHT SHAPE) / LATEX-FREE |  |  |  |  |  |\n|  |  | 150ML /60 DROPS MICRO WITH INJECTION SITE |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX |  |  |  |  |  |\n|  |  | 150ML /60 DROPS MICRO WITH NEEDLE FREE INJECTION SITE |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX-FREE |  |  |  |  |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -870,8 +866,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polycarbonate (PC) Body\n- Polyethylene (PE) Key\n- Polypropylene (PE) Connectors Caps\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Lipid and non-Lipid resistant\n- Standard and High Pressure Resistant\n- Standard and self-rotation male luer lock connector\n\n## PERFORMANCE\n- Premium Lubrication’s Technology => Easy spinning\n- High transparency Body",
+      "tableInMd": "| Blue Key | Standard | Standard male luer lock connector |\n|---|---|---|\n|  |  | Self-rotating male luer lock connector |\n|  | High Preasure | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n|  | Lipd Resitant | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n| Red Key | Standard | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n|  | High Preasure | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n|  | Lipd Resitant | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n| Whiteed Key | Standard | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n|  | High Preasure | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n|  | Lipd Resitant | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -897,8 +893,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polycarbonate (PC) Body\n- Silicon Latex-Free Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Transparent and Yellow\n\n## PERFORMANCE\n- Smooth Surface",
+      "tableInMd": "| YELLOW | LATEX |\n|---|---|\n|  | LATEX FREE |\n| TRANSPARENT | LATEX |\n|  | LATEX FREE |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -924,8 +920,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polycarbonate (PC) Body\n- Silicon Valve\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- With or Without Cap\n\n## PERFORMANCE\n- High Transparency Body\n- Premium Memory Silicon Valve => up to than 15 uses\n- High Pressure Resistant\n- Smooth Surface",
+      "tableInMd": "| BLUE HOUSING | BLUE SILICON VALVE |\n|---|---|\n| TRANSPARENT HOUSING | BLUE SILICON VALVE |\n|  | TRANSPARENT SILICON VALVE |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -951,8 +947,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polycarbonate (PC) Body\n- Silicon Valve\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- With or Without Cap\n\n## PERFORMANCE\n- High Transparency Body\n- Premium Memory Silicon Valve => up to than 15 uses\n- High Pressure Resistant\n- Smooth Surface",
+      "tableInMd": "| BLUE HOUSING | BLUE SILICON VALVE |\n|---|---|\n| TRANSPARENT HOUSING | BLUE SILICON VALVE |\n|  | TRANSPARENT SILICON VALVE |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -978,8 +974,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polycarbonate (PC) Body\n- Silicon Valve\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- With or Without Cap\n\n## PERFORMANCE\n- High Transparency Body\n- Premium Memory Silicon Valve => up to than 15 uses\n- High Pressure Resistant\n- Smooth Surface",
+      "tableInMd": "| BLUE HOUSING | BLUE SILICON VALVE |\n|---|---|\n| TRANSPARENT HOUSING | BLUE SILICON VALVE |\n|  | TRANSPARENT SILICON VALVE |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1005,8 +1001,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polycarbonate (PC) Body\n- Silicon Valve\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- With or Without Cap\n\n## PERFORMANCE\n- High Transparency Body\n- Premium Memory Silicon Valve => up to than 15 uses\n- High Pressure Resistant\n- Smooth Surface",
+      "tableInMd": "| BLUE HOUSING | BLUE SILICON VALVE |\n|---|---|\n| TRANSPARENT HOUSING | BLUE SILICON VALVE |\n|  | TRANSPARENT SILICON VALVE |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1032,7 +1028,7 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
+      "description": "## COMPOSITION\n- Polycarbonate (PC) Body\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Different Shapes\n\n## PERFORMANCE\n- Premium Lubrication’s Technology => Easy spinning\n- Clear graduation printing technology\n- High Pressure Resistant\n- Smooth Surface",
       "tableInMd": "",
       "images": [],
       "PackagingInformation": {
@@ -1059,8 +1055,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polypropylene (PP) Body\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Red, Blue and White color\n\n## PERFORMANCE\n- Air-Tight sealing\n- Smooth Surface",
+      "tableInMd": "| STERILE | WHITE |\n|---|---|\n|  | BLUE |\n|  | RED |\n| NON STERILE | WHITE |\n|  | BLUE |\n|  | RED |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1086,8 +1082,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Acrylnitril-Butadien-Styrol (ABS) Body/Spikes\n- Polypropylene (PP) Connector and Cap\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Natural and white color\n\n## PERFORMANCE\n- Strong and Sharp Tips\n- Soft and anti-slip Surface colored Wings\n- Minimum Dead Space",
+      "tableInMd": "| STERILE | WHITE |\n|---|---|\n|  | BLUE |\n|  | RED |\n| NON STERILE | WHITE |\n|  | BLUE |\n|  | RED |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1144,8 +1140,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- PVC, PVC DEHP-FREE (Non-Phthalate) and PVC-FREE\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Fully Customizable Configurations\n- Gravity and Pump\n- TRANSPARENT and UV-LIGHT PROOF Tubing Finish\n- Soft and Hard Tubing\n\n## PERFORMANCE\n- High Tube Memory kink-resistant\n- Clear Tube and Chamber\n- Clean shaped smooth surfaced components",
+      "tableInMd": "| DRIP CHAMBER | AIR-VENT | TUBING | ROLLER CLAMP | INJECTION Y-SITE | CONNECTOR | PROTECTIVE CONNECTOR'S CAP | INDIVIDUAL PACKAGING | INNER PACKAGING |\n|---|---|---|---|---|---|---|---|---|\n| SINGLE | STANDARD | PVC - STANDAR TRANSPARENT / RIGID | PE - ROLLER | SHORT / LATEX | LUER SLIP / WHITE | STANDARD | POLYBAG | INNER BAG |\n| SINGLE / WINGED | WITH SPRING EFFECT | PVC - STANDARD OPAC / MEMORY | PE - ROLLER WITH SVS HOLDER | SHORT / LATEX-FREE | LUER SLIP / TRANSPARENT | LUER LOCK CAP | BLISTER | SOFT INNER BOX |\n| DOUBLE HARD | N/A | DEHP-FREE PVC - STANDARD TRANSPARENT / RIGID | ABS - SHORT | LONG / LATEX | LUER LOCK | HYDROPHOBIC FILTERED | POUCH | HARD INNER BOX |\n| DOUBLE HARD / WINGED |  | DEHP-FREE PVC - STANDARD OPAC / MEMORY | ABS - SHORT WITH SVS HOLDER | LONG / LATEX-FREE | ROTATIVE LUER LOCK | NEEDLE |  |  |\n| DOUBLE SOFT / WINGED |  | PVC - PREMIUM TRANSPARENT / RIGID | ABS - MEDIUM | PREMIUM WITH PROTECTION / LATEX-FREE |  |  |  |  |\n| PREMIUM DOUBLE SOFT-HARD / MONO-CHANEL |  | PVC - PREMIUM OPAC / MEMORY | ABS - MEDIUM WITH SVS HOLDER | NEGATIVE NEEDLE-FREE |  |  |  |  |\n|  |  | DEHP-FREE PVC - PREMIUM OPAC / MEMORY | ABS - LONG | POSITIVE NEEDLE-FREE |  |  |  |  |\n|  |  | DEHP-FREE PVC - PREMIUM TRANSPARENT / RIGID | ABS - LONG WITH SVS HOLDER | NEUTRAL NEEDLE-FREE |  |  |  |  |\n|  |  | PVC FREE - PREMIUM OPAC / MEMORY | ABS - PREMIUM WITH SPIKE HOLDER | RUBBER TUBE (STRAIGHT SHAPE) / LATEX |  |  |  |  |\n|  |  |  |  | RUBBER TUBE (STRAIGHT SHAPE) / LATEX-FREE |  |  |  |  |\n|  |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX |  |  |  |  |\n|  |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX-FREE |  |  |  |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1346,9 +1342,9 @@
         "Diagnostic",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO 10555-1:1995",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) and K-Resign Body\n- Polypropylene (PP) and K-Resign Filter\n- Teflon (PTFE) and Polyurethane (PUR) Catheter\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Stripped and Full X-Ray Detectable Catheter’s Finish\n- With or Without Hydrophobic Filter\n\n## PERFORMANCE\n- 3 bevelled + 2 Back Cuts Sharpness Technology\n- Bevel Orientation Indicator\n- Thin wall technology => High Flow\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Smooth Surface",
+      "tableInMd": "| GAUGE | COLOUR | EXT DIA (mm) | LENGTH (mm) | WATER FLOW (mL/min.) |\n|---|---|---|---|---|\n| 14G | Orange | 2,1 | 32 | 240 |\n| 14G | Orange | 2,1 | 45 | 240 |\n| 16G | Grey | 1,8 | 32 | 180 |\n| 16G | Grey | 1,8 | 45 | 180 |\n| 18G | Green | 1,3 | 32 | 90 |\n| 18G | Green | 1,3 | 38 | 90 |\n| 18G | Green | 1,3 | 45 | 90 |\n| 20G | Pink | 1,1 | 25 | 60 |\n| 20G | Pink | 1,1 | 32 | 60 |\n| 20G | Pink | 1,1 | 38 | 60 |\n| 22G | Blue | 0,9 | 19 | 36 |\n| 22G | Blue | 0,9 | 25 | 36 |\n| 24G | Yellow | 0,7 | 19 | 20 |\n| 26G | Purple | 0,6 | 19 | 13 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1375,9 +1371,9 @@
         "Diagnostic",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO 10555-1:1995",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Body\n- Polypropylene (PP) Filter\n- Teflon (PTFE) and Polyurethane (PUR) Catheter\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Stripped and Full X-Ray Detectable Catheter’s Finish\n- With or Without Hydrophobic Filter\n\n## PERFORMANCE\n- 3 bevelled + 2 Back Cuts Sharpness Technology\n- Bevel Orientation Indicator\n- Thin wall technology => High Flow\n- Color-Coded Size Fixiation Wings\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Smooth Surface",
+      "tableInMd": "| GAUGE | COLOUR | EXT DIA (mm) | LENGTH (mm) | WATER FLOW (mL/min.) |\n|---|---|---|---|---|\n| 14G | Orange | 2,1 | 32 | 240 |\n| 14G | Orange | 2,1 | 45 | 240 |\n| 16G | Grey | 1,8 | 32 | 180 |\n| 16G | Grey | 1,8 | 45 | 180 |\n| 18G | Green | 1,3 | 32 | 90 |\n| 18G | Green | 1,3 | 38 | 90 |\n| 18G | Green | 1,3 | 45 | 90 |\n| 20G | Pink | 1,1 | 25 | 60 |\n| 20G | Pink | 1,1 | 32 | 60 |\n| 20G | Pink | 1,1 | 38 | 60 |\n| 22G | Blue | 0,9 | 19 | 36 |\n| 22G | Blue | 0,9 | 25 | 36 |\n| 24G | Yellow | 0,7 | 19 | 20 |\n| 26G | Purple | 0,6 | 19 | 13 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1404,9 +1400,9 @@
         "Diagnostic",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO 10555-1:1995",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Body\n- Polypropylene (PP) Filter\n- Teflon (PTFE) and Polyurethane (PUR) Catheter\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Stripped and Full X-Ray Detectable Catheter’s Finish\n- With or Without Hydrophobic Filter\n\n## PERFORMANCE\n- 3 bevelled + 2 Back Cuts Sharpness Technology\n- Bevel Orientation Indicator\n- Thin wall technology => High Flow\n- Color-Coded Size Fixiation Wings\n- Injection Port\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Smooth Surface",
+      "tableInMd": "| GAUGE | COLOUR | EXT DIA (mm) | LENGTH (mm) | WATER FLOW (mL/min.) |\n|---|---|---|---|---|\n| 14G | Orange | 2,1 | 32 | 240 |\n| 14G | Orange | 2,1 | 45 | 240 |\n| 16G | Grey | 1,8 | 32 | 180 |\n| 16G | Grey | 1,8 | 45 | 180 |\n| 18G | Green | 1,3 | 32 | 90 |\n| 18G | Green | 1,3 | 38 | 90 |\n| 18G | Green | 1,3 | 45 | 90 |\n| 20G | Pink | 1,1 | 25 | 60 |\n| 20G | Pink | 1,1 | 32 | 60 |\n| 20G | Pink | 1,1 | 38 | 60 |\n| 22G | Blue | 0,9 | 19 | 36 |\n| 22G | Blue | 0,9 | 25 | 36 |\n| 24G | Yellow | 0,7 | 19 | 20 |\n| 26G | Purple | 0,6 | 19 | 13 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1431,9 +1427,9 @@
         "Infusion",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO 10555-1:1995",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) and K-Resign Body\n- Polypropylene (PP) and K-Resign Filter\n- Polyurethane (PUR) Catheter\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Stripped and Full X-Ray Detectable Catheter’s Finish\n- Hydrophobic Filter\n\n## PERFORMANCE\n- 3 bevelled + 2 Back Cuts Sharpness Technology\n- Easy PASSIVE Activation Safety Mechanism\n- inviolable closure technology\n- Bevel Orientation Indicator\n- Thin wall technology => High Flow\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Smooth Surface\n\n## CLICK AND SET\n## INFUSION\n## EXTRA SAFE",
+      "tableInMd": "| GAUGE | COLOUR | EXT DIA (mm) | LENGTH (mm) | WATER FLOW (mL/min.) |\n|---|---|---|---|---|\n| 14G | Orange | 2,1 | 32 | 240 |\n| 14G | Orange | 2,1 | 45 | 240 |\n| 16G | Grey | 1,8 | 32 | 180 |\n| 16G | Grey | 1,8 | 45 | 180 |\n| 18G | Green | 1,3 | 32 | 90 |\n| 18G | Green | 1,3 | 38 | 90 |\n| 18G | Green | 1,3 | 45 | 90 |\n| 20G | Pink | 1,1 | 25 | 60 |\n| 20G | Pink | 1,1 | 32 | 60 |\n| 20G | Pink | 1,1 | 38 | 60 |\n| 22G | Blue | 0,9 | 19 | 36 |\n| 22G | Blue | 0,9 | 25 | 36 |\n| 24G | Yellow | 0,7 | 19 | 20 |\n| 26G | Purple | 0,6 | 19 | 13 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1458,9 +1454,9 @@
         "Infusion",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO 10555-1:1995",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) and K-Resign Body\n- Polypropylene (PP) and K-Resign Filter\n- Polyurethane (PUR) Catheter\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Stripped and Full X-Ray Detectable Catheter’s Finish\n- Hydrophobic Filter\n\n## PERFORMANCE\n- 3 bevelled + 2 Back Cuts Sharpness Technology\n- Easy PASSIVE Activation Safety Mechanism\n- inviolable closure technology\n- Blood Control System (NRV)\n- Bevel Orientation Indicator\n- Thin wall technology => High Flow\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Smooth Surface\n- CLICK AND SET\n- INFUSION\n- EXTRA SAFE",
+      "tableInMd": "| GAUGE | COLOUR | EXT DIA (mm) | LENGTH (mm) | WATER FLOW (mL/min.) |\n|---|---|---|---|---|\n| 14G | Orange | 2,1 | 32 | 240 |\n| 14G | Orange | 2,1 | 45 | 240 |\n| 16G | Grey | 1,8 | 32 | 180 |\n| 16G | Grey | 1,8 | 45 | 180 |\n| 18G | Green | 1,3 | 32 | 90 |\n| 18G | Green | 1,3 | 38 | 90 |\n| 18G | Green | 1,3 | 45 | 90 |\n| 20G | Pink | 1,1 | 25 | 60 |\n| 20G | Pink | 1,1 | 32 | 60 |\n| 20G | Pink | 1,1 | 38 | 60 |\n| 22G | Blue | 0,9 | 19 | 36 |\n| 22G | Blue | 0,9 | 25 | 36 |\n| 24G | Yellow | 0,7 | 19 | 20 |\n| 26G | Purple | 0,6 | 19 | 13 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1485,9 +1481,9 @@
         "Infusion",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO 10555-1:1995",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Body\n- Polypropylene (PP) Filter\n- Teflon (PTFE) and Polyurethane (PUR) Catheter\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Stripped and Full X-Ray Detectable Catheter’s Finish\n- With or Without Hydrophobic Filter\n\n## PERFORMANCE\n- 3 bevelled + 2 Back Cuts Sharpness Technology\n- Easy PASSIVE Activation Safety Mechanism\n- inviolable closure technology\n- Bevel Orientation Indicator\n- Thin wall technology => High Flow\n- Color-Coded Size Fixiation Wings\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Smooth Surface",
+      "tableInMd": "| GAUGE | COLOUR | EXT DIA (mm) | LENGTH (mm) | WATER FLOW (mL/min.) |\n|---|---|---|---|---|\n| 14G | Orange | 2,1 | 32 | 240 |\n| 14G | Orange | 2,1 | 45 | 240 |\n| 16G | Grey | 1,8 | 32 | 180 |\n| 16G | Grey | 1,8 | 45 | 180 |\n| 18G | Green | 1,3 | 32 | 90 |\n| 18G | Green | 1,3 | 38 | 90 |\n| 18G | Green | 1,3 | 45 | 90 |\n| 20G | Pink | 1,1 | 25 | 60 |\n| 20G | Pink | 1,1 | 32 | 60 |\n| 20G | Pink | 1,1 | 38 | 60 |\n| 22G | Blue | 0,9 | 19 | 36 |\n| 22G | Blue | 0,9 | 25 | 36 |\n| 24G | Yellow | 0,7 | 19 | 20 |\n| 26G | Purple | 0,6 | 19 | 13 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1512,9 +1508,9 @@
         "Infusion",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO 10555-1:1995",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Body\n- Polypropylene (PP) Filter\n- Teflon (PTFE) and Polyurethane (PUR) Catheter\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Stripped and Full X-Ray Detectable Catheter’s Finish\n- With or Without Hydrophobic Filter\n\n## PERFORMANCE\n- 3 bevelled + 2 Back Cuts Sharpness Technology\n- Easy PASSIVE Activation Safety Mechanism\n- inviolable closure technology\n- Bevel Orientation Indicator\n- Thin wall technology => High Flow\n- Color-Coded Size Fixiation Wings\n- Injection Port\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Smooth Surface",
+      "tableInMd": "| GAUGE | COLOUR | EXT DIA (mm) | LENGTH (mm) | WATER FLOW (mL/min.) |\n|---|---|---|---|---|\n| 14G | Orange | 2,1 | 32 | 240 |\n| 14G | Orange | 2,1 | 45 | 240 |\n| 16G | Grey | 1,8 | 32 | 180 |\n| 16G | Grey | 1,8 | 45 | 180 |\n| 18G | Green | 1,3 | 32 | 90 |\n| 18G | Green | 1,3 | 38 | 90 |\n| 18G | Green | 1,3 | 45 | 90 |\n| 20G | Pink | 1,1 | 25 | 60 |\n| 20G | Pink | 1,1 | 32 | 60 |\n| 20G | Pink | 1,1 | 38 | 60 |\n| 22G | Blue | 0,9 | 19 | 36 |\n| 22G | Blue | 0,9 | 25 | 36 |\n| 24G | Yellow | 0,7 | 19 | 20 |\n| 26G | Purple | 0,6 | 19 | 13 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1539,9 +1535,9 @@
         "Infusion",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO 10555-1:1995",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) and K-Resign Body\n- Polypropylene (PP) and K-Resign Filter\n- Polyurethane (PUR) Catheter\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Stripped and Full X-Ray Detectable Catheter’s Finish\n- Hydrophobic Filter\n\n## PERFORMANCE\n- 3 bevelled + 2 Back Cuts Sharpness Technology\n- Easy PASSIVE Activation Sliding Safety Mechanism\n- inviolable closure technology\n- Bevel Orientation Indicator\n- Thin wall technology => High Flow\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Smooth Surface",
+      "tableInMd": "| GAUGE | COLOUR | EXT DIA (mm) | LENGTH (mm) | WATER FLOW (mL/min.) |\n|---|---|---|---|---|\n| 14G | Orange | 2,1 | 32 | 240 |\n| 14G | Orange | 2,1 | 45 | 240 |\n| 16G | Grey | 1,8 | 32 | 180 |\n| 16G | Grey | 1,8 | 45 | 180 |\n| 18G | Green | 1,3 | 32 | 90 |\n| 18G | Green | 1,3 | 38 | 90 |\n| 18G | Green | 1,3 | 45 | 90 |\n| 20G | Pink | 1,1 | 25 | 60 |\n| 20G | Pink | 1,1 | 32 | 60 |\n| 20G | Pink | 1,1 | 38 | 60 |\n| 22G | Blue | 0,9 | 19 | 36 |\n| 22G | Blue | 0,9 | 25 | 36 |\n| 24G | Yellow | 0,7 | 19 | 20 |\n| 26G | Purple | 0,6 | 19 | 13 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1566,9 +1562,9 @@
         "Infusion",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO 10555-1:1995",
+      "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) and K-Resign Body\n- Polypropylene (PP) and K-Resign Filter\n- Polyurethane (PUR) Catheter\n- Stainless steel Spring\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Stripped and Full X-Ray Detectable Catheter’s Finish\n- Hydrophobic Filter\n\n## PERFORMANCE\n- 3 bevelled + 2 Back Cuts Sharpness Technology\n- Easy ACTIVE Activation Safety Mechanism\n- inviolable closure technology\n- Bevel Orientation Indicator\n- Thin wall technology => High Flow\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Smooth Surface",
+      "tableInMd": "| GAUGE | COLOUR | EXT DIA (mm) | LENGTH (mm) | WATER FLOW (mL/min.) |\n|---|---|---|---|---|\n| 14G | Orange | 2,1 | 32 | 240 |\n| 14G | Orange | 2,1 | 45 | 240 |\n| 16G | Grey | 1,8 | 32 | 180 |\n| 16G | Grey | 1,8 | 45 | 180 |\n| 18G | Green | 1,3 | 32 | 90 |\n| 18G | Green | 1,3 | 38 | 90 |\n| 18G | Green | 1,3 | 45 | 90 |\n| 20G | Pink | 1,1 | 25 | 60 |\n| 20G | Pink | 1,1 | 32 | 60 |\n| 20G | Pink | 1,1 | 38 | 60 |\n| 22G | Blue | 0,9 | 19 | 36 |\n| 22G | Blue | 0,9 | 25 | 36 |\n| 24G | Yellow | 0,7 | 19 | 20 |\n| 26G | Purple | 0,6 | 19 | 13 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1593,9 +1589,9 @@
         "Protection",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO",
+      "description": "## COMPOSITION\n- 100% Natural Rubber\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- Powder and Powder free\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Soft and Stretch Sensation\n- Tear-Resistant\n- Strict monitored Protein Content\n- Outstanding tactile sensitivity\n- Polymer Coated => Easy Wearing\n- Ambidextrous\n\n## DENTAL CARE\n\n## PROTECTION",
+      "tableInMd": "| 5grs / 5,5grs / 6,3gr (Average by size Midieum) | Powdered | EXTRA SMALL (XS) | SMOOTH SURFACE |\n|---|---|---|---|\n|  |  |  | ROUGH SYRFACE |\n|  |  | SMALL (S) | SMOOTH SURFACE |\n|  |  |  | ROUGH SYRFACE |\n|  |  | LARGE (L) | SMOOTH SURFACE |\n|  |  |  | ROUGH SYRFACE |\n|  |  | EXTRA LARGE (XL) | SMOOTH SURFACE |\n|  |  |  | ROUGH SYRFACE |\n|  | Powder Free | EXTRA SMALL (XS) | SMOOTH SURFACE |\n|  |  |  | ROUGH SYRFACE |\n|  |  | SMALL (S) | SMOOTH SURFACE |\n|  |  |  | ROUGH SYRFACE |\n|  |  | LARGE (L) | SMOOTH SURFACE |\n|  |  |  | ROUGH SYRFACE |\n|  |  | EXTRA LARGE (XL) | SMOOTH SURFACE |\n|  |  |  | ROUGH SYRFACE |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1620,9 +1616,9 @@
         "Protection",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO",
+      "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n- Loading Capacity: 20GP (29m3): …….. – 40HC (69m3): …….. \n\n## COMPOSITION\n- 100% Nitrile (Nitrile-Butadiene Rubber => NBR)\n\n## STERILIZATION\n- Non=Sterile\n\n## PRESENTATIONS\n- Powder free\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Soft and Stretch Sensation\n- Tear-Resistant\n- Strict monitored Protein Content\n- Outstanding tactile sensitivity\n- Polymer Coated => Easy Wearing\n- Ambidextrous",
+      "tableInMd": "| 2,8grs / 3,0grs / 3,5grs / 4,0grs / 4,5grs (Average by size Midieum) | PLAIN AND DIAMONT SURFACE | WHITE / BLUE / VIOLET / GREEN / PINK / BLACK / RED / BROWN | EXTRA SMALL (XS) |\n|---|---|---|---|\n|  |  |  | SMALL (S) |\n|  |  |  | LARGE (L) |\n|  |  |  | EXTRA LARGE (XL) |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1647,9 +1643,9 @@
         "Protection",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO",
+      "description": "## COMPOSITION\n- 100% Nitrile (Polyvinylchloride => PVC )\n\n## STERILIZATION\n- Non=Sterile\n\n## PRESENTATIONS\n- Powder free\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Soft and Stretch Sensation\n- Tear-Resistant\n- Strict monitored Protein Content\n- Outstanding tactile sensitivity\n- Polymer Coated => Easy Wearing\n- Ambidextrous\n\n## DENTAL CARE\n\n## PROTECTION",
+      "tableInMd": "| 4,5grs (Average by size Midieum) | SMALL (S) |\n|---|---|\n|  | LARGE (L) |\n|  | EXTRA LARGE (XL) |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1674,9 +1670,9 @@
         "Protection",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO",
+      "description": "## COMPOSITION\n- 100% Polyethylene (PE)\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- Low and High Density Polyethylene (PE)\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Strict monitored Protein Content\n- Ambidextrous",
+      "tableInMd": "| HIGH DENSITY | SMALL (S) |\n|---|---|\n|  | LARGE (L) |\n|  | EXTRA LARGE (XL) |\n| LOW DENSITY | SMALL (S) |\n|  | LARGE (L) |\n|  | EXTRA LARGE (XL) |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1701,9 +1697,9 @@
         "Protection",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO",
+      "description": "## COMPOSITION\n- 100% Natural Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile Gamma (R) Sterilization\n\n## PRESENTATIONS\n- Powder and Powder free\n- Rouph and Smooth Surface\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Soft and Stretch Sensation\n- Tear-Resistant\n- Strict monitored Protein Content\n- Outstanding tactile sensitivity\n- Polymer Coated => Easy Wearing\n- Anatomic",
+      "tableInMd": "| Powdered | 6 | SMOOTH SURFACE |\n|---|---|---|\n|  |  | ROUGH SYRFACE |\n|  | 6,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 7 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 7,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 8 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 8,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 9 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n| Powder Free | 6 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 6,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 7 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 7,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 8 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 8,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 9 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1728,9 +1724,9 @@
         "Protection",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO",
+      "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n- Loading Capacity: 20GP (29m3): …….. – 40HC (69m3): …….. \n\n## COMPOSITION\n- 100% Nitrile (Nitrile-Butadiene Rubber => NBR)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile Gamma (R) Sterilization\n\n## PRESENTATIONS\n- Powder free\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Soft and Stretch Sensation\n- Tear-Resistant\n- Outstanding tactile sensitivity\n- Polymer Coated => Easy Wearing\n- Anatomic\n\n## DENTAL CARE\n\n## PROTECTION",
+      "tableInMd": "| 6 |\n|---|\n| 6,5 |\n| 7 |\n| 7,5 |\n| 8 |\n| 8,5 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1755,9 +1751,9 @@
         "Protection",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO",
+      "description": "## COMPOSITION\n- 100% Polyisoprene\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile Gamma (R) Sterilization\n\n## PRESENTATIONS\n- Powder free\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Soft and Stretch Sensation\n- Tear-Resistant\n- Outstanding tactile sensitivity\n- Polymer Coated => Easy Wearing\n- Anatomic\n\n## DENTAL CARE\n\n## PROTECTION",
+      "tableInMd": "| 6 |\n|---|\n| 6,5 |\n| 7 |\n| 7,5 |\n| 8 |\n| 8,5 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1809,8 +1805,8 @@
         "Protection",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
+      "standard": "ISO 4074:2015",
+      "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n- Loading Capacity: 20GP (29m3): …….. – 40HC (69m3): …….. \n## COMPOSITION\n- 100% Rubber\n## STERILIZATION\n- Non-Sterile\n## PRESENTATIONS\n- Multi-Color Finishes\n## PERFORMANCE\n- Aseptic, non-sterile\n- Tear-Resistant\n- Outstanding sensitivity\n- Lubricated => Easy Wearing\n- Online electronic Testing",
       "tableInMd": "",
       "images": [],
       "PackagingInformation": {
@@ -1836,8 +1832,8 @@
         "Protection",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
+      "standard": "ISO ???",
+      "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n## LOADING CAPACITY\n- 20GP (29m3): …….. \n- 40HC (69m3): …….. \n## COMPOSITION\n- 100% Polyurethane (PUR)\n## STERILIZATION\n- Non-Sterile\n## PRESENTATIONS\n- Multi-Color Finishes\n## PERFORMANCE\n- Aseptic, non-sterile\n- Tear-Resistant\n- Outstanding sensitivity\n- Lubricated => Easy Wearing\n- Online electronic Testing",
       "tableInMd": "",
       "images": [],
       "PackagingInformation": {
@@ -1863,8 +1859,8 @@
         "Protection",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
+      "standard": "ISO ???",
+      "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n- Loading Capacity: 20GP (29m3): …….. – 40HC (69m3): …….. \n\n## COMPOSITION\n- 100% Rubber\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- Transparent\n- Lubricated and Non-lubricated\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Tear-Resistant\n- Outstanding sensitivity\n- Online electronic Testing",
       "tableInMd": "",
       "images": [],
       "PackagingInformation": {
@@ -1891,8 +1887,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Cotton fabric\n- Adhesive: Rubber with Zinc Oxide, Solvent, Acrylic and Hotmelt\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- White and Skin Color\n- Straight and Zig-Zag Edges\n- Plastic or Paper Spool\n- Adjustable parameters according to the market’s Requirements\n\n## PERFORMANCE\n- Skin friendly\n- Aseptic, non-sterile\n- Hypoallergenic\n- Easy tearing\n- Strong hold without skin irritation (Latex-free)",
+      "tableInMd": "| Size |\n|---|\n| 0.5'*10yds. (1.25cm*9.1m) |\n| 0.5'*10yds. (1.25cm*9.1m) |\n| 1'*10yds. (2.5cm*9.1m) |\n| 2'*10yds. (5cm*9.1m) |\n| 3'*10yds. (7.5cm*9.1m) |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1918,8 +1914,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Nonwoven fabric made of Viscose and Polyester Fibers\n- Adhesive: Solvent, Acrylic and Hotmelt\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- White and Skin Color\n- Straight and Zig-Zag Edges\n- Plastic or Paper Spool\n- Adjustable parameters according to the market’s Requirements\n\n## PERFORMANCE\n- Skin friendly\n- Aseptic, non-sterile\n- Hypoallergenic\n- Highly breathability\n- Easy tearing\n- Strong hold without skin irritation (Latex-free)",
+      "tableInMd": "| Size |\n|---|\n| 0.5'*10yds. (1.25cm*9.1m) |\n| 0.5'*10yds. (1.25cm*9.1m) |\n| 1'*10yds. (2.5cm*9.1m) |\n| 2'*10yds. (5cm*9.1m) |\n| 3'*10yds. (7.5cm*9.1m) |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1945,8 +1941,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Polyethilene (PE) film\n- Adhesive: acrylic\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- Highly Transparent and Opaque\n- Straight Edges\n- Plastic Spool\n- Adjustable parameters according to the market’s Requirements\n\n## PERFORMANCE\n- Skin friendly\n- Aseptic, non-sterile\n- Hypoallergenic\n- Easy tearing\n- Strong hold without skin irritation (Latex-free)",
+      "tableInMd": "| Size |\n|---|\n| 0.5'*10yds. (1.25cm*9.1m) |\n| 0.5'*10yds. (1.25cm*9.1m) |\n| 1'*10yds. (2.5cm*9.1m) |\n| 2'*10yds. (5cm*9.1m) |\n| 3'*10yds. (7.5cm*9.1m) |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1972,8 +1968,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Rayon fabric\n- Adhesive: acrylic and Hotmelt\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- White Color\n- Straight and Zig-Zag Edges\n- Plastic Spool\n- Adjustable parameters according to the market’s Requirements\n\n## PERFORMANCE\n- Skin friendly\n- Aseptic, non-sterile\n- Hypoallergenic\n- Easy tearing\n- Strong hold without skin irritation (Latex-free)",
+      "tableInMd": "| Size |\n|---|\n| 0.5'*10yds. (1.25cm*9.1m) |\n| 0.5'*10yds. (1.25cm*9.1m) |\n| 1'*10yds. (2.5cm*9.1m) |\n| 2'*10yds. (5cm*9.1m) |\n| 3'*10yds. (7.5cm*9.1m) |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -1999,8 +1995,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Nonwoven Flexible fabric\n- Medical Paper\n- Adhesive: Acrylic and Hotmelt\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- Straight and Curved Cut Transfer Paper\n- Various Shapes\n- With and without Haemostatic Island\n\n## PERFORMANCE\n- Highly Flexible\n- Skin friendly\n- Aseptic, non-sterile\n- Hypoallergenic\n- Strong hold without skin irritation (Latex-free)",
+      "tableInMd": "| Size | 5cmx10.m10cmx10m,15cmx10m,20cmx10m, etc. |\n|---|---|",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2026,8 +2022,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Made of Elastic, PE, PU and Spunlace fabric\n- Adhesive: Solvent, Acrylic and Hotmelt\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- Various Patterns and Colors\n- Various Shapes and Finishes\n- With and without Haemostatic Island\n- Packagings: Hospital and Phamacy\n\n## PERFORMANCE\n- Skin friendly\n- Aseptic, non-sterile\n- Hypoallergenic\n- Strong hold without skin irritation (Latex-free)",
+      "tableInMd": "| Material: \n \n-Spunlace fabric \n-Elastic fabric \n-PE fabric\n-PU fabric\n- Spunlace fabric | Nose | 55 x 44mm |\n|---|---|---|\n|  | Round | Ø 23 mm |\n|  | Square | 72 x 19mm |\n|  | Square | 72 x 30mm |\n|  | Square | 72 x 50mm |\n|  | Square Extra Flexible | 72 x 22cm |\n|  | Square Water Resistant | 72 x 19mm |\n|  | Square Waterproof | 45 x 25mm |\n|  | Square-Finger | 120 x 19mm |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2053,8 +2049,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Polyurethane (PUR) Transparent film\n- Transfer Paper\n- Adhesive: Acrylic\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Shapes and Finishes\n- With and without Haemostatic Island\n\n## PERFORMANCE\n- Skin friendly\n- Highly Transparent\n- Hypoallergenic\n- Strong hold without skin irritation (Latex-free)",
+      "tableInMd": "| Shape | Size | Quantity |\n|---|---|---|\n|  | 1.73''×1.73''(4.4cm×4.4cm) | 40/100/Cs |\n|  | Application: Intravenous injection, for infants and premature infants only. |  |\n|  | 1.73''×1.73''(4.4cm×4.4cm) | 40/50/Cs |\n|  | Application: Intravenous injection, for infants and premature infants only, with a small amount of exudation through the pinhole. |  |\n|  | l.73''×1.73''(4.4cm×4.4cm) | 40/100/Cs |\n|  | Application: Intawenous injection, for infants and premature infants only, indweling needle in butterfly wing type or with medicine pot. |  |\n|  | 2''×2.24''(5cm×5.7cm) | 40/100/Cs |\n|  | Application: Intravenous injection, for infants only. |  |\n|  | 2''×2.24''(5cm×5.7cm) | 40/50/Cs |\n|  | Application: Intravenous injection, for children only. |  |\n|  | 2.36\"×2.36\"(6cm×6cm) | 40/50/Cs |\n|  | Application: Peripheral venous catheter for children（basic type）. |  |\n|  | 2.75\"×3.35\"(7cm×8.5cm) | 40/100/Cs |\n|  | Application: Peripheral arterial catheter; for T-extension only. |  |\n|  | 2.75\"×4\"(7cm×10cm) | 40/100/Cs |\n|  | Application: Peripheral venous cathete; for fixation of ocular dressing. |  |\n|  | 4\"×4.72\"(10cm×12cm) | 24/100/Cs |\n|  | Application: CVC(CVP) subclavian vein catheter, epidural catheter. |  |\n|  | 4\"×4.72\"(10cm×12cm) | 24/100/Cs |\n|  | Application: CVC(CVP) subclavian vein catheter, epidural catheter (ultra-thin, high permeobility type). |  |\n|  | 4\"×6\"(10cm×15cm) | 40/50/Cs |\n|  | Application: Protection of wound surface in donated area, stage I and II pressure ulcer. |  |\n|  | 4\"×8\"(10cm×20cm) | 40/50/Cs |\n|  | Application: Protection of wound surface in donated area, epidural catheter. |  |\n|  | 4\"×10\"(10cm×25cm) | 40/50/Cs |\n|  | Application: Protection of wound surface in donated area. |  |\n|  | 6\"×8\"(15cm×20cm) | 40/50/Cs |\n|  | Application: pressure ulcer, donated area, epidural catheter. |  |\n|  | 3.15\"×2.75\"(8cm×7cm) | 40/100/Cs |\n|  | Application: Peripheral venous catheter. |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2082,8 +2078,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Polyurethane (PUR) Transparent film\n- Transfer Paper\n- Adhesive: Acrylic\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Shapes and Finishes\n\n## PERFORMANCE\n- Skin friendly\n- Highly Transparent\n- Hypoallergenic\n- Strong hold without skin irritation (Latex-free)\n- U.shoped incision with spunlaced non-woven fabric is safe to use, smooth, wrinkle-free and non-sticky\n- Frome design con prevent tension on the skin during operation and reduce the chance of skin damage.\n- The polyurethane (PU) film is completely transparent and permeable, making it easy to observe the injection site and wound conditions.\n- The unique U-shaped incision design facilitates the fixation of indwelling needle in butterfly wing\n- Ultra-thin design for perfect fitting on the skin\n- Special ear shope makes paper frame stripping easier.\n- Additional record ond breathable tape for fixotion make it easy for operator to record patient name, time and bed No.. and can be used to strengthen the fixation for quality management.",
+      "tableInMd": "| Shape | Size | Quantity |\n|---|---|---|\n|  | 1.73''×1.73''(4.4cm×4.4cm) | 40/100/Cs |\n|  | Application: Intravenous injection, for infants and premature infants only. |  |\n|  | 1.73''×1.73''(4.4cm×4.4cm) | 40/50/Cs |\n|  | Application: Intravenous injection, for infants and premature infants only, with a small amount of exudation through the pinhole. |  |\n|  | l.73''×1.73''(4.4cm×4.4cm) | 40/100/Cs |\n|  | Application: Intawenous injection, for infants and premature infants only, indweling needle in butterfly wing type or with medicine pot. |  |\n|  | 2''×2.24''(5cm×5.7cm) | 40/100/Cs |\n|  | Application: Intravenous injection, for infants only. |  |\n|  | 1002V | 40/50/Cs |\n|  | Application: Intravenous injection, for children only. |  |\n|  | 2.36\"×2.36\"(6cm×6cm) | 40/50/Cs |\n|  | Application: Peripheral venous catheter for children（basic type）. |  |\n|  | 2.36\"×2.75\"(6cm×7cm) | 40/100/Cs |\n|  | Application: Peripheral venous catheter（basic type）. |  |\n|  | Reorder No. | Size |\n|  | 2.36\"×2.75\"(6cm×7cm) | 40/100/Cs |\n|  | Application: Peripheral venous catheter for childen (ultra-thin, high pemeabilty type). |  |\n|  | 2.36\"×2.75\"(6cm×7cm) | 40/50/Cs |\n|  | Application: Peripheral venous catheter (basic type), with a small amount of exudation through the pinhole; pediatric naval dresinge. |  |\n|  | 2.36\"×2.75\"(6cm×7cm) | 40/100/Cs |\n|  | Application: Indwelling needle in Y-type or butterfly wing type or with medicine pot. |  |\n|  | 2.36\"×2.75\"(6cm×7cm) | 40/50/Cs |\n|  | Application: Peripheral venous catheter (basic type). |  |\n|  | 2.36\"×2.75\"(6cm×7cm) | 40/50/Cs |\n|  | Application: Indwelling needle in Y-type or buerfty wing type or with medicine pot. |  |\n|  | 2.75\"×3.35\"(7cm×8.5cm) | 40/100/Cs |\n|  | Application: Peripheral arterial catheter; for T-extension only. |  |\n|  | Reorder No. | Size |\n|  | 2.75\"×4\"(7cm×10cm) | 40/100/Cs |\n|  | Application: Peripheral venous cathete; for fixation of ocular dressing. |  |\n|  | 3.35\"×4.13\"(8.5cm×10.5cm) | 40/100/Cs |\n|  | Application: Multi-lumen catheter, pulmonary artery catheter, hemodialysis catheter, carotid artery catheter. |  |\n|  | 4\"×4.52\"(10cm×11.5cm) | 40/100/Cs |\n|  | Application: Carotid injection (basic). |  |\n|  | Reorder No. | Size |\n|  | 4\"×4.72\"(10cm×12cm) | 24/100/Cs |\n|  | Application: CVC(CVP) subclavian vein catheter, epidural catheter. |  |\n|  | 4\"×4.72\"(10cm×12cm) | 24/100/Cs |\n|  | Application: CVC(CVP) subclavian vein catheter, epidural catheter (ultra-thin, high permeobility type). |  |\n|  | 4\"×6\"(10cm×15cm) | 40/50/Cs |\n|  | Application: Protection of wound surface in donated area, stage I and II pressure ulcer. |  |\n|  | Reorder No. | Size |\n|  | 4\"×8\"(10cm×20cm) | 40/50/Cs |\n|  | Application: Protection of wound surface in donated area, epidural catheter. |  |\n|  | 4\"×10\"(10cm×25cm) | 40/50/Cs |\n|  | Application: Protection of wound surface in donated area. |  |\n|  | 6\"×8\"(15cm×20cm) | 40/50/Cs |\n|  | Application: pressure ulcer, donated area, epidural catheter. |  |\n|  | 3.15\"×2.75\"(8cm×7cm) | 40/100/Cs |\n|  | Application: Peripheral venous catheter. |  |\n|  | 2.36\"×2.75\"(6cm×7cm) | 40/100/Cs |\n|  | Application: Peripheral venous catheter, for pediatric carotid injection. |  |\n|  | 3.35\"×4.52\"(8.5cm×11.5cm) | 4/25/Cs |\n|  | 4\"×6.1\"(10cm×15.5cm) | 4/25/Cs |\n|  | Gel pad with 2% CHG (chlorhexidine). Application: CVC with risk of infection, PICC peripherally placed,arterial indweling catheter.peripheral venous catheter.etc. |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2111,8 +2107,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Nonwoven fabric made of Viscose and Polyester Fibers\n- Medical Paper\n- Adhesive: Acrylic and Hotmelt\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Straight and Curved Cut Transfer Paper\n\n## PERFORMANCE\n- Highly Flexible\n- Skin friendly\n- Hypoallergenic\n- Strong hold without skin irritation (Latex-free)",
+      "tableInMd": "| Corners | Size (cm) |\n|---|---|\n| Round Corners | 7x5 |\n|  | 10x8 |\n| Straight Corners | 7x5 |\n|  | 10x8 |\n|  | 10x15 |\n|  | 10x20 |\n|  | 10x25 |\n|  | 10x30 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2140,8 +2136,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Calcium Alginate and carboxylmethylcellulose (CMC) fabric\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Shapes\n\n## PERFORMANCE\n- Skin friendly\n- Hypoallergenic\n- Hemostatic Effect\n- Non-Adhesive\n- Highly Absorbent",
+      "tableInMd": "| Shape | Size (cm) | Pouch |\n|---|---|---|\n| Square | 6x6 | 3pcs |\n|  |  | 10pcs |\n|  | 10x10 | 3pcs |\n|  |  | 10pcs |\n|  | 15x15 | 3pcs |\n|  |  | 10pcs |\n| Strip | 2,7x34 | 3pcs |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2169,8 +2165,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polyamide Fibers coated with elemental silver\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Shapes\n\n## PERFORMANCE\n- Skin friendly\n- Hypoallergenic\n- Non-Adhesive",
+      "tableInMd": "| Size (cm) | Pouch |\n|---|---|\n| 10x10 | 10pcs |\n| 15x15 | 10pcs |\n| 20x20 | 10pcs |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2198,8 +2194,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Hydrocolloid Gel Structure\n- Adhesive: Acrylic and Hotmelt\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Shapes\n\n## PERFORMANCE\n- Skin friendly\n- Hypoallergenic",
+      "tableInMd": "| Size |\n|---|\n| 2” x 2” (5cm x 5cm) |\n| 4” x 4” (10cm x 10cm) |\n| 4” x 8” (10cm x 20cm) |\n| 6” x 6” (15cm x 15cm) |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2227,8 +2223,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Hydro-active Gel Structure\n- Adhesive: Acrylic and Hotmelt\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Shapes\n\n## PERFORMANCE\n- Skin friendly\n- Hypoallergenic",
+      "tableInMd": "| Size |\n|---|\n| 2” x 2” (5cm x 5cm) |\n| 4” x 4” (10cm x 10cm) |\n| 4” x 8” (10cm x 20cm) |\n| 6” x 6” (15cm x 15cm) |\n| 1.5 oz(42g)tube |\n| 3 oz(85g)tube |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2256,8 +2252,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Polyurethane (PUR) Foam layered film\n- Adhesive: Acrylic and Hotmelt\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Shapes\n\n## PERFORMANCE\n- Skin friendly\n- Hypoallergenic\n- Highly Absorbent",
+      "tableInMd": "| Size (cm) | Pouch |\n|---|---|\n| 10x10 | 5pcs |\n| 10x10 | 10pcs |\n| 15x15 | 5pcs |\n| 20x20 | 5pcs |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2285,8 +2281,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Gauze Cotton Gauze fabric (Petrolatum)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Sizes\n\n## PERFORMANCE\n- Skin friendly\n- Hypoallergenic\n- Protection Without Sticking to the wound",
+      "tableInMd": "| Size (cm) |\n|---|\n| 5x5 |\n| 10 x 10 |\n| 10 x 20 |\n| 10 x 30 |\n| 10 x 10 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2314,8 +2310,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Polyurethane (PUR) Foam layered film\n- Adhesive: Acrylic\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Shapes\n- With and without Haemostatic Island\n\n## PERFORMANCE\n- Skin friendly\n- Hypoallergenic",
+      "tableInMd": "| Presentation | Size (cm) | Pouch |\n|---|---|---|\n| Plain | 5x7 | 3pcs |\n|  | 5x7 | 10pcs |\n|  | 10x10 | 3pcs |\n|  |  | 10pcs |\n|  | 15x15 | 3pcs |\n|  |  | 10pcs |\n|  | 10x20 | 3pcs |\n|  |  | 10pcs |\n|  | 20x20 | 5pcs |\n| With Island | 5x7 | 3pcs |\n|  | 5x7 | 10pcs |\n|  | 10x10 | 3pcs |\n|  |  | 10pcs |\n|  | 15x15 | 3pcs |\n|  |  | 10pcs |\n|  | 10x20 | 3pcs |\n|  |  | 10pcs |\n|  | 20x20 | 5pcs |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2343,7 +2339,7 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
+      "description": "## COMPOSITION\n- 100% Cotton fabric\n\n## STERILIZATION\n- Non Sterile, Ethylene oxide and Steam Sterilization\n\n## PRESENTATIONS\n- Sterile and non-sterile\n\n## PERFORMANCE\n- Highly Absorbent\n- Straight Edges\n\n## AVAILABLE SPECIFICATIONS\n- Cotton Yarn: 40s / 36s / 32s / 21s\n- Mesh: 40x40 / 40x30 / 32x28 / 30x28, 30x36 / 30x20 / 28x26 / 26x24 / 20x12 / 19x15 / 19x11 / 11x8\n- Width: 90cm (36″), 120cm (48″), 130cm (51″)\n- Length:10m, 25m, 50m, 100yards (91m), 1000m, 2000m, 3000m\n- MOQ: 5.000mts\n- Color: white (mostly), green, blue\n- Type: sterile or non-sterile x-ray detectable or not\n- Woven way: plain\n- Layer: 1ply / 2ply / 4ply / 8ply",
       "tableInMd": "",
       "images": [],
       "PackagingInformation": {
@@ -2372,7 +2368,7 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
+      "description": "## COMPOSITION\n- 100% Cotton fabric\n\n## STERILIZATION\n- Non Sterile, Ethylene oxide and Steam Sterilization\n\n## PRESENTATIONS\n- Sterile and non-sterile\n- With and Without X-Ray Thread\n- Open and Folded Edges\n\n## PERFORMANCE\n- Highly Absorbent\n\n## AVAILABLE SPECIFICATIONS\n- Cotton Yarn: 21’s / 32’s / 40’s\n- Mesh: 11 / 13 / 17 / 20 / 25 / 29 Thread / 20*10 / 19*15 / 26*18 / 30*20\n- With or without x-ray detectable threads\n- With or without folded edges\n- Size: 2”x2” / 3”x3” / 4”x4” / 4”x8”\n- Plies: 4ply / 8pl / 12ply / 16ply / 24ply / 32ply\n- Packaging Qty: 1pc, 2pcs, 3pcs, 5pcs, 10pcs per sterile pouch, if non sterile: 100pcs/bag\n- Package:\n> Sterile Package: Wrapped in sterile paper+paper pouch, paper + film pouch as well as blister\n> Non sterile package: white paper bag wrap\n> Colors: white, green, blue ect\n> Standard: EP, USP, BP etc",
       "tableInMd": "",
       "images": [],
       "PackagingInformation": {
@@ -2401,7 +2397,7 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
+      "description": "## COMPOSITION\n- 100% Cotton fabric\n\n## STERILIZATION\n- Non Sterile, Ethylene oxide and Steam Sterilization\n\n## PRESENTATIONS\n- Sterile and non-sterile\n- With X-Ray Band and Blue Loop (holder)\n- Open and Folded Edges\n- White and Green Color\n\n## PERFORMANCE\n- Highly Absorbent\n- Sewn Without open Edges\n\n## AVAILABLE SPECIFICATIONS\n- Cotton Yarn: 40’s / 36’s / 32’s / 21’s\n- Mesh: 13th / 17th\n- Color: White / Green / Blue\n- Size: 20x20cm / 20x30cm / 30x30cm/ 40x40cm / 45x45cm / 50x60cm /90x8cm\n- Layer: 4p / 6p / 12p\n- Loop: With or without cotton loop (blue loop)\n- Type: Pre-washed / non-washed/sterile / non-sterile",
       "tableInMd": "",
       "images": [],
       "PackagingInformation": {
@@ -2430,7 +2426,7 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
+      "description": "## COMPOSITION\n- Non Woven fabric made of 70% viscose + 30% polyester\n\n## STERILIZATION\n- Non Sterile, Ethylene oxide and Steam Sterilization\n\n## PRESENTATIONS\n- Sterile and non-sterile\n- With and Without X-Ray Thread\n\n## PERFORMANCE\n- Highly Absorbent\n\n## AVAILABLE SPECIFICATIONS\n- Non Woven Fabrics’ Quality: 30g/35g/40g/45g/50g\n- With or without x-ray detectable threads\n- Size: 2”x2” / 3”x3” / 4”x4” / 4”x8”\n- Plies: 4ply / 8ply / 12ply / 16ply / 24ply / 32ply\n- Packaging Qty: 1pc, 2pcs, 3pcs, 5pcs, 10pcs per sterile pouch, if non sterile: 100pcs/bag\n- Package:\n  > Sterile Package: Wrapped in sterile paper+paper pouch, paper + film pouch as well as blister\n  > Non sterile package: white paper bag wrap\n  > Colors: white",
       "tableInMd": "",
       "images": [],
       "PackagingInformation": {
@@ -2487,9 +2483,9 @@
         "Infusion",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "EN14683:2005",
+      "description": "## COMPOSITION\n- 100% Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- White and Blue\n- With Ties and Ear Loops\n- Up to BFE ≥99%\n\n## PERFORMANCE\n- Water-repellent outer layer to prevent inhalation of large liquid droplets\n- Adjustable Nose Fitting Clip\n- With a non-irritating inner layer\n\n## PROTECTION\n- DENTAL",
+      "tableInMd": "| Children | 14.5 x 9.5cm |\n|---|---|\n| Adults with Ear-Loop | 17.5 x 9.5cm |\n| Adults with Ties | 17.5 x 9.5cm |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2516,9 +2512,9 @@
         "Infusion",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "EN14079",
+      "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n- Loading Capacity: 20GP (29m3): …….. – 40HC (69m3): …….. \n\n## COMPOSITION\n- 100% Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- White\n- With Ties\n- Up to BFE ≥99%\n- Adjustable Nose Fitting Clip\n\n## PERFORMANCE\n- Lightweight and breathable, smooth breathing\n- Low sensitivity, soft and skin-friendly\n- Ultrasonic welding spot, sturdy and durable\n\n## PROTECTION",
+      "tableInMd": "| Description | Sterility |\n|---|---|\n| FFP2 N9501F 11cm × 16cm,4 ply | Non-sterile |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2546,8 +2542,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- White and Blue\n- Plain and With Anti Slip Strips\n- Standard fabric, Polyurethane (PE) and SMS\n\n## PERFORMANCE\n- With Elastic",
+      "tableInMd": "| Size | 15*36cm | 15*40cm |\n|---|---|---|\n| Weight | 1.5grs / 2grs / 2.5grs / 3grs / 3.5grs / 4grs |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2575,8 +2571,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- White and Blue\n- Plain and With Anti Slip Strips\n- Standard fabric, Polyurethane (PE) and SMS\n\n## PERFORMANCE\n- With Elastic",
+      "tableInMd": "| Size | 55*36cm | 55*40cm |\n|---|---|---|\n| Weight | 1.5grs / 2grs / 2.5grs / 3grs / 3.5grs / 4grs |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2604,8 +2600,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- White and Blue\n\n## PERFORMANCE\n- With Elastic\n- Highly Breathable material",
+      "tableInMd": "| Weight | 10grs / 12grs / 15grs |  |  |  |\n|---|---|---|---|---|\n| Size | 18\" | 19\" | 20\" | 21\" |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2633,8 +2629,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- White and Blue\n\n## PERFORMANCE\n- With Elastic\n- Highly Breathable material",
+      "tableInMd": "| Weight | 10grs / 12grs / 15grs |  |  |  |\n|---|---|---|---|---|\n| Size | 18\" | 19\" | 20\" | 21\" |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2662,8 +2658,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- White and Blue\n\n## PERFORMANCE\n- With Ties\n- Highly Breathable material",
+      "tableInMd": "| Weight | 10grs / 12grs / 15grs |  |  |  |\n|---|---|---|---|---|\n| Size | 18\" | 19\" | 20\" | 21\" |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2691,8 +2687,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% SMS - Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- Latex free\n- White and Blue\n- Wide Range of Different Materials Compounds and Size\n- Elastic Wrist\n\n## PERFORMANCE\n- Highly Breathable material\n- Outstanding Barrier Properties\n- Comfortable and soft fabric\n\n## PROTECTION\n- DENTAL",
+      "tableInMd": "| Description |\n|---|\n| Low SMS,  S, AAMI Level 1 |\n| Low SMS,  M, AAMI Level 1 |\n| Low SMS,  L, AAMI Level 1 |\n| Low SMS,  XL AAMI Level 1 |\n| Medium SMS, S,  AAMI Level 2 |\n| Medium SMS, M,  AAMI Level 2 |\n| Medium SMS, L, AAMI Level 2 |\n| Medium SMS, XL, AAMI Level 2 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2719,9 +2715,9 @@
         "Infusion",
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "EN13795-1:SP",
+      "description": "## COMPOSITION\n- 100% Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Latex free\n- White and Blue\n- Wide Range of Different Materials Compounds and Size\n- Elastic Wrist\n\n## PERFORMANCE\n- Highly Breathable material\n- Fluid repellent / Full permeability\n- Comfortable and soft fabric\n\n## PROTECTION\n- DENTAL",
+      "tableInMd": "| Description |\n|---|\n| Standard Surgical Gown, S |\n| Standard Surgical Gown, M |\n| Standard Surgical Gown, L |\n| Standard Surgical Gown, XL |\n| Standard Surgical Gown, XXL |\n| Reinforced Surgical Gown, S |\n| Reinforced Surgical Gown, M |\n| Reinforced Surgical Gown, L |\n| Reinforced Surgical Gown, XL |\n| Reinforced Surgical Gown, XXL |\n| ECO Standard Surgical Gown, S |\n| ECO Standard Surgical Gown, M |\n| ECO Standard Surgical Gown, L |\n| ECO Standard Surgical Gown, XL |\n| ECO Standard Surgical Gown, XXL |\n| ECO Reinforced Surgical Gown, S |\n| ECO Reinforced Surgical Gown, M |\n| ECO Reinforced Surgical Gown, L |\n| ECO Reinforced Surgical Gown, XL |\n| ECO Reinforced Surgical Gown, XXL |\n| Standard Surgical Gown, M, AAMI Level 2 |\n| Standard Surgical Gown, L, AAMI Level 2 |\n| Standard Surgical Gown, XL, AAMI Level 2 |\n| Standard Surgical Gown, XXL, AAMI Level 2 |\n| Standard Surgical Gown, XXXL, AAMI Level 2 |\n| Reinforced Surgical Gown, M, AAMI Level 2 |\n| Reinforced Surgical Gown, L, AAMILevel 2 |\n| Reinforced Surgical Gown, XL, AAMI Level 2 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2749,8 +2745,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Polypropylene (PE)\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- Various Colors\n- Various material thicknesses\n\n## PERFORMANCE\n- One size\n- Durable\n- Easy to put on and take off\n- Fasteners at the waist",
+      "tableInMd": "| Film Quality | Dimensions |\n|---|---|\n| 30 Microns | 70 x 110cm |\n| 45 Microns | 90 x 150cm |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2778,8 +2774,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Mainly Non Woven (Polyphenylenether – PPE) fabric\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Latex free\n- Wide Range of Different Materials Compounds, Shapes, Dimensions and Size\n- Customized Configurations\n\n## PERFORMANCE\n- Alcohol and other Fluids repellent\n- antistatic\n- Skin Friendly and Hypoallergenic Adhesives",
+      "tableInMd": "| SURGICAL KIT |\n|---|\n| Universal Kit |\n| Extremity Kit |\n| Hip Kit |\n| Split sheet Kit |\n| Gynecology Kit |\n| Knee arthroscopy Kit |\n| TUR Kit |\n| Delivery Kit |\n| Gynecology Kit |\n| Special shoulder Kit |\n| Spine Kit |\n| Laparoscopy Kit |\n| C-section Kit |\n| Ophthalmic Kit |\n| Hand/foot Kit |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2807,8 +2803,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Natural Rubber (Latex)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Soft and Hard Valve\n- Color-Coded Size Identification\n- Silicon Coated\n- With 5mL, 5-10mL, 5-15mL, 15mL, 15-30mL, 30-50mL Balloon\n\n## PERFORMANCE\n- Smooth surface allowing successful introduction\n- Central positioned Balloon",
+      "tableInMd": "| Size (Fr/Ch) | Balloon (ml) | Color Code | Length (mm) |\n|---|---|---|---|\n| 2-Ways Paediatric |  |  |  |\n| 6 | 3 | Light Red | 270 |\n| 8 | 5 | Black | 270 |\n| 10 | 5 | Grey | 270 |\n| 2-Ways Standard |  |  |  |\n| 12 | 10 | White | 400 |\n| 14 | 10 | Green | 400 |\n| 16 | 10 | Orange | 400 |\n| 18 | 10 | Red | 400 |\n| 20 | 10 | Yellow | 400 |\n| 22 | 10 | Violet | 400 |\n| 24 | 10 | Blue | 400 |\n| 26 | 10 | PINK | 400 |\n| 3-Ways Standard |  |  |  |\n| 16 | 30 | Orange | 400 |\n| 18 | 30 | Red | 400 |\n| 20 | 30 | Yellow | 400 |\n| 22 | 30 | Violet | 400 |\n| 24 | 30 | Blue | 400 |\n| 26 | 30 | PINK | 400 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2836,8 +2832,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Silicon\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Hard Valve\n- Color-Coded Size Identification\n- Silicon Coated\n- With 3mL, 5mL, 5-10mL, 5-15mL, 15mL, 20mL, 30-50mL Balloon\n- Radiopaque Indication Line along the whole tube length\n\n## PERFORMANCE\n- Smooth surface allowing successful introduction\n- Central positioned Balloon",
+      "tableInMd": "| Size (Fr/Ch) | Balloon (ml) | Color Code | Length (mm) |\n|---|---|---|---|\n| 2-Ways Paediatric |  |  |  |\n| 6 | 3 | Light Red | 270 |\n| 8 | 5 | Black | 270 |\n| 10 | 5 | Grey | 270 |\n| 2-Ways Standard |  |  |  |\n| 12 | 10 | White | 400 |\n| 14 | 10 | Green | 400 |\n| 16 | 10 | Orange | 400 |\n| 18 | 10 | Red | 400 |\n| 20 | 10 | Yellow | 400 |\n| 22 | 10 | Violet | 400 |\n| 24 | 10 | Blue | 400 |\n| 26 | 10 | PINK | 400 |\n| 3-Ways Standard |  |  |  |\n| 16 | 30 | Orange | 400 |\n| 18 | 30 | Red | 400 |\n| 20 | 30 | Yellow | 400 |\n| 22 | 30 | Violet | 400 |\n| 24 | 30 | Blue | 400 |\n| 26 | 30 | PINK | 400 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2865,8 +2861,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Silicon and 100% Natural Rubber\n- Lubricated Coating Layer\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- 100% Silicon (Latex Free) and 100% Natural Rubber (Latex)\n- Hard Valve\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- Highly Slippery and Smooth Surface allowing successful introduction\n- Central positioned Balloon",
+      "tableInMd": "| Size (Fr/Ch) | Balloon (ml) | Color Code | Length (mm) |\n|---|---|---|---|\n| 2-Ways Paediatric |  |  |  |\n| 6 | 3 | Light Red | 270 |\n| 8 | 5 | Black | 270 |\n| 10 | 5 | Grey | 270 |\n| 2-Ways Standard |  |  |  |\n| 12 | 10 | White | 400 |\n| 14 | 10 | Green | 400 |\n| 16 | 10 | Orange | 400 |\n| 18 | 10 | Red | 400 |\n| 20 | 10 | Yellow | 400 |\n| 22 | 10 | Violet | 400 |\n| 24 | 10 | Blue | 400 |\n| 26 | 10 | PINK | 400 |\n| 3-Ways Standard |  |  |  |\n| 16 | 30 | Orange | 400 |\n| 18 | 30 | Red | 400 |\n| 20 | 30 | Yellow | 400 |\n| 22 | 30 | Violet | 400 |\n| 24 | 30 | Blue | 400 |\n| 26 | 30 | PINK | 400 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2894,8 +2890,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Silicon and 100% Natural Rubber\n- Lubricated Coating Layer\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- 100% Silicon (Latex Free) and 100% Natural Rubber (Latex)\n- Hard Valve\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- Highly Slippery and Smooth Surface allowing successful introduction\n- Central positioned Balloon",
+      "tableInMd": "| TYPES | SIZES |\n|---|---|\n| Foley Catheters, 2-Way, Specialty, Hematuria, Latex, Long Round Tip, Two Sets of Opposing Drainage Eyes | Balloon 30cc, 20FR |\n| Foley Catheters, 2-Way, Specialty, Hematuria, Latex, Long Round Tip, Two Sets of Opposing Drainage Eyes | Balloon 30cc, 22FR |\n| Foley Catheters, 2-Way, Specialty, Hematuria, Latex, Long Round Tip, Two Sets of Opposing Drainage Eyes | Balloon 30cc, 24FR |\n| Foley Catheters, 2-Way, Specialty, Hematuria, Latex, Long Open Coude Tip, Two Staggered Drainage Eyes | Balloon 30cc, 20FR |\n| Foley Catheters, 2-Way, Specialty, Hematuria, Latex, Long Open Coude Tip, Two Staggered Drainage Eyes | Balloon 30cc, 22FR |\n| Foley Catheters, 2-Way, Specialty, Hematuria, Latex, Long Open Coude Tip, Two Staggered Drainage Eyes | Balloon 30cc, 24FR |\n| Foley Catheters, 3-Way, Specialty, Hematuria, Latex, Long Round Tip, Two Sets of Opposing Drainage Eyes | Balloon 30cc, 20FR |\n| Foley Catheters, 3-Way, Specialty, Hematuria, Latex, Long Round Tip, Two Sets of Opposing Drainage Eyes | Balloon 30cc, 22FR |\n| Foley Catheters, 3-Way, Specialty, Hematuria, Latex, Long Round Tip, Two Sets of Opposing Drainage Eyes | Balloon 30cc, 24FR |\n| Foley Catheters, 3-Way, Specialty, Hematuria, Latex, Long Open Coude Tip, Two Staggered Drainage Eyes | Balloon 30cc, 20FR |\n| Foley Catheters, 3-Way, Specialty, Hematuria, Latex, Long Open Coude Tip, Two Staggered Drainage Eyes | Balloon 30cc, 22FR |\n| Foley Catheters, 3-Way, Specialty, Hematuria, Latex, Long Open Coude Tip, Two Staggered Drainage Eyes | Balloon 30cc, 24FR |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2923,8 +2919,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Natural Rubber (Latex)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Pezzer/Melacot/Club Types\n\n## PERFORMANCE\n- Highly Smoot Surface allowing successful introduction\n- Funnelled Tips",
+      "tableInMd": "| PEZZER CATHETER |  | MELACOT CATHETER |  | CLUB CATHETER |  |\n|---|---|---|---|---|---|\n| Size (Fr/Ch) | Length (mm) | Size (Fr/Ch) | Length (mm) | Size (Fr/Ch) | Length (mm) |\n| 12 | 33 | 12 | 40 | 12 | 40 |\n| 14 | 33 | 14 | 40 | 14 | 40 |\n| 16 | 33 | 16 | 40 | 16 | 40 |\n| 18 | 33 | 18 | 40 | 18 | 40 |\n| 20 | 33 | 20 | 40 | 20 | 40 |\n| 22 | 33 | 22 | 40 | 22 | 40 |\n| 24 | 33 | 24 | 40 | 24 | 40 |\n| 26 | 33 | 26 | 40 | 26 | 40 |\n| 28 | 33 | 28 | 40 | 28 | 40 |\n| 30 | 33 | 30 | 40 | 30 | 40 |\n| 32 | 33 | 32 | 40 | 32 | 40 |\n| 34 | 33 | 34 | 40 | 34 | 40 |\n| 36 | 33 | 36 | 40 | 36 | 40 |\n| 38 | 33 | 38 | 40 | 38 | 40 |\n| 40 | 33 | 40 | 40 | 40 | 40 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2952,8 +2948,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Natural Rubber (Latex)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Red Color\n- 1- Way\n\n## PERFORMANCE\n- Highly Smoot Surface allowing successful introduction\n- Funnelled Tips",
+      "tableInMd": "| PEDIATRIC |  |  |\n|---|---|---|\n| Size (Fr/Ch) | Color Code | Length (mm) |\n| 6 | Light Green | 270 |\n| 8 | Blue | 270 |\n| 10 | Black | 270 |\n| ADULT |  |  |\n| Size (Fr/Ch) | Color Code | Length (mm) |\n| 12 | White | 400 |\n| 14 | Green | 400 |\n| 16 | Orange | 400 |\n| 18 | Red | 400 |\n| 20 | Yellow | 400 |\n| 22 | Violet | 400 |\n| 24 | Dark blue | 400 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -2981,8 +2977,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Standard and Atraumatic Eyes Tips\n- PVC and DEHP-FREE PVC\n\n## PERFORMANCE\n- Smooth surface allowing successful introduction\n- Central positioned Balloon",
+      "tableInMd": "| MALE Type |  |\n|---|---|\n| Size (Fr/Ch) | Color Code |\n| 6 | Light Green |\n| 8 | Blue |\n| 10 | Black |\n| 12 | White |\n| 14 | Green |\n| 16 | Orange |\n| 18 | Red |\n| 20 | Yellow |\n| 22 | Violet |\n| 24 | Dark blue |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3010,8 +3006,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n- hydrophilic coating Sachet\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC and DEHP-FREE PVC\n- Color-Coded Size Identification\n- Male and Female\n- Male Type: Standard and Tiemann Types\n\n## PERFORMANCE\n- Highly Slippery and Smoot Surface allowing successful introduction",
+      "tableInMd": "| STANDARD |  |  |  |\n|---|---|---|---|\n| Color Code | Size (Fr/Ch) | Pack | With and Without Water Sachet |\n| Blue | 8 | Box of 30 | x |\n| Black | 10 | Box of 30 | x |\n| White | 12 | Box of 30 | x |\n| Green | 14 | Box of 30 | x |\n| Orange | 16 | Box of 30 | x |\n| Red | 18 | Box of 30 | x |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3039,8 +3035,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% Silicon\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Latex free\n- Short/Medium/Long Sizes\n\n## PERFORMANCE\n- self-adhesive sheath\n- Soft and Skin-friendly\n- Highly Transparent",
+      "tableInMd": "| Type | Shape | Size (mm) |\n|---|---|---|\n| STANDARD |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |\n| SPECIAL |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |\n| EXTRA |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3068,8 +3064,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polyethylene (PE) Body\n- PVC and DEHP-FREE PVC Tubing\n- Polypropylene (PP) Clamps, Caps and Hangers\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC and DEHP-FREE PVC\n- Customized Printing\n- T-Cross / Push-Pull / Screw Outlets\n- Single / Double / Without Hangers\n- Ridged Universal Connector\n\n## PERFORMANCE\n- 2 Litters Capacity\n- Non-Flow Return Valve\n- Clear, flexible, kink-resistant inlet PVC tubing\n- Highly Transparent",
+      "tableInMd": "| Image | Descrptions |  |\n|---|---|---|\n|  | N5A-90-2000\u000burine bag 2000ml, \u000bwithout non-return valve,\u000bwithout outlet, \u000btube length 90cm | N5A-130-2000\u000burine bag 2000ml, \u000bwithout non-return valve,\u000bwithout outlet, \u000btube length 130cm |\n|  | N5A-90-2000R\u000burine bag 2000ml, \u000bwith non-return valve,\u000bwithout outlet, \u000btube length 90cm | N5A-130-2000R\u000burine bag 2000ml, \u000bwith non-return valve,\u000bwithout outlet, \u000btube length 130cm |\n|  | N1A1-90-2000\u000burine bag 2000ml, \u000bwith non-return valve, \u000bwith S-size pull-push outlet(PPO1), \u000btube length 90cm | N1A1-130-2000\u000burine bag 2000ml, \u000bwith non-return valve, \u000bwith S-size pull-push outlet(PPO1), \u000btube length 130cm |\n|  | N1A2-90-2000\u000burine bag 2000ml, \u000bwith non-return valve, \u000bwith L-size pull-push outlet(PPO2),\u000btube length 90cm | N1A2-130-2000\u000burine bag 2000ml, \u000bwith non-return valve, \u000bwith L-size pull-push outlet(PPO2),\u000btube length 130cm |\n|  | N1A3-90-2000\u000burine bag 2000ml, \u000bwith non-return valve, \u000bwith M-size pull-push outlet(PPO3),\u000btube length 90cm | N1A3-130-2000\u000burine bag 2000ml, \u000bwith non-return valve, \u000bwith M-size pull-push outlet(PPO3), \u000btube length 130cm |\n|  | N2A-90-2000\u000burine bag 2000ml, \u000bwith non-return valve, \u000bwith twist outlet, \u000btube length 90cm | N2A-130-2000\u000burine bag 2000ml, \u000bwith non-return valve, \u000bwith twist outlet, \u000btube length 130cm |\n|  | N3A1-90-2000\u000burine bag 2000ml, \u000bwith non-return valve,\u000bwith cross outlet(CO01), \u000btube length 90cm | N3A1-130-2000\u000burine bag 2000ml, \u000bwith non-return valve,\u000bwith cross outlet(CO01), \u000btube length 130cm |\n|  | N3A2-90-2000\u000burine bag 2000ml, \u000bwith non-return valve,\u000bwith non-core cross outlet(CO02), \u000btube length 90cm | N3A2-90-2000\u000burine bag 2000ml, \u000bwith non-return valve,\u000bwith non-core cross outlet(CO02), \u000btube length 130cm |\n|  | N9A-90-2000\u000burine bag 2000ml, \u000bwith non-return valve,\u000bwith lever tap outlet(LT), \u000btube length 90cm | N9A-130-2000\u000burine bag 2000ml, \u000bwith non-return valve,\u000bwith lever tap outlet(LT), \u000btube length 130cm |\n|  | N3Q1A1-90-2000\u000bclosed system urine bag 2000ml, \u000bwith needle type sampling port(SC3),\u000bwith cross outlet(CO01), \u000bØ 9.0mm tube x length 90cm,\u000bwith clamp | N3Q1A1-120-2000\u000bclosed system urine bag 2000ml, \u000bwith needle type sampling port(SC3),\u000bwith cross outlet(CO01), \u000bØ 9.0mm tube x length 120cm,\u000bwith clamp |\n|  | N3Q2A1-90-2000\u000bclosed system urine bag 2000ml, \u000bwith needleless sampling port(SC4),\u000bwith cross outlet(CO01), \u000bØ 9.0mm tube x length 90cm,\u000bwith clamp | N3Q2A1-120-2000\u000bclosed system urine bag 2000ml, \u000bwith needleless sampling port(SC4),\u000bwith cross outlet(CO01), \u000bØ 9.0mm tube x length 120cm,\u000bwith clamp |\n|  | N3Q2A2-90-2000\u000bclosed system urine bag 2000ml, \u000bwith needleless sampling port(SC4),\u000bwith non-core cross outlet(CO02), \u000bØ 9.0mm tube x length 90cm,\u000bwith clamp | N3Q2A2-120-2000\u000bclosed system urine bag 2000ml, \u000bwith needleless sampling port(SC4),\u000bwith non-core cross outlet(CO02), \u000bØ 9.0mm tube x length 120cm,\u000bwith clamp |\n|  | N9Q2A2-90-2000\u000bclosed system urine bag 2000ml, \u000bwith needleless sampling port(SC4),\u000bwith lever tap outlet(LT), \u000bØ 9.0mm tube x length 90cm,\u000bwith clamp | N9Q2A2-120-2000\u000bclosed system urine bag 2000ml, \u000bwith needleless sampling port(SC4),\u000bwith lever tap outlet(LT), \u000bØ 9.0mm tube x length 120cm,\u000bwith clamp |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3097,7 +3093,7 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
+      "description": "## COMPOSITION\n- Polyethylene (PE) Body\n- PVC and DEHP-FREE PVC Tubing\n- Polypropylene (PP) Clamps, Caps and Hangers\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC and DEHP-FREE PVC\n- Customized Printing\n- T-Cross Outlet\n- Single / Double Hangers\n- Ridged Universal Connector\n- Needle and Needle free Sampling Port\n- With and Without Sliding Clamp\n\n## PERFORMANCE\n- 2 Litters Capacity\n- Non-Flow Return Valve\n- Clear, flexible, kink-resistant inlet PVC tubing\n- Highly Transparent\n- Capacity: 2000ml\n- Type: pyriform; latex free, with 100%silicone blue outlet\nand with folding clamp, with needle sample port,\nwith anti-reflux valve, with finger guard clamp\n- Inlet tube: O.D10mm; 100cm length",
       "tableInMd": "",
       "images": [],
       "PackagingInformation": {
@@ -3126,7 +3122,7 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
+      "description": "## COMPOSITION\n- Polyethylene (PE) Body\n- DEHP-FREE PVC Tubing\n- Polypropylene (PP) Clamps, Caps and Hangers\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- DEHP-FREE PVC\n- Customized Printing\n- T-Cross Outlet\n- Double Hangers and Cords\n- Ridged Universal Connector\n- Needle and Needle free Sampling Port\n- With and Without Sliding Clamp\n- With and Without PASTEUR Chamber\n\n## PERFORMANCE\n- 2 Litters Capacity\n- Non-Flow Return Valve\n- Clear, flexible, kink-resistant inlet PVC tubing\n- Highly Transparent\n- Close system bag 2000ml with T valve outlet, with hook, with tie, filter, needle free sampling port, with drip chamber, tube O.D.: 10.0mm, length 110cm with sheet clamp and slide clamp.",
       "tableInMd": "",
       "images": [],
       "PackagingInformation": {
@@ -3155,8 +3151,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polyethylene (PE) Body\n- DEHP-FREE PVC Tubing\n- Polypropylene (PP) Clamps, Caps and Hangers\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- DEHP-FREE PVC\n- Customized Printing\n- T-Cross Outlet\n- Double Hangers and Cords\n- Ridged Universal Connector\n- Needle and Needle free Sampling Port\n- With and Without Sliding Clamp\n- With and Without PASTEUR Chamber\n\n## PERFORMANCE\n- 2 Litters Capacity\n- Non-Flow Return Valve\n- Air vented Constant Airflow\n- Clear, flexible, kink-resistant inlet PVC tubing\n- Highly Transparent",
+      "tableInMd": "| Sizes |  |\n|---|---|\n| Urinemeter with drip chamber, air-vent and anti-reflex valve, 2000ml urine bag, needleless sampling port with cap, tube length 120cm, O.D. 10mm, slide clamp and bed sheet clamp, universal double-hook and rope hanger, T-tap outlet valve | Urine Meter, 2000ml + 200ml |\n|  | Urine Meter, 2000ml + 400ml |\n|  | Urine Meter, 2000ml + 500ml |\n|  | Urine Meter, 2600ml + 400ml |\n|  | Urine Meter, 2600ml + 500ml |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3184,8 +3180,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polyethylene (PE) Body\n- PVC and DEHP-FREE PVC Tubing\n- Polypropylene (PP) Clamps, Caps and Hangers\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC and DEHP-FREE PVC\n- Customized Printing\n- T-Cross / Screw Outlets\n- Elastic Holders\n- Ridged Universal Connector\n- Needle and Needle free Sampling Port\n- With and Without Soft Non Woven Backside\n\n## PERFORMANCE\n- 2 Litters Capacity\n- Non-Flow Return Valve\n- Air vented Constant Airflow\n- Clear, flexible, kink-resistant inlet PVC tubing\n- Highly Transparent",
+      "tableInMd": "| Image |  | Descrptions |  |\n|---|---|---|---|\n|  | N1A1-15-500 |  | N1A1-35-500 |\n|  | leg bag 500ml, |  | leg bag 500ml, |\n|  | with non-return valve, |  | with non-return valve, |\n|  | with S-size pull-push outlet(PPO1), |  | with S-size pull-push outlet(PPO1), |\n|  | tube length 15cm |  | tube length 35cm |\n|  | N1A1-15-750 |  | N1A1-35-750 |\n|  | leg bag 750ml |  | leg bag 750ml, |\n|  | with non-return valve, |  | with non-return valve, |\n|  | with S-size pull-push outlet(PPO1), |  | with S-size pull-push outlet(PPO1), |\n|  | tube length 15cm |  | tube length 35cm |\n|  | N1A2-15-750 |  | N1A2-35-750 |\n|  | leg bag 750ml |  | leg bag 750ml, |\n|  | with non-return valve, |  | with non-return valve, |\n|  | with L-size pull-push outlet(PPO2), |  | with L-size pull-push outlet(PPO2), |\n|  | tube length 15cm |  | tube length 35cm |\n|  | N1A3-15-750 |  | N1A3-35-750 |\n|  | leg bag 750ml |  | leg bag 750ml, |\n|  | with non-return valve, |  | with non-return valve, |\n|  | with M-size pull-push outlet(PPO3), |  | with M-size pull-push outlet(PPO3), |\n|  | tube length 15cm |  | tube length 35cm |\n|  | N2A-15-750 |  | N2A-35-750 |\n|  | leg bag 750ml, |  | leg bag 750ml, |\n|  | with non-return valve, |  | with non-return valve, |\n|  | with twist outlet(TO), |  | with twist outlet(TO), |\n|  | tube length 15cm |  | tube length 35cm |\n|  | N3A1-15-750 |  | N3A1-35-750 |\n|  | leg bag 750ml, |  | leg bag 750ml, |\n|  | with non-return valve, |  | with non-return valve, |\n|  | with cross outlet(CO1), |  | with cross outlet(CO1), |\n|  | tube length 15cm |  | tube length 35cm |\n|  | N3A2-15-750 |  | N3A2-35-750 |\n|  | leg bag 750ml, |  | leg bag 750ml, |\n|  | with non-return valve, |  | with non-return valve, |\n|  | with non-core cross outlet(CO2), |  | with non-core cross outlet(CO2), |\n|  | tube length 15cm |  | tube length 35cm |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3213,8 +3209,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Polyethylene (PE) Body\n- Foam\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Customized Printing\n\n## PERFORMANCE\n- Skin Friendly\n- Soft Foam Protection\n- Highly Transparent",
+      "tableInMd": "| Types |\n|---|\n| 100ml, flank seal, yellow paper (normal) |\n| 200ml, flank seal, yellow paper (normal) |\n| 100ml, front seal, yellow paper (normal) |\n| 200ml, front seal, yellow paper (normal) |\n| 100ml, flank seal, yellow paper (male) |\n| 200ml, flank seal, yellow paper (male) |\n| 100ml, front seal, yellow paper (female) |\n| 200ml, front seal, yellow paper (female) |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3240,8 +3236,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC, 100% DEHP-FREE PVC and 100% Silicone\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Standard and Atraumatic Eyes Tips\n- PVC, DEHP-FREE PVC and Silicone\n- Cuffed and Uncuffed\n\n## PERFORMANCE\n- Outstanding balance between softness and flexibility\n- Anatomic Tip allowing successful introduction\n- Murphy Eye\n- High Seal pressure balloon\n- Encapsulated radiopaque stripe all along the tube length\n- Clear Tube",
+      "tableInMd": "| STANDARD ENDOTRACHEAL TUBE |  |\n|---|---|\n| Uncuffed |  |\n| Size (ID mm) | 2,0  / 2,5  / 3,0  / 3,5  / 4,0  / 4,5  / 5,0  / 5,5  / 6,0  / 6,5  / 7,0  / 7,5  / 8,0  / 8,5  / 9,0  / 9,5  / 10,0 |\n| Features | Non-Toxic PVC and PVC DEHP-FREE: Transparent, Soft and Smooth |\n|  | Radio Opaque line through the length for X-ray visualisation. |\n| Cuffed / High volume low pressure cuff and Low profile cuff |  |\n| Size (ID mm) | 3,0  / 3,5  / 4,0  / 4,5  / 5,0  / 5,5  / 6,0  / 6,5  / 7,0  / 7,5  / 8,0  / 8,5  / 9,0  / 9,5  / 10,0 |\n| Features | High volume cuff = positive tracheal wall seal |\n|  | Capable of short and long-term surgury treatments |\n| REINFORCED ENDOTRACHEAL TUBE |  |\n| Uncuffed |  |\n| Size (ID mm) | 3,0  / 3,5  / 4,0  / 4,5  / 5,0  / 5,5  / 6,0  / 6,5  / 7,0  / 7,5  / 8,0  / 8,5  / 9,0  / 9,5  / 10,0 |\n| Features | Non-Toxic PVC and PVC DEHP-FREE |\n|  | Spiral reinforcement minimizes crushing or kinking. |\n|  | Flex conform to any patient position, especially OPS of decubitus. |\n| Cuffed / High volume low pressure cuff |  |\n| Size (ID mm) | 4,0  / 4,5  / 5,0  / 5,5  / 6,0  / 6,5  / 7,0  / 7,5  / 8,0  / 8,5  / 9,0  / 9,5 |\n| Features | Non-Toxic PVC and PVC DEHP-FREE. Avaliable with high volume low pressure cuff. |\n|  | it provides positive tracheal wall seal. |\n|  | Flex conform to any patient position, especially to OPS of decubitus. |\n| Cuffed / Low profile cuff |  |\n| Size (ID mm) | 3,0  / 3,5  / 4,0  / 4,5  / 5,0  / 5,5  / 6,0  / 6,5  / 7,0  / 7,5  / 8,0  / 8,5  / 9,0  / 9,5  / 10,0 |\n| Features | Non-Toxic PVC and PVC DEHP-FREE |\n|  | Spiral stainless steel wire insude. |\n|  | Flex conform to any patient posotions, especially to OPS decubitus. |\n| ORAL PREFORMED TUBE |  |\n| Uncuffed |  |\n| Size (ID mm) | 3,0  / 3,5  / 4,0  / 4,5  / 5,0  / 5,5  / 6,0  / 6,5  / 7,0  / 7,5  / 8,0  / 8,5  / 9,0  / 9,5  / 10,0 |\n| Features | Non-Toxic PVC and PVC DEHP-FREE |\n|  | X-ray Visualisation |\n| Cuffed / high volume and low pressure Balloon |  |\n| Size (ID mm) | 3,0  / 3,5  / 4,0  / 4,5  / 5,0  / 5,5  / 6,0  / 6,5  / 7,0  / 7,5  / 8,0  / 8,5  / 9,0  / 9,5  / 10,0 |\n| Features | Toxizitätsfreies PVC/non-toxic PVC |\n|  | X-ray Visualisation |\n|  | mit Murphy Auge/with Murphy Eye |\n| NASAL PREFORMED TUBE |  |\n| Uncuffed |  |\n| Size (ID mm) | 3,0  / 3,5  / 4,0  / 4,5  / 5,0  / 5,5  / 6,0  / 6,5  / 7,0  / 7,5  / 8,0  / 8,5  / 9,0  / 9,5  / 10,0 |\n| Features | Non-Toxic PVC and PVC DEHP-FREE |\n|  | X-ray visualisation |\n| Cuffed / High volume low pressure cuff |  |\n| Size (ID mm) | 4,0  / 4,5  / 5,0  / 5,5  / 6,0  / 6,5  / 7,0  / 7,5  / 8,0  / 8,5  / 9,0  / 9,5  / 10,0 |\n| Features | The high quality soft PVC enables an easy intubation |\n|  | High volume cuff = positive tracheal wall seal |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3267,8 +3263,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC and DEHP-FREE PVC\n- Right and Left Sides\n\n## PERFORMANCE\n- Anatomic Tip allowing successful introduction\n- High Seal pressure balloon\n- Encapsulated radiopaque stripe all along the tube length\n- Clear Tube",
+      "tableInMd": "| Left Side | Right Side |\n|---|---|\n| Size (mm) |  |\n| 28Fr | 28Fr |\n| 32Fr | 32Fr |\n| 35Fr | 35Fr |\n| 37Fr | 37Fr |\n| 39Fr | 39Fr |\n| 41Fr | 41Fr |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3294,8 +3290,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Silicon Coated\n\n## PERFORMANCE\n- Smooth surface allowing successful introduction\n- Atraumatic\n- Two sides channel design\n\n## ANESTHASIA",
+      "tableInMd": "| Berman Type |\n|---|\n| Size (mm) |\n| 40 |\n| 50 |\n| 60 |\n| 70 |\n| 80 |\n| 90 |\n| 100 |\n| 110 |\n| 120 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3321,8 +3317,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC and DEHP-FREE PVC\n- Trumpet, Thickened and Slidable Types\n- Highly Visible Size Indication along the Tubing\n\n## PERFORMANCE\n- Anatomic and Tip and consistent Hold allowing successful introduction",
+      "tableInMd": "| Trumpet Type  -  Thickened Type  -  Slidable Type |  |\n|---|---|\n| Size ID (Fr : mm) | 10 : 2.5 / 12 : 3.0 / 14 : 3.5 / 16 : 4.0 / 18 : 4.5 / 20 : 5.0 / 22 : 5.5 / 24 : 6.0 / 26 : 6.5 / 28 : 7.0 / 30 : 7.5 / 32 : 8.0 / 34 : 8.5 / 36 : 9.0 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3348,8 +3344,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC and Silicone\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC and DEHP-FREE PVC and Silicone\n- Disposable and Reusable Types\n- Color-Coded Size Identification\n- Highly Visible Size Indication along the Tubing\n- Reliable Air Bulge to seal the Larynx\n\n## PERFORMANCE\n- Easy introduction\n- For an Atraumatic Ventilation\n\n## ANESTHASIA",
+      "tableInMd": "| Disposable PVC |  | TYPE | 1 | 1 1/2 | 2 | 2 1/2 | 3 | 4 | 5 | n/a |\n|---|---|---|---|---|---|---|---|---|---|---|\n|  |  | APPLY | ≤5kg | 5-10kg | 10-20kg | 20-30kg | 30-50kg | 50-70kg | 70-100kg |  |\n| Disposable PVC Reinforced |  | TYPE | 1 | 1 1/2 | 2 | 2 1/2 | 3 | 4 | 5 | n/a |\n|  |  | APPLY | ≤5kg | 5-10kg | 10-20kg | 20-30kg | 30-50kg | 50-70kg | 70-100kg |  |\n| Disposable Silicone |  | TYPE | 1 | 1 1/2 | 2 | 2 1/2 | 3 | 4 | 5 | 6 |\n|  |  | APPLY | ≤5kg | 5-10kg | 10-20kg | 20-30kg | 30-50kg | 50-70kg | 70-100kg | >100kg |\n| Disposable Silicone Reinforced |  | TYPE | 1 | 1 1/2 | 2 | 2 1/2 | 3 | 4 | 5 | 6 |\n|  |  | APPLY | ≤5kg | 5-10kg | 10-20kg | 20-30kg | 30-50kg | 50-70kg | 70-100kg | >100kg |\n| Reusable Silicone |  | TYPE | 1 | 1 1/2 | 2 | 2 1/2 | 3 | 4 | 5 | 6 |\n|  |  | APPLY | ≤5kg | 5-10kg | 10-20kg | 20-30kg | 30-50kg | 50-70kg | 70-100kg | >100kg |\n| Reusable Silicone Reinforced |  | TYPE | 1 | 1 1/2 | 2 | 2 1/2 | 3 | 4 | 5 | 6 |\n|  |  | APPLY | ≤5kg | 5-10kg | 10-20kg | 20-30kg | 30-50kg | 50-70kg | 70-100kg | >100kg |\n| Dual Seal with Gastric Access |  | TYPE | n/a | 1 1/2 | 2 | 2 1/2 | 3 | 4 | 5 | n/a |\n|  |  | APPLY |  | 5-10kg | 10-20kg | 20-30kg | 30-50kg | 50-70kg | 70-100kg |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3375,8 +3371,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC and Silicone\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC and DEHP-FREE PVC and Silicone\n- Encapsulated radiopaque stripe all along the tube length\n- Highly Visible Size Indication along the Tubing\n- Cuffed and Uncuffed\n\n## PERFORMANCE\n- Easy introduction\n- Smooth Surface and Tips\n\n## ANESTHASIA",
+      "tableInMd": "| Model | CUFFED | UNCUFFED | CUFFED with Suction |\n|---|---|---|---|\n| Size (mm) | 3.0 | 3.0 | n/a |\n|  | 3.5 | 3.5 | n/a |\n|  | 4.0 | 4.0 | n/a |\n|  | 4.5 | 4.5 | n/a |\n|  | 5.0 | 5.0 | n/a |\n|  | 5.0 | 5.0 | n/a |\n|  | 6.0 | 6.0 | 6.0 |\n|  | 6.5 | 6.5 | 6.5 |\n|  | 7.0 | 7.0 | 7.0 |\n|  | 7.5 | 7.5 | 7.5 |\n|  | 8.0 | 8.0 | 8.0 |\n|  | 8.5 | 8.5 | 8.5 |\n|  | 9.0 | 9.0 | 9.0 |\n|  | 9.5 | 9.5 | n/a |\n|  | 10.0 | 10.0 | n/a |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3402,8 +3398,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC and Silicone\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Available with diﬀerent types of Wye connectors and elbows\n- With and Without Water Traps\n\n## PERFORMANCE\n- Light weight reduces torque on endotracheal tube\n- High transparency for good visibility\n- Good tenacity and low compliance\n- Well designed tubing prevents tube collapse\n- Cuﬀed connections ensure good sealing",
+      "tableInMd": "| SIZE | Length | Specification |  |\n|---|---|---|---|\n| Adult(Tube ID22 mm) | 1.0-2.8m\u000bany length customized | 4 Corrugated Tubes\u000b2 Straight Connectors\u000b1 Y Conector\u000b1 Elbow Connector\u000b1 Luer Cap\u000b2 Water traps | - |\n|  |  |  | Breathing Bag |\n|  |  |  | Breathing Filter |\n|  |  |  | Breathing Bag+Breathing Filter |\n| Pediatric(Tube ID15 mm) | 1.0-2.8m\u000bany length customized |  | - |\n|  |  |  | Breathing Bag |\n|  |  |  | Breathing Filter |\n|  |  |  | Breathing Bag+Breathing Filter |\n| Neonate(Tube ID10 mm) | 1.0-2.8m\u000bany length customized |  | - |\n|  |  |  | Breathing Bag |\n|  |  |  | Breathing Filter |\n|  |  |  | Breathing Bag+Breathing Filter |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3429,8 +3425,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## PACKING\n- pc/inner box\n- inner box/Carton\n## LOADING CAPACITY\n- 20GP (29m3): …….. \n- 40HC (69m3): …….. \n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n## MATERIAL\n- Medical-grade EVA/PE material   or    Non-toxic PVC ??????\n## FEATURES\n- Available with gas bag and water traps\n- Available with extra limb\n- Different length available\n- Available with single and double lumen for therapies with additional additives",
+      "tableInMd": "|  | ELOCTROSTATIC FILTER |  |  |  |  |  |\n|---|---|---|---|---|---|---|\n|  | ADULT | ADULT ANGLED | ADULT | PAEDIATRIC | PAEDIATRIC ANGLED | INFGANT ANGLED |\n| Filtration Efficiency (%) | 99.999 | 99.999 | 99.999 | 99.999 | 99.999 | 99.999 |\n| Humidity Output | N/A | N/A | N/A | N/A | N/A | N/A |\n| Resistance | 100pa @ 30LPM | 100pa @ 30LPM | 60pa @ 30LPM | 120pa @ 15LPM | 100pa @ 15LPM | 160pa @ 7.5LPM |\n| Dead Space (ml) | 32ml | 30ml | 30ml | 26ml | 32ml | 13ml |\n| Tidal Volume (ml) | 90-1500 | 90-1500 | 90-1500 | 100-1500 | 90-1500 | >45ml |\n| Connections | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22F/15M-22M | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22M/15F - 22F |\n| Weight (g) | 23 | 23 | 23 | 18 | 19 | 9 |\n| Gas Monitoring Luer Port | Yes | Yes | No | Yes | Yes | Yes |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3456,8 +3452,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC, 100% DEHP-FREE PVC and Silicone\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC, DEHP-FREE PVC and Silicone\n- Adjustable Nose Whole Distance\n- Transparent and Transparent/Green Color\n- Adult, Paediatric, Infant and Neonate\n- Straight and Curved Prong\n\n## PERFORMANCE\n- High Tube Memory kink-resistant\n- Smooth surface",
+      "tableInMd": "| Type | Length |\n|---|---|\n| Adult straight prong | 2.1 Metters |\n| Paediatric straight prong |  |\n| Infant straight prong |  |\n| Neonate straight prong |  |\n| Adult soft curved prong |  |\n| Paediatric soft curved prong |  |\n| Infant soft curved prong |  |\n| Neonate soft curved prong |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3483,8 +3479,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Soft PVC and DEHP-FREE PVC\n- Adjustable Nose Clip\n- Transparent and Transparent/Green Color\n- Adult, Paediatric, Infant and Neonate\n- Adult and Paediatric\n\n## PERFORMANCE\n- Soft Materials\n- Comfortable by Wearing",
+      "tableInMd": "| Oxygen Mask |  | Adult Standard | 2.1 Metters Tubing |\n|---|---|---|---|\n|  |  | Adult Elongated |  |\n|  |  | Paediatric Standard |  |\n|  |  | Paediatric Elongated |  |\n|  |  | Adult Standard | Without tubing |\n|  |  | Adult Elongated |  |\n|  |  | Paediatric Standard |  |\n|  |  | Paediatric Elongated |  |\n| Non-Rebreath Mask |  | Adult Standard | 2.1 Metters Tubing |\n|  |  | Adult Elongated |  |\n|  |  | Paediatric Standard |  |\n|  |  | Paediatric Elongated |  |\n| Multi-Vent Mask |  | Adult Standard | 2.1 Metters Tubing |\n|  |  | Adult Elongated |  |\n|  |  | Paediatric Standard |  |\n|  |  | Paediatric Elongated |  |\n| Venturi Mask |  | Adult Standard | 2.1 Metters Tubing |\n|  |  | Adult Elongated |  |\n|  |  | Paediatric Standard |  |\n|  |  | Paediatric Elongated |  |\n| Tracheastomy Mask |  | Adult Standard | Without tubing |\n|  |  | Adult Elongated |  |\n| Neublizer with Aerosol Mask |  | 6ml Adult Standard | 2.1 Metters Tubing |\n|  |  | 6ml Adult Elongated |  |\n|  |  | 6ml Paediatric Standard |  |\n|  |  | 6ml Paediatric Elongated |  |\n|  |  | 8ml Adult Standard |  |\n|  |  | 8ml Adult Elongated |  |\n|  |  | 8ml Paediatric Standard |  |\n|  |  | 8ml Paediatric Elongated |  |\n|  |  | 8ml Advanced Adult Standard |  |\n|  |  | 8ml Advanced Adult Elongated |  |\n|  |  | 8ml Advanced Paediatric Standard |  |\n|  |  | 8ml Advanced Paediatric Elongated |  |\n|  |  | 8ml Paediatric Comfort |  |\n| Nebulizer with Mouthpiece |  | 6ml Jar with mouthpiece | 2.1 Metters Tubing |\n|  |  | 6ml Jar with mouthpiece and 15cm short breathing tube |  |\n|  |  | 8ml Jar with mouthpiece |  |\n|  |  | 20ml Jar with mouthpiece |  |\n|  |  | 20ml Jar with mouthpiece and 15cm short breathing tube |  |\n| Aerosol Mask |  | Adult Standard | Without tubing |\n|  |  | Adult Elongated |  |\n|  |  | Paediatric Standard |  |\n|  |  | Paediatric Elongated |  |\n| ETCO2 Sampling Oxygen Mask |  | Adult Standard | 2.1 Metters Tubing |\n|  |  | Adult Elongated |  |\n|  |  | Paediatric Standard |  |\n|  |  | Paediatric Elongated |  |\n|  |  | Adult Standard with Filter |  |\n|  |  | Adult Elongated with Filter |  |\n|  |  | Paediatric Standard with Filter |  |\n|  |  | Paediatric Elongated with Filter |  |\n| Accessories |  | 6ml Nebulizer |  |\n|  |  | 8ml Nebulizer |  |\n|  |  | 8ml Nebulizer advanced |  |\n|  |  | 8ml Nebulizer pediatric |  |\n|  |  | 20ml Nebulizer |  |\n|  |  | T adaptor |  |\n|  |  | Mouth piece |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3510,8 +3506,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Soft PVC and DEHP-FREE PVC\n- Crown and Plain Types\n- Standard and Sectional Connection\n- With and Without Vent\n- Universal Female Connector\n\n## PERFORMANCE\n- Highly Transparent\n- Striated walls’ tube => anti-kinking\n\n## ANESTHASIA",
+      "tableInMd": "| Standard Type | Crown Tip | With Vent |\n|---|---|---|\n|  | Crown Tip | Without Vent |\n|  | Plain Tip | With Vent |\n|  | Plain Tip | Without Vent |\n| Sectional Type | Crown Tip | With Vent |\n|  | Crown Tip | Without Vent |\n|  | Round Tip | With Vent |\n|  | Round Tip | Without Vent |\n|  | Plain Tip | With Vent |\n|  | Plain Tip | Without Vent |\n| Suction Connecting Tube | 5mm (3/16\") | 1.8m (6ft) |\n|  | 5mm (3/16\") | 3m (10ft) |\n|  | 5mm (3/16\") | 3.6m (12ft) |\n|  | 6mm (1/4\") | 1.8m (6ft) |\n|  | 6mm (1/4\") | 3m (10ft) |\n|  | 6mm (1/4\") | 3.6m (12ft) |\n|  | 7mm (9/32\") | 1.8m (6ft) |\n|  | 7mm (9/32\") | 3m (10ft) |\n|  | 7mm (9/32\") | 3.6m (12ft) |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3537,8 +3533,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Soft PVC and DEHP-FREE PVC\n- 7 different Tips Types\n- Color-Coded Size Identification\n- Single and Multy-Aspiration Wholes\n- Straight and Curved tips\n\n## PERFORMANCE\n- Highly Transparent\n- Striated walls’ tube => anti-kinking\n- Position of Aspiration Holes\n- Straight Tip & Curved Tip",
+      "tableInMd": "| Standard, Straight |  |  | Mully, Straight |  |  | Mully, Curved |  |  |\n|---|---|---|---|---|---|---|---|---|\n| n/a |  |  | 4Fr |  | Purple | n/a |  |  |\n| n/a |  |  | 5Fr |  | Grey | n/a |  |  |\n| 6Fr |  | Light Green | 6Fr |  | Light Green | 6Fr |  | Light Green |\n| 7Fr |  | Ivory | 7Fr |  | Ivory | 7Fr |  | Ivory |\n| 8Fr |  | Light Blue | 8Fr |  | Light Blue | 8Fr |  | Light Blue |\n| 10Fr |  | Black | 10Fr |  | Black | 10Fr |  | Black |\n| 12Fr |  | White | 12Fr |  | White | 12Fr |  | White |\n| 14Fr |  | Green | 14Fr |  | Green | 14Fr |  | Green |\n| 16Fr |  | Orange | 16Fr |  | Orange | 16Fr |  | Orange |\n| 18Fr |  | Red | 18Fr |  | Red | 18Fr |  | Red |\n| n/a |  |  | 20Fr |  | Yellow | n/a |  |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3564,8 +3560,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Soft PVC and DEHP-FREE PVC\n- Latex-free\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- Reliable protection against accidental vacuum activation with a special locking button\n- Freely rotating connectors with a double ball-and-socket design\n\n## ANESTHASIA",
+      "tableInMd": "| Size | Color | Tube OD | Length Of Tube |\n|---|---|---|---|\n| Neonatal/24h/Endotracheal | Grey | 5Fr (1.7mm) | 5Fr (1.7mm) |\n| Neonatal/24h/Endotracheal | Light Green | 6Fr (1.95mm) | 6Fr (1.95mm) |\n| Pediatric/24h/Endotracheal | Violet | 7Fr (2.3mm) | 7Fr (2.3mm) |\n| Pediatric/24h/Endotracheal | Blue | 8Fr (2.7mm) | 8Fr (2.7mm) |\n| Adult/24h/Endotracheal | Black | 10Fr (3.35mm) | 10Fr (3.35mm) |\n| Adult/24h/Endotracheal | White | 12Fr (4.05mm) | 12Fr (4.05mm) |\n| Adult/24h/Endotracheal | Green | 14Fr (4.75mm) | 14Fr (4.75mm) |\n| Adult/24h/Endotracheal | Orange | 16Fr (5.45mm) | 16Fr (5.45mm) |\n| Neonatal/24h/Tracheostomy | Grey | 5Fr (1.7mm) | 5Fr (1.7mm) |\n| Neonatal/24h/Tracheostomy | Light Green | 6Fr (1.95mm) | 6Fr (1.95mm) |\n| Pediatric/24h/Tracheostomy | Violet | 7Fr (2.3mm) | 7Fr (2.3mm) |\n| Pediatric/24h/Tracheostomy | Blue | 8Fr (2.7mm) | 8Fr (2.7mm) |\n| Adult/24h/Tracheostomy | Black | 10Fr (3.35mm) | 10Fr (3.35mm) |\n| Adult/24h/Tracheostomy | White | 12Fr (4.05mm) | 12Fr (4.05mm) |\n| Adult/24h/Tracheostomy | Green | 14Fr (4.75mm) | 14Fr (4.75mm) |\n| Adult/24h/Tracheostomy | Orange | 16Fr (5.45mm) | 16Fr (5.45mm) |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3588,9 +3584,9 @@
       "divisionNames": [
         "Diagnostic"
       ],
-      "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "standard": "ISO 80369-3",
+      "description": "## COMPOSITION\n- 100% PVC, 100% DEHP-FREE PVC and 100% Silicone\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC, DEHP-FREE PVC and Silicone\n- Color-Coded Size Identification\n- Standard and Ent-Fit Connector\n- Encapsulated radiopaque stripe all along the tube length\n- Highly Visible Size Indication every 5cm along the Tubing\n\n## PERFORMANCE\n- Smooth surface allowing successful introduction\n\n## ANESTHASIA\n- ENTERAL FEEDING THERAPY",
+      "tableInMd": "|  |  |  |\n|---|---|---|\n| 8Fr |  | 60cm |\n|  |  | 90cm |\n| 10Fr |  | 60cm |\n|  |  | 90cm |\n| 12Fr |  | 60cm |\n|  |  | 90cm |\n| 14Fr |  | 60cm |\n|  |  | 90cm |\n| 16Fr |  | 60cm |\n|  |  | 90cm |\n| 18Fr |  | 60cm |\n|  |  | 90cm |\n| 20Fr |  | 60cm |\n|  |  | 90cm |\n| 22Fr |  | 60cm |\n|  |  | 90cm |\n| 24Fr |  | 60cm |\n|  |  | 90cm |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3614,8 +3610,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC, 100% DEHP-FREE PVC and 100% Silicone\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC, DEHP-FREE PVC and Silicone\n- Color-Coded Size Identification\n- Weighted feeding tubes\n- Standard and Ent-Fit Connector\n- Encapsulated radiopaque stripe all along the tube length\n- Highly Visible Size Indication every 5cm along the Tubing\n\n## PERFORMANCE\n- Smooth surface allowing successful introduction\n- High Tube Memory kink-resistant\n- Clean and smooth surfaced components\n\n## ANESTHASIA\n- ENTERAL FEEDING THERAPY",
+      "tableInMd": "| Sizes |\n|---|\n| 8Fr 43 Inch with Stylet |\n| 10Fr 43 Inch with Stylet |\n| 10Fr 43 Inch without Stylet |\n| 10Fr 43 Inch without Stylet |\n| 12Fr 43 Inch with Stylet, without Rigid Outlet Port |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3639,8 +3635,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- 100% PVC, 100% DEHP-FREE PVC and 100% Silicone\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC, DEHP-FREE PVC and Silicone\n- Color-Coded Size Identification\n- Standard and Ent-Fit Cponnector\n- Encapsulated radiopaque stripe all along the tube length\n- Highly Visible Size Indication every 5cm along the Tubing\n\n## PERFORMANCE\n- Smooth surface allowing successful introduction\n\n## ANESTHASIA\n- ENTERAL FEEDING THERAPY",
+      "tableInMd": "| 8\\6Fr |  | 60cm |\n|---|---|---|\n|  |  | 90cm |\n| 8Fr |  | 60cm |\n|  |  | 90cm |\n| 10Fr |  | 60cm |\n|  |  | 90cm |\n| 12Fr |  | 60cm |\n|  |  | 90cm |\n| 14Fr |  | 60cm |\n|  |  | 90cm |\n| 16Fr |  | 60cm |\n|  |  | 90cm |\n| 18Fr |  | 60cm |\n|  |  | 90cm |\n| 20Fr |  | 60cm |\n|  |  | 90cm |\n| 22Fr |  | 60cm |\n|  |  | 90cm |\n| 24Fr |  | 60cm |\n|  |  | 90cm |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3666,8 +3662,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## FEATURES\n- Standard\n- Side Hole\n- Soft Hub\n- Flexible Tubing\n- Soft Tip\n- Soft Tip\n\n## MATERIAL OF CATHETER\n- TPU (MEDICAL GRADE POLYURETHANE)\n\n## PROPERTIES\n- Flexibility: Our Central Venous Catheter is made of superior polyurethane with excellent elasticity, flow rate is secured in venous obstructions.\n- Soft and elasticity. After insertion into body, it will become soft of 50% under body temperature(37°C). Forming according to the shape of blood vessel, reduce the trauma and anti-kink.\n- Minimize the irritation of blood vessel\n- Inner and outer of the catheter is smooth to protect the blood vessel, and avoid the thrombosis, reduce the resistance of catheterization.\n- Catheter marking to show the length of insertion.\n- The radiopaque tube and tip facilitate catheter location when visualized by X-Ray.\n- Catheter is thin and smooth to minimize the effect on blood flow.\n- Catheter lumen spaced regularly to keep unblocked blood flowing.\n- Radiopaque, facilitates quick visualization under X-Ray.",
+      "tableInMd": "| Lumen | Catheter Size (Fr) | Catheter Length (cm) | Dilator | Guide Wire | Tubing Shape |\n|---|---|---|---|---|---|\n| Single Lumen | 24Ga | 5 | 4F x 5cm | 0.018\" x 43.4cm | Straight/Y NEEDLE 20Ga |\n|  |  | 8 |  |  |  |\n|  |  | 9 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 12 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  |  | 20 |  |  |  |\n|  | 22Ga | 5 |  | 0.018\" x 50cm | Straight/Y NEEDLE 20Ga |\n|  |  | 8 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.018\" x 60cm |  |\n|  |  | 30 |  | 0.018\" x 70cm |  |\n|  | 20Ga | 5 |  | 0.021\" x 50cm | Straight/Y NEEDLE 20Ga |\n|  |  | 8 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.021\" x 60cm |  |\n|  |  | 30 |  | 0.021\" x 70cm |  |\n|  | 18Ga | 5 | 5.5F x 6cm | 0.025\" x 50cm | Straight/Y NEEDLE 19Ga / 20Ga |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 8 |  | 0.025\" x 50cm |  |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 10 |  | 0.025\" x 50cm |  |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 13 |  | 0.025\" x 50cm |  |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 15 |  | 0.025\" x 50cm |  |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 16 |  | 0.025\" x 50cm |  |\n|  |  |  |  | 0.021\" x 50cm |  |\n|  |  | 20 |  | 0.025\" x 60cm |  |\n|  |  |  |  | 0.021\" x 60cm |  |\n|  |  | 30 |  | 0.025\" x 70cm |  |\n|  |  |  |  | 0.021\" x 70cm |  |\n|  | 16Ga | 5 | 6F x 10cm | 0.032\" x 50cm | Straight/Y NEEDLE 18Ga |\n|  |  | 8 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  | 14Ga | 16 |  |  |  |\n|  |  | 20 |  | 0.032\" x 60cm |  |\n|  |  | 30 |  | 0.032\" x 70cm |  |\n|  |  | 13 | 8F x 10cm | 0.032\" x 50cm |  |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.032\" x 60cm |  |\n|  |  | 30 |  | 0.032\" x 70cm |  |\n| Double Lumen | 4Fr | 5 | 5.5F x 6cm | 0.018\" x 50cm | Straight/Y NEEDLE 20Ga |\n|  |  | 8 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.018\" x 60cm |  |\n|  |  | 30 |  | 0.018\" x 70cm |  |\n|  | 5Fr | 5 | 7F x 7cm | 0.021\" x 50cm |  |\n|  |  | 8 |  |  |  |\n|  |  | 10 |  |  |  |\n|  |  | 13 |  |  |  |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.021\" x 60cm |  |\n|  |  | 30 |  | 0.021\" x 70cm |  |\n|  | 7Fr | 13 | 8F x 10cm | 0.035\" x 50cm | Straight/Y NEEDLE 18Ga |\n|  |  | 15 |  |  |  |\n|  |  | 16 |  |  |  |\n|  |  | 20 |  | 0.035\" x 60cm |  |\n|  |  | 30 |  | 0.035\" x 70cm |  |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3693,8 +3689,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## PACKING\n- ……… pc/inner box\n- ……… inner box/Carton\n\n## LOADING CAPACITY\n- 20GP (29m3): …….. \n- 40HC (69m3): …….. \n\n## AVAILABLE CONNECTORS\n- Edward connector\n- Abbott connector\n- BD connector\n- Medex connector\n- Philips connector\n- USB connector\n- PVB connector\n- Utah connector\n- Mindray connector\n\n## STRENGTHS\n- Sensitive chip, accurate data transfer\n- Match all kinds of cables\n\n## CATHETER PLACEMENT\n- Closed system design reduces the risk of infection of operators\n- Accurate substantial design helps to avoid risk of leaking\n- Needle free blood sample collecting system helps to avoid stabbing and cross infection\n\n## APPLICATION\n- Central venous pressure and other various physiological pressure monitoring\n- Blood sampling\n- Neonatus pressure monitoring\n\n## CONVENIENT OPERATION\n- Simple operation and accurate flow rate control\n- Various Connectors for choice, can be used with different monitors\n- Micro constant flow (2~5cc/25~35cc per hour) helps to guarantee the continuous flow",
+      "tableInMd": "| Connector | Description |\n|---|---|\n| Edward | Single channel |\n| Philips | Single channel |\n| Abbott | Single channel |\n| BD | Single channel |\n| Utah | Single channel |\n| Medex | Single channel |\n| PVB SIMMS | Single channel |\n| USB | Single channel |\n| Mindray | Single channel |\n| Edward | Double channel |\n| Philips | Double channel |\n| Abbott | Double channel |\n| BD | Double channel |\n| Utah | Double channel |\n| Medex | Double channel |\n| PVB SIMMS | Double channel |\n| USB | Double channel |\n| Mindray | Double channel |\n| Edward | Core of DPT |\n| Philips | Core of DPT |\n| Abbott | Core of DPT |\n| BD | Core of DPT |\n| Utah | Core of DPT |\n| Medex | Core of DPT |\n| PVB SIMMS | Core of DPT |\n| USB | Core of DPT |\n| Mindray | Core of DPT |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3722,7 +3718,7 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
+      "description": "## OUR PRODUCTS\n- Safe Adhesion Performance\n- Patient Comfort\n- Skin friendly Materials\n- Time efficient solution\n- backing material\n- Adhesive surface\n- sensor\n- Gel’s padPad\n- Connection stud\n\n## LOTS OF CHOICES WITH SAME BASICS:\n- Disposable => Hygiene High and stable signal\n- Skin friendly materials\n- Time efficiency\n- Secure adhesion\n- Adults and pediatric use\n\n## HIGHLIGTS\n- Overlapping Gel technology: minimizes risk of burns\n- Disposable => Hygiene\n- Quick Application\n- Water proof backing materials\n- Easy tracking\n- Adults and Pediatric use\n- Compatible with Conmed, Valleylab and Erbe\n- Disposable => Hygiene\n- Quick Application\n- Overlapping Gel technology: minimizes risk of burns\n- Cables outside the package for some types\n- Easy tracking\n- Adults and Pediatric use (from 25 KG.)\n- 100% tested and inspected before packing\n\n## CONNECTION\n\n## BACKING MATERIAL\n\n## GEL TYPES\n\n## DIAGNOSTIC",
       "tableInMd": "",
       "images": [],
       "PackagingInformation": {
@@ -3751,8 +3747,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## FEATURES\n- Soft tip: Tapered tip facilitates ease of insertion without use of peel-away sheath. Reduces vessel trauma during insertion\n- Radiopaque: Radiopaque, facilitates quick visualization under X-Ray.\n- Side holes: 2.5cm far from end hole reduces recircling and wall-suction. Minimizes risk of clot formation\n- Rotatable Suture Wing: Facilitates skin inspection. Avoid blood vessel wall-suction. Minimizes risk of exit infections. No tube-kinking occured\n- Silicone Extension Tube: Increases patient comfort, will not crimp over time, able to visualize fluid\n- Compound-packaging Tray: Various Accessories for choice\n- Multi-lumen available: Single, double, triple lumen\n- Inline Clamps: good flexibility. damage resistant. printed priming volumes\n- Made from PU (medical grade): Better flexibility and anti-kinking performance\n- Thermosensitive: softens as it warms to body temperature\n- Smooth inside an outside surface: avoid clot formation\n- Marking on catheter available\n- Pre-curved Type: More comfortable on patients",
+      "tableInMd": "| Lumen | Catheter Size (Fr) | Catheter Length (cm) | Dilator | Guide Wire | Tubing Shape |\n|---|---|---|---|---|---|\n| SINGLE LUMEN | 7Fr | 5 | 8F x 10cm | 0.035\" x 50cm | STRAIGHT |\n|  |  | 8 |  |  | CURVED |\n|  |  | 10 |  |  | STRAIGHT |\n|  |  | 13 |  |  | CURVED |\n|  |  | 16 |  |  | STRAIGHT |\n|  |  | 20 |  | 0.035\" x 60cm | CURVED |\n|  | 8Fr | 5 | 9F x 10cm | 0.038\" x 50cm | STRAIGHT |\n|  |  | 8 |  |  | CURVED |\n|  |  | 10 |  |  | STRAIGHT |\n|  |  | 13 |  |  | CURVED |\n|  |  | 16 |  |  | STRAIGHT |\n|  |  | 20 |  | 0.038\" x 60cm | CURVED |\n| DOUBLE LUMEN | 6.5Fr | 8 | 7F x 10cm | 0.021\" x 50cm | STRAIGHT |\n|  |  | 10 |  |  | CURVED |\n|  |  | 13 |  |  | STRAIGHT |\n|  |  | 16 |  |  | CURVED |\n|  |  | 20 |  | 0.021\" x 60cm | STRAIGHT |\n|  | 8.5Fr | 5 | 9F x 10cm | 0.025\" x 50cm | STRAIGHT |\n|  |  | 8 |  |  | CURVED |\n|  |  | 10 |  |  | STRAIGHT |\n|  |  | 13 |  |  | CURVED |\n|  |  | 16 |  |  | STRAIGHT |\n|  |  | 20 |  | 0.025\" x 60cm | CURVED |\n|  | 10Fr | 10 | 9F x 10cm | 0.038\" x 50cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 13 | 9F x 10cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 16 | 9F x 10cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 20 | 9F x 10cm | 0.038\" x 60cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  | 11.5Fr | 13 | 12F x 15cm | 0.038\" x 50cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 16 | 12F x 15cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 20 | 12F x 15cm | 0.038\" x 60cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 25 | 12F x 15cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  | 12Fr | 13 | 12F x 15cm | 0.038\" x 50cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 16 | 12F x 15cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 20 | 12F x 15cm | 0.038\" x 60cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  | 14Fr | 13 | 14F x 15cm | 0.038\" x 50cm | STRAIGHT |\n|  |  |  | 12F x 15cm |  | CURVED |\n|  |  | 16 | 14F x 15cm | 0.038\" x 60cm | STRAIGHT |\n|  |  |  | 12F x 15cm |  | CURVED |\n|  |  | 20 | 14F x 15cm | 0.038\" x 70cm | STRAIGHT |\n|  |  |  | 12F x 15cm |  | CURVED |\n| Triple Lumen | 12Fr | 13 | 12F x 15cm | 0.038\" x 50cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 16 | 12F x 15cm |  | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |\n|  |  | 20 | 12F x 15cm | 0.038\" x 60cm | STRAIGHT |\n|  |  |  | 10F x 15cm |  | CURVED |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3780,8 +3776,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## CHARACTERISTICS\n- The Catheter is made from premium silicone, which has excellent biocompatibility.\n- The Dacron cuff helps keep the catheter from slipping out and reduce the chance of CBI (Catheter Related Bloodstream Infections.\n- The silicone material makes catheter more floppy, hence it can minimize the trauma to the vein and reduce the incident of clot.\n- Unique catheter design.\n\n## STANDARD KITS INCLUDE\n- Silicone Catheter\n- Vessel Dilator\n- Valved Peelable Introducer\n- Introducer Needle\n- Guide-wire\n- Subcutaneous Tunnel needle\n- Adhesive Wound Dressings\n- Herparin Caps\n- Gauze Sponges\n- Scalpel\n- Syringe\n- Needle with Suture",
+      "tableInMd": "| Lumen | Catheter Size (Fr) | Catheter Length (cm) |\n|---|---|---|\n| Double Lumen | 15Fr | 13/19/23/28/31/33/35/50cm |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3809,8 +3805,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n## LOADING CAPACITY\n- 20GP (29m3): …….. \n- 40HC (69m3): …….. \n## BLOOD COLLECTION TUBES\n- Our Disposable Blood Collection System offers a complete system of vacuum or non-vacuum PET/Glass/PP blood collection tubes vials containers or bottles, needles, needle holders, and safety devices also includes a complete range of products for paediatric and capillary blood collection vials with a variety of functional and accurate additives, which are optimally designed and validated for medical or clinical usage.",
+      "tableInMd": "| Picture | Description |\n|---|---|\n|  | Vacuum Tube Plain ,13*75mm 1-5ml, PET material |\n|  | Vacuum Tube Plain ,13*100mm 6-7ml, PET material |\n|  | Vacuum Tube Plain ,16*100mm 8-10ml, PET material |\n|  | Vacuum Tube Plain ,13*75mm 1-5ml, Glass material |\n|  | Vacuum Tube Plain ,13*100mm 6-7ml, Glass material |\n|  | Vacuum Tube Plain ,16*100mm 8-10ml, Glass material |\n|  | Vacuum Tube Gel & Clot activator 13*75mm 1-4ml, PET material |\n|  | Vacuum Tube Gel & Clot activator 13*100mm 5-6ml, PET material |\n|  | Vacuum Tube Gel & Clot activator 16*100mm 7-9ml, PET material |\n|  | Vacuum Tube Gel & Clot activator 13*75mm 1-4ml, Glass material |\n|  | Vacuum Tube Gel & Clot activator 13*100mm 5-6ml,Glass material |\n|  | Vacuum Tube Gel & Clot activator 16*100mm 7-9ml, Glass material |\n|  | Vacuum Tube EDTA.K2/K3, 13*75mm 1-5ml, PET material |\n|  | Vacuum Tube EDTA.K2/K3, 13*100mm 6-7ml, PET material |\n|  | Vacuum Tube EDTA.K2/K3, 16*100mm 8-10ml, PET material |\n|  | Vacuum Tube EDTA.K2/K3, 13*75mm 1-5ml, Glass material |\n|  | Vacuum Tube EDTA.K2/K3, 13*100mm 6-7ml, Glass material |\n|  | Vacuum Tube EDTA.K2/K3, 16*100mm 8-10ml, Glass material |\n|  | Vacuum Tube with Clot activator, 13*75mm 1-5ml, PET material |\n|  | Vacuum Tube with Clot activator, 13*100mm 6-7ml, PET material |\n|  | Vacuum Tube with Clot activator,  16*100mm 8-10ml, PET material |\n|  | Vacuum Tube with Clot activator, 13*75mm 1-5ml, Glass material |\n|  | Vacuum Tube with Clot activator, 13*100mm 6-7ml, Glass material |\n|  | Vacuum Tube with Clot activator,  16*100mm 8-10ml,Glass material |\n|  | Vacuum Tube Sodium Heparin   13*75mm 1-5ml, PET material |\n|  | Vacuum Tube Sodium Heparin 13*100mm 6-7ml, PET material |\n|  | Vacuum Tube Sodium Heparin 16*100mm 8-10ml, PET material |\n|  | Vacuum Tube Sodium Heparin   13*75mm 1-5ml, Glass material |\n|  | Vacuum Tube Sodium Heparin 13*100mm 6-7ml, Glass material |\n|  | Vacuum Tube Sodium Heparin 16*100mm 8-10ml, Glass material |\n|  | Vacuum Tube Lithium Heparin    13*75mm 1-5ml, PET material |\n|  | Vacuum Tube Lithium Heparin  13*100mm 6-7ml, PET material |\n|  | Vacuum Tube Lithium Heparin  16*100mm 8-10ml, PET material |\n|  | Vacuum Tube Lithium Heparin   13*75mm 1-5ml, Glass material |\n|  | Vacuum Tube Lithium Heparin  13*100mm 6-7ml, Glass material |\n|  | Vacuum Tube Lithium Heparin  16*100mm 8-10ml, Glass material |\n|  | Vacuum Tube glucose with Sodium fluoride/ EDTA K2, 13*75mm 1-5ml, PET material |\n|  | Vacuum Tube glucose with Sodium fluoride/ EDTA K2 13*100mm      5-6ml, PET material |\n|  | Vacuum Tube glucose with Sodium fluoride/ EDTA K2 13*75mm 1-5ml, Glass material |\n|  | Vacuum Tube glucose with Sodium fluoride/ EDTA K2 13*100mm      5-6ml, Glass material |\n|  | Vacuum Tube 3.2% sodium citrate 13*75mm 1-5ml PET material |\n|  | Vacuum Tube 3.2% sodium citrate 13*75mm 1-5ml Glass material |\n|  | Vacuum Tube 3.2% sodium citrate 13*75mm 1.8/2.7ml PET material Double deck |\n|  | Vacuum Tube ESR 13*75mm 1.6/2.4ml PET material |\n|  | Vacuum Tube ESR 13*75mm 1.6/2.4ml Glass material |\n|  | Vacuum Tube ESR 8*120mm 1.28ml Glass material |\n|  | Vacuum Tube Gel+ EDTA.K2 13*75mm,1-4ml, PET material  Gamma sterile |\n|  | Vacuum Tube Gel+ EDTA.K2 13*100mm, 5-6ml, PET material  Gamma sterile |\n|  | Non vacuum tube EDTA.K3, 13*75mm,    1-5ml,lavendar cap, |\n|  | Non vacuum tube Sodium Heparin 13*75mm ,1-5ml, green cap, |\n|  | Non vacuum tube Lithium Heparin 13*75mm ,1-5ml,green cap, |\n|  | Non vacuum tube Gel & Clot activator 13*75mm ,1-4ml,yellow cap, |\n|  | Non vacuum tube sodium fluoride/EDTA K2 13*75mm ,1-5ml,grey cap, |\n|  | Non vacuum tube Plain 13*75mm,               1-5ml,red cap, |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3838,8 +3834,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n- Loading Capacity: 20GP (29m3): …….. – 40HC (69m3): …….. \n\n## FEATURES\n- Ultrasonically sprayed additives for different clinical lab tests.\n- Precision molded snap cap maintains a tight seal during procedures and allows to open by single hand. They are available in bright attractive colors for sample identification purposes.\n- An integrated scoop on the tube for easier micro blood collection.\n- Marked with fill lines, lot numbers and expiration date on labels.\n- Made from medical grade polypropylene (PP), virtually unbreakable and highly transparent.\n- Immediately after draw, gently invert the tube in order to mix with additives.\n- To obtain serum with clot activator, tubes should be allowed to stand for 30 minutes or until the clot is formed.",
+      "tableInMd": "| Volume/ml | Size/mm | Additive | Separator | Material | Cap Color | Closure |\n|---|---|---|---|---|---|---|\n| 0.5 | 13X75 | NONE | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | Clot Activator | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | EDTA K2 | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | EDTA K3 | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | Heparin Lithium | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | Heparin Sodium | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | Heparin Sodium+ Sodium Fluoride | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | Clot Activator | Gel | PP |  | Snap Cap |\n| 0.5 | 10X45 | NONE | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | Clot Activator | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | EDTA K2 | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | EDTA K3 | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | Heparin Lithium | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | Heparin Sodium | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | Heparin Sodium+ Sodium Fluoride | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | Clot Activator | Gel | PP |  | Snap Cap |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3867,8 +3863,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Medical Grade Polypropylene (PP)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Compatible with standard, multiple sample blood collection needles.\n\n## PERFORMANCE\n- Highly Transparent\n- Smooth Surface",
+      "tableInMd": "| Specification | Qty/ctn. |\n|---|---|\n| Holder, PP | 2000 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -3894,8 +3890,8 @@
         "Diagnostic"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Medical Grade Polypropylene (PP)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Compatible with standard, multiple sample blood collection needles.\n\n## PERFORMANCE\n- Easy Activation Safety Mechanism\n- inviolable closure technology\n- Highly Transparent\n- Smooth Surface",
+      "tableInMd": "| Specification | Qty/ctn. |\n|---|---|\n| Holder with safety cover, PP | 2000 |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "BLUNT HYPODERMIC NEEDLES",
+    "referenceString": "4.2.4",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Needle Hub\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance",
+    "tableInMd": "| Gauge x Length | Diameter x Length (mm) |\n|---|---|\n| 18G x 1 1/2 | 1,2 x 40 |",
+    "category": 60,
+    "divisions": [
+      50
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

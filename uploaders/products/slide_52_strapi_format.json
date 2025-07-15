@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "TRANSFUSION SETS",
+    "referenceString": "4.7",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- PVC, PVC DEHP-FREE (Non-Phthalate) and PVC-FREE\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Fully Customizable Configurations\n- Gravity and Pump\n- TRANSPARENT and UV-LIGHT PROOF Tubing Finish\n- Soft and Hard Tubing\n\n## PERFORMANCE\n- High Tube Memory kink-resistant\n- Clear Tube and Chamber\n- Clean shaped smooth surfaced components",
+    "tableInMd": "| DRIP CHAMBER | AIR-VENT | TUBING | ROLLER CLAMP | INJECTION Y-SITE | CONNECTOR | PROTECTIVE CONNECTOR'S CAP | INDIVIDUAL PACKAGING | INNER PACKAGING |\n|---|---|---|---|---|---|---|---|---|\n| SINGLE | STANDARD | PVC - STANDAR TRANSPARENT / RIGID | PE - ROLLER | SHORT / LATEX | LUER SLIP / WHITE | STANDARD | POLYBAG | INNER BAG |\n| SINGLE / WINGED | WITH SPRING EFFECT | PVC - STANDARD OPAC / MEMORY | PE - ROLLER WITH SVS HOLDER | SHORT / LATEX-FREE | LUER SLIP / TRANSPARENT | LUER LOCK CAP | BLISTER | SOFT INNER BOX |\n| DOUBLE HARD | N/A | DEHP-FREE PVC - STANDARD TRANSPARENT / RIGID | ABS - SHORT | LONG / LATEX | LUER LOCK | HYDROPHOBIC FILTERED | POUCH | HARD INNER BOX |\n| DOUBLE HARD / WINGED |  | DEHP-FREE PVC - STANDARD OPAC / MEMORY | ABS - SHORT WITH SVS HOLDER | LONG / LATEX-FREE | ROTATIVE LUER LOCK | NEEDLE |  |  |\n| DOUBLE SOFT / WINGED |  | PVC - PREMIUM TRANSPARENT / RIGID | ABS - MEDIUM | PREMIUM WITH PROTECTION / LATEX-FREE |  |  |  |  |\n| PREMIUM DOUBLE SOFT-HARD / MONO-CHANEL |  | PVC - PREMIUM OPAC / MEMORY | ABS - MEDIUM WITH SVS HOLDER | NEGATIVE NEEDLE-FREE |  |  |  |  |\n|  |  | DEHP-FREE PVC - PREMIUM OPAC / MEMORY | ABS - LONG | POSITIVE NEEDLE-FREE |  |  |  |  |\n|  |  | DEHP-FREE PVC - PREMIUM TRANSPARENT / RIGID | ABS - LONG WITH SVS HOLDER | NEUTRAL NEEDLE-FREE |  |  |  |  |\n|  |  | PVC FREE - PREMIUM OPAC / MEMORY | ABS - PREMIUM WITH SPIKE HOLDER | RUBBER TUBE (STRAIGHT SHAPE) / LATEX |  |  |  |  |\n|  |  |  |  | RUBBER TUBE (STRAIGHT SHAPE) / LATEX-FREE |  |  |  |  |\n|  |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX |  |  |  |  |\n|  |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX-FREE |  |  |  |  |",
+    "category": 65,
+    "divisions": [
+      47
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

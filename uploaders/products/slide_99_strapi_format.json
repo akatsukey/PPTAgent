@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Doctor cap, gown, Cover shoes, Face mask",
+    "referenceString": "4.14",
+    "standard": "???",
+    "description": "## PRODUCTS\n- 3 PLY MASKS\n- KN95 MASKS\n- N95 MASKS\n- COVER SHOES\n- COVER BOOTS\n- NURSE CAPS\n- SHRINK NURSE CAPS\n- DOCTOR CAPS\n- ISOLATION GOWNS\n- SURGICAL GOWNS\n- PE APRONS",
+    "tableInMd": "",
+    "category": 72,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

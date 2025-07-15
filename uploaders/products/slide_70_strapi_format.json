@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "LATEX SURGICAL GLOVES",
+    "referenceString": "4.10.5",
+    "standard": "ISO",
+    "description": "## COMPOSITION\n- 100% Natural Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile Gamma (R) Sterilization\n\n## PRESENTATIONS\n- Powder and Powder free\n- Rouph and Smooth Surface\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Soft and Stretch Sensation\n- Tear-Resistant\n- Strict monitored Protein Content\n- Outstanding tactile sensitivity\n- Polymer Coated => Easy Wearing\n- Anatomic",
+    "tableInMd": "| Powdered | 6 | SMOOTH SURFACE |\n|---|---|---|\n|  |  | ROUGH SYRFACE |\n|  | 6,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 7 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 7,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 8 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 8,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 9 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n| Powder Free | 6 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 6,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 7 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 7,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 8 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 8,5 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |\n|  | 9 | SMOOTH SURFACE |\n|  |  | ROUGH SYRFACE |",
+    "category": 69,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

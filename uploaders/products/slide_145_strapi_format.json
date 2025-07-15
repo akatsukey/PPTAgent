@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "STANDARD SUCTION CATHETER",
+    "referenceString": "4.28.1",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Soft PVC and DEHP-FREE PVC\n- 7 different Tips Types\n- Color-Coded Size Identification\n- Single and Multy-Aspiration Wholes\n- Straight and Curved tips\n\n## PERFORMANCE\n- Highly Transparent\n- Striated walls’ tube => anti-kinking\n- Position of Aspiration Holes\n- Straight Tip & Curved Tip",
+    "tableInMd": "| Standard, Straight |  |  | Mully, Straight |  |  | Mully, Curved |  |  |\n|---|---|---|---|---|---|---|---|---|\n| n/a |  |  | 4Fr |  | Purple | n/a |  |  |\n| n/a |  |  | 5Fr |  | Grey | n/a |  |  |\n| 6Fr |  | Light Green | 6Fr |  | Light Green | 6Fr |  | Light Green |\n| 7Fr |  | Ivory | 7Fr |  | Ivory | 7Fr |  | Ivory |\n| 8Fr |  | Light Blue | 8Fr |  | Light Blue | 8Fr |  | Light Blue |\n| 10Fr |  | Black | 10Fr |  | Black | 10Fr |  | Black |\n| 12Fr |  | White | 12Fr |  | White | 12Fr |  | White |\n| 14Fr |  | Green | 14Fr |  | Green | 14Fr |  | Green |\n| 16Fr |  | Orange | 16Fr |  | Orange | 16Fr |  | Orange |\n| 18Fr |  | Red | 18Fr |  | Red | 18Fr |  | Red |\n| n/a |  |  | 20Fr |  | Yellow | n/a |  |  |",
+    "category": 73,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

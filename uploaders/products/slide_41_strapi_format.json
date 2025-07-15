@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Infusion Accesories",
+    "referenceString": "4.6",
+    "standard": "???",
+    "description": "## PRODUCTS\n- 3 Way Stop Cocks\n- Heparin Caps\n- Negative Needle Free Connector\n- Positive Needle Free Connector\n- Neutral Needle Free Connector\n- Flow Regulator\n- Female/Male Stoppers\n- Caps\n- Fluids Transfer Spike",
+    "tableInMd": "",
+    "category": 64,
+    "divisions": [
+      47
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

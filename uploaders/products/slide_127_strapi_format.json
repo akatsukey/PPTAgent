@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "PEDIATRIC URINE BAGS",
+    "referenceString": "4.17.6",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- Polyethylene (PE) Body\n- Foam\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Customized Printing\n\n## PERFORMANCE\n- Skin Friendly\n- Soft Foam Protection\n- Highly Transparent",
+    "tableInMd": "| Types |\n|---|\n| 100ml, flank seal, yellow paper (normal) |\n| 200ml, flank seal, yellow paper (normal) |\n| 100ml, front seal, yellow paper (normal) |\n| 200ml, front seal, yellow paper (normal) |\n| 100ml, flank seal, yellow paper (male) |\n| 200ml, flank seal, yellow paper (male) |\n| 100ml, front seal, yellow paper (female) |\n| 200ml, front seal, yellow paper (female) |",
+    "category": 74,
+    "divisions": [
+      53
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

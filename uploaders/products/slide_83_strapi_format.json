@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "PFLASTERS",
+    "referenceString": "4.12.6",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- Made of Elastic, PE, PU and Spunlace fabric\n- Adhesive: Solvent, Acrylic and Hotmelt\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- Various Patterns and Colors\n- Various Shapes and Finishes\n- With and without Haemostatic Island\n- Packagings: Hospital and Phamacy\n\n## PERFORMANCE\n- Skin friendly\n- Aseptic, non-sterile\n- Hypoallergenic\n- Strong hold without skin irritation (Latex-free)",
+    "tableInMd": "| Material: \n \n-Spunlace fabric \n-Elastic fabric \n-PE fabric\n-PU fabric\n- Spunlace fabric | Nose | 55 x 44mm |\n|---|---|---|\n|  | Round | Ø 23 mm |\n|  | Square | 72 x 19mm |\n|  | Square | 72 x 30mm |\n|  | Square | 72 x 50mm |\n|  | Square Extra Flexible | 72 x 22cm |\n|  | Square Water Resistant | 72 x 19mm |\n|  | Square Waterproof | 45 x 25mm |\n|  | Square-Finger | 120 x 19mm |",
+    "category": 70,
+    "divisions": [
+      54
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

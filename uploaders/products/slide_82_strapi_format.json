@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "NON-WOVEN FIX TAPE",
+    "referenceString": "4.12.5",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% Nonwoven Flexible fabric\n- Medical Paper\n- Adhesive: Acrylic and Hotmelt\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- Straight and Curved Cut Transfer Paper\n- Various Shapes\n- With and without Haemostatic Island\n\n## PERFORMANCE\n- Highly Flexible\n- Skin friendly\n- Aseptic, non-sterile\n- Hypoallergenic\n- Strong hold without skin irritation (Latex-free)",
+    "tableInMd": "| Size | 5cmx10.m10cmx10m,15cmx10m,20cmx10m, etc. |\n|---|---|",
+    "category": 70,
+    "divisions": [
+      54
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

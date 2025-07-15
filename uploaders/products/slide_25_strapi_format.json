@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "DENTAL NEEDLES",
+    "referenceString": "4.2.5",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Needle Hub and Cover\n- Paper label Seal\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- American and European Luer\n- Long and Short Lengths\n\n## PERFORMANCE\n- 3 bevelled tip sharpness technology\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Thin wall technology => pressure reduction\n\n## INJECTION\n- DENTAL CARE",
+    "tableInMd": "| Reference | ​Cannula |  |  | Hub |  |\n|---|---|---|---|---|---|\n|  | Gauge (G) | Effective Length (mm) | Length at cartridge (mm)​ | ​Type | Colour |\n| DN*M2541 | 25 | 41 | ​10.7 | Inch/Imperial | Orange |\n| DN*M2721 | 27 | 21 | 10.7​ | Inch/Imperial | Grey |\n| DN*M2722 | 27 | 22 | ​10.7 | Inch/Imperial | Grey |\n| DN*M2730 | 27 | 30 | ​10.7 | Inch/Imperial | Grey |\n| DN*M2735 | 27 | 35 | ​10.7 | Inch/Imperial | Grey |\n| DN*M2741 | 27 | 41 | 10.7​ | Inch/Imperial | Grey |\n| DN*M3016 | 30 | 16 | 10.7​ | Inch/Imperial | Yellow |\n| DN*M3019 | 30 | 19 | ​10.7 | Inch/Imperial | Yellow​ |\n| DN*M3021 | 30 | 21 | ​10.7 | Inch/Imperial​ | Yellow |\n| ​DN*M3022 | ​30 | ​22 | ​10.7 | ​Inch/Imperial | ​Yellow​ |\n| DN*M2508F | 25 | 8 | ​10.7 | Metric | Orange |\n| DN*M2535F | 25 | 35 | ​10.7 | Metric | Orange |\n| DN*M2716F | 27 | 16 | 10.7​ | Metric | Grey |\n| DN*M2721B | 27 | 21 | ​13.2 | Metric | Grey |\n| DN*M2721F | 27 | 21 | ​10.7 | Metric | Grey |\n| DN*M2735B | 27 | 35 | ​13.2 | Metric | Grey |\n| DN*M3013B | 30 | 13 | ​13.2 | Metric | Yellow |\n| DN*M3013F | 30 | 13 | ​10.7 | Metric | Yellow |\n| DN*M3016B | 30 | 16 | ​13.2 | Metric | Yellow |\n| DN*M3016F | 30 | 16 | ​10.7 | Metric | Yellow |\n| DN*M3021B | 30 | 21 | ​13.2 | Metric | Yellow |\n| DN​*M3021F | 30 | 21 | ​10.7 | Metric | Yellow |",
+    "category": 60,
+    "divisions": [
+      48
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

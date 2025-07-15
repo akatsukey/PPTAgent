@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "POLIURETHANE FILM",
+    "referenceString": "4.12.16",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% Polyurethane (PUR) Foam layered film\n- Adhesive: Acrylic\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Shapes\n- With and without Haemostatic Island\n\n## PERFORMANCE\n- Skin friendly\n- Hypoallergenic",
+    "tableInMd": "| Presentation | Size (cm) | Pouch |\n|---|---|---|\n| Plain | 5x7 | 3pcs |\n|  | 5x7 | 10pcs |\n|  | 10x10 | 3pcs |\n|  |  | 10pcs |\n|  | 15x15 | 3pcs |\n|  |  | 10pcs |\n|  | 10x20 | 3pcs |\n|  |  | 10pcs |\n|  | 20x20 | 5pcs |\n| With Island | 5x7 | 3pcs |\n|  | 5x7 | 10pcs |\n|  | 10x10 | 3pcs |\n|  |  | 10pcs |\n|  | 15x15 | 3pcs |\n|  |  | 10pcs |\n|  | 10x20 | 3pcs |\n|  |  | 10pcs |\n|  | 20x20 | 5pcs |",
+    "category": 70,
+    "divisions": [
+      54
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "NITRILE EXAMINATION GLOVES",
+    "referenceString": "4.10.2",
+    "standard": "ISO",
+    "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n- Loading Capacity: 20GP (29m3): …….. – 40HC (69m3): …….. \n\n## COMPOSITION\n- 100% Nitrile (Nitrile-Butadiene Rubber => NBR)\n\n## STERILIZATION\n- Non=Sterile\n\n## PRESENTATIONS\n- Powder free\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Soft and Stretch Sensation\n- Tear-Resistant\n- Strict monitored Protein Content\n- Outstanding tactile sensitivity\n- Polymer Coated => Easy Wearing\n- Ambidextrous",
+    "tableInMd": "| 2,8grs / 3,0grs / 3,5grs / 4,0grs / 4,5grs (Average by size Midieum) | PLAIN AND DIAMONT SURFACE | WHITE / BLUE / VIOLET / GREEN / PINK / BLACK / RED / BROWN | EXTRA SMALL (XS) |\n|---|---|---|---|\n|  |  |  | SMALL (S) |\n|  |  |  | LARGE (L) |\n|  |  |  | EXTRA LARGE (XL) |",
+    "category": 69,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

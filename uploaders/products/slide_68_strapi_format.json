@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "VINYL EXAMINATION GLOVES",
+    "referenceString": "4.10.3",
+    "standard": "ISO",
+    "description": "## COMPOSITION\n- 100% Nitrile (Polyvinylchloride => PVC )\n\n## STERILIZATION\n- Non=Sterile\n\n## PRESENTATIONS\n- Powder free\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Soft and Stretch Sensation\n- Tear-Resistant\n- Strict monitored Protein Content\n- Outstanding tactile sensitivity\n- Polymer Coated => Easy Wearing\n- Ambidextrous\n\n## DENTAL CARE\n\n## PROTECTION",
+    "tableInMd": "| 4,5grs (Average by size Midieum) | SMALL (S) |\n|---|---|\n|  | LARGE (L) |\n|  | EXTRA LARGE (XL) |",
+    "category": 69,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

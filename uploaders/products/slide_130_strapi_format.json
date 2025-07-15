@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "PHARYNGEAL AIRWAYS",
+    "referenceString": "4.20",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Silicon Coated\n\n## PERFORMANCE\n- Smooth surface allowing successful introduction\n- Atraumatic\n- Two sides channel design\n\n## ANESTHASIA",
+    "tableInMd": "| Berman Type |\n|---|\n| Size (mm) |\n| 40 |\n| 50 |\n| 60 |\n| 70 |\n| 80 |\n| 90 |\n| 100 |\n| 110 |\n| 120 |",
+    "category": null,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

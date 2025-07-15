@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "LONG PERIOD ENTERAL FEEDING TUBES",
+    "referenceString": "4.29.2",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% PVC, 100% DEHP-FREE PVC and 100% Silicone\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC, DEHP-FREE PVC and Silicone\n- Color-Coded Size Identification\n- Weighted feeding tubes\n- Standard and Ent-Fit Connector\n- Encapsulated radiopaque stripe all along the tube length\n- Highly Visible Size Indication every 5cm along the Tubing\n\n## PERFORMANCE\n- Smooth surface allowing successful introduction\n- High Tube Memory kink-resistant\n- Clean and smooth surfaced components\n\n## ANESTHASIA\n- ENTERAL FEEDING THERAPY",
+    "tableInMd": "| Sizes |\n|---|\n| 8Fr 43 Inch with Stylet |\n| 10Fr 43 Inch with Stylet |\n| 10Fr 43 Inch without Stylet |\n| 10Fr 43 Inch without Stylet |\n| 12Fr 43 Inch with Stylet, without Rigid Outlet Port |",
+    "category": 75,
+    "divisions": [
+      52
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

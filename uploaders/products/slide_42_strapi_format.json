@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "3 WAY STOP COCKS",
+    "referenceString": "4.6.1",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- Polycarbonate (PC) Body\n- Polyethylene (PE) Key\n- Polypropylene (PE) Connectors Caps\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Lipid and non-Lipid resistant\n- Standard and High Pressure Resistant\n- Standard and self-rotation male luer lock connector\n\n## PERFORMANCE\n- Premium Lubrication’s Technology => Easy spinning\n- High transparency Body",
+    "tableInMd": "| Blue Key | Standard | Standard male luer lock connector |\n|---|---|---|\n|  |  | Self-rotating male luer lock connector |\n|  | High Preasure | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n|  | Lipd Resitant | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n| Red Key | Standard | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n|  | High Preasure | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n|  | Lipd Resitant | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n| Whiteed Key | Standard | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n|  | High Preasure | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |\n|  | Lipd Resitant | Standard male luer lock connector |\n|  |  | Self-rotating male luer lock connector |",
+    "category": 64,
+    "divisions": [
+      47
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Blood Lancets",
+    "referenceString": "4.4",
+    "standard": "??????????",
+    "description": "## TYPES OF BLOOD LANCETS\n- Safety Blood Lancets\n- Safety Blood Heel Lancets\n- Twist Blood Lancets\n\n## COMPONENTS\n- Needle Coverering Cap\n- Needle\n- Holder Body\n- Safety Mechanism\n- Needle Bevel",
+    "tableInMd": "",
+    "category": 62,
+    "divisions": [
+      50
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

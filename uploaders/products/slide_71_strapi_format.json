@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "NITRILE SURGICAL GLOVES",
+    "referenceString": "4.10.6",
+    "standard": "ISO",
+    "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n- Loading Capacity: 20GP (29m3): …….. – 40HC (69m3): …….. \n\n## COMPOSITION\n- 100% Nitrile (Nitrile-Butadiene Rubber => NBR)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile Gamma (R) Sterilization\n\n## PRESENTATIONS\n- Powder free\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Soft and Stretch Sensation\n- Tear-Resistant\n- Outstanding tactile sensitivity\n- Polymer Coated => Easy Wearing\n- Anatomic\n\n## DENTAL CARE\n\n## PROTECTION",
+    "tableInMd": "| 6 |\n|---|\n| 6,5 |\n| 7 |\n| 7,5 |\n| 8 |\n| 8,5 |",
+    "category": 69,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

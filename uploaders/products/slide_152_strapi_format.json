@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "PRESSURE TRANSDUCER",
+    "referenceString": "4.32",
+    "standard": "??????????",
+    "description": "## PACKING\n- ……… pc/inner box\n- ……… inner box/Carton\n\n## LOADING CAPACITY\n- 20GP (29m3): …….. \n- 40HC (69m3): …….. \n\n## AVAILABLE CONNECTORS\n- Edward connector\n- Abbott connector\n- BD connector\n- Medex connector\n- Philips connector\n- USB connector\n- PVB connector\n- Utah connector\n- Mindray connector\n\n## STRENGTHS\n- Sensitive chip, accurate data transfer\n- Match all kinds of cables\n\n## CATHETER PLACEMENT\n- Closed system design reduces the risk of infection of operators\n- Accurate substantial design helps to avoid risk of leaking\n- Needle free blood sample collecting system helps to avoid stabbing and cross infection\n\n## APPLICATION\n- Central venous pressure and other various physiological pressure monitoring\n- Blood sampling\n- Neonatus pressure monitoring\n\n## CONVENIENT OPERATION\n- Simple operation and accurate flow rate control\n- Various Connectors for choice, can be used with different monitors\n- Micro constant flow (2~5cc/25~35cc per hour) helps to guarantee the continuous flow",
+    "tableInMd": "| Connector | Description |\n|---|---|\n| Edward | Single channel |\n| Philips | Single channel |\n| Abbott | Single channel |\n| BD | Single channel |\n| Utah | Single channel |\n| Medex | Single channel |\n| PVB SIMMS | Single channel |\n| USB | Single channel |\n| Mindray | Single channel |\n| Edward | Double channel |\n| Philips | Double channel |\n| Abbott | Double channel |\n| BD | Double channel |\n| Utah | Double channel |\n| Medex | Double channel |\n| PVB SIMMS | Double channel |\n| USB | Double channel |\n| Mindray | Double channel |\n| Edward | Core of DPT |\n| Philips | Core of DPT |\n| Abbott | Core of DPT |\n| BD | Core of DPT |\n| Utah | Core of DPT |\n| Medex | Core of DPT |\n| PVB SIMMS | Core of DPT |\n| USB | Core of DPT |\n| Mindray | Core of DPT |",
+    "category": 64,
+    "divisions": [
+      59
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "NON-LATEX CONDOMS",
+    "referenceString": "4.11.2",
+    "standard": "ISO ???",
+    "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n## LOADING CAPACITY\n- 20GP (29m3): …….. \n- 40HC (69m3): …….. \n## COMPOSITION\n- 100% Polyurethane (PUR)\n## STERILIZATION\n- Non-Sterile\n## PRESENTATIONS\n- Multi-Color Finishes\n## PERFORMANCE\n- Aseptic, non-sterile\n- Tear-Resistant\n- Outstanding sensitivity\n- Lubricated => Easy Wearing\n- Online electronic Testing",
+    "tableInMd": "",
+    "category": 58,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

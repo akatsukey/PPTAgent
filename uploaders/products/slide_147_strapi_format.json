@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Enteral Feeding Tubes",
+    "referenceString": "4.29",
+    "standard": "???",
+    "description": "## COMPONENTS\n- Connector\n- Connector cap\n- Tubing\n- Radiopaque stripe\n- Holes\n- Graduation scale\n\n## TYPES\n- Standard Enteral Feeding Tubes\n- Long Period Enteral Feeding Tubes",
+    "tableInMd": "",
+    "category": 75,
+    "divisions": [
+      52
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

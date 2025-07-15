@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Overview of Sterilization Processes in Medical Devices",
+    "referenceString": "5.7",
+    "standard": "???",
+    "description": "## STERILIZATION METHODS\n- ETO (Ethylene Oxide Sterilization): Uses ethylene oxide gas to penetrate medical devices and kill microorganisms at low temperatures. Ideal for heat-sensitive materials like plastics, electronics, and complex devices. Requires aeration time to remove toxic gas residues and is a slow process.\n- R (Gamma Sterilization): Uses high-energy gamma radiation (from Cobalt-60) to break down bacterial DNA and eliminate contaminants. Used for single-use medical devices, pharmaceuticals, and heat-sensitive products. Requires specialized handling and shielding due to radiation exposure.\n- Steam Sterilization (Autoclave): Uses high-pressure steam at 121–134°C (250–273°F) to kill microorganisms through heat and moisture. Suitable for metal instruments, surgical tools, glassware, and textiles. Not suitable for heat-sensitive materials like some plastics and electronics.\n- Beam Sterilization (Electron Beam - E-Beam): Uses high-energy electrons to sterilize by breaking microbial DNA. Often used for pharmaceuticals, syringes, and medical packaging. Faster than gamma radiation, no toxic residues. Limited penetration compared to gamma sterilization.",
+    "tableInMd": "",
+    "category": 59,
+    "divisions": [
+      50
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

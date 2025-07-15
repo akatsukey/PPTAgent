@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "CONDOMS",
+    "referenceString": "4.11.1",
+    "standard": "ISO 4074:2015",
+    "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n- Loading Capacity: 20GP (29m3): …….. – 40HC (69m3): …….. \n## COMPOSITION\n- 100% Rubber\n## STERILIZATION\n- Non-Sterile\n## PRESENTATIONS\n- Multi-Color Finishes\n## PERFORMANCE\n- Aseptic, non-sterile\n- Tear-Resistant\n- Outstanding sensitivity\n- Lubricated => Easy Wearing\n- Online electronic Testing",
+    "tableInMd": "",
+    "category": 58,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

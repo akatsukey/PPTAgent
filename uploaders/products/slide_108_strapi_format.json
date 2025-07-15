@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "SURGICAL GOWNS",
+    "referenceString": "4.14.9",
+    "standard": "EN13795-1:SP",
+    "description": "## COMPOSITION\n- 100% Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Latex free\n- White and Blue\n- Wide Range of Different Materials Compounds and Size\n- Elastic Wrist\n\n## PERFORMANCE\n- Highly Breathable material\n- Fluid repellent / Full permeability\n- Comfortable and soft fabric\n\n## PROTECTION\n- DENTAL",
+    "tableInMd": "| Description |\n|---|\n| Standard Surgical Gown, S |\n| Standard Surgical Gown, M |\n| Standard Surgical Gown, L |\n| Standard Surgical Gown, XL |\n| Standard Surgical Gown, XXL |\n| Reinforced Surgical Gown, S |\n| Reinforced Surgical Gown, M |\n| Reinforced Surgical Gown, L |\n| Reinforced Surgical Gown, XL |\n| Reinforced Surgical Gown, XXL |\n| ECO Standard Surgical Gown, S |\n| ECO Standard Surgical Gown, M |\n| ECO Standard Surgical Gown, L |\n| ECO Standard Surgical Gown, XL |\n| ECO Standard Surgical Gown, XXL |\n| ECO Reinforced Surgical Gown, S |\n| ECO Reinforced Surgical Gown, M |\n| ECO Reinforced Surgical Gown, L |\n| ECO Reinforced Surgical Gown, XL |\n| ECO Reinforced Surgical Gown, XXL |\n| Standard Surgical Gown, M, AAMI Level 2 |\n| Standard Surgical Gown, L, AAMI Level 2 |\n| Standard Surgical Gown, XL, AAMI Level 2 |\n| Standard Surgical Gown, XXL, AAMI Level 2 |\n| Standard Surgical Gown, XXXL, AAMI Level 2 |\n| Reinforced Surgical Gown, M, AAMI Level 2 |\n| Reinforced Surgical Gown, L, AAMILevel 2 |\n| Reinforced Surgical Gown, XL, AAMI Level 2 |",
+    "category": 72,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

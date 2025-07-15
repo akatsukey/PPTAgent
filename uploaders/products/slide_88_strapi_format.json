@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "SILVER DRESSINGS",
+    "referenceString": "4.12.11",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- Polyamide Fibers coated with elemental silver\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Shapes\n\n## PERFORMANCE\n- Skin friendly\n- Hypoallergenic\n- Non-Adhesive",
+    "tableInMd": "| Size (cm) | Pouch |\n|---|---|\n| 10x10 | 10pcs |\n| 15x15 | 10pcs |\n| 20x20 | 10pcs |",
+    "category": 70,
+    "divisions": [
+      54
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

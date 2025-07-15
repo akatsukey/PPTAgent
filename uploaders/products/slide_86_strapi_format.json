@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "NON-WOVEN DRESSINGS",
+    "referenceString": "4.12.9",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% Nonwoven fabric made of Viscose and Polyester Fibers\n- Medical Paper\n- Adhesive: Acrylic and Hotmelt\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Straight and Curved Cut Transfer Paper\n\n## PERFORMANCE\n- Highly Flexible\n- Skin friendly\n- Hypoallergenic\n- Strong hold without skin irritation (Latex-free)",
+    "tableInMd": "| Corners | Size (cm) |\n|---|---|\n| Round Corners | 7x5 |\n|  | 10x8 |\n| Straight Corners | 7x5 |\n|  | 10x8 |\n|  | 10x15 |\n|  | 10x20 |\n|  | 10x25 |\n|  | 10x30 |",
+    "category": 70,
+    "divisions": [
+      54
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

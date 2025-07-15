@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "CONVENTIONAL SCALP VEIN SETS",
+    "referenceString": "4.3.1",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polyethylene (PE) Wings\n- Polypropylene (PP) Connector and Cap\n- PVC and DEHP-Free Tubing\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Male Luer Lock and holder’s Luer Connector + Cap\n\n## PERFORMANCE\n- 3 bevelled tip sharpness technology\n- Soft and anti-slip Surface colored Fixiation Wings\n- High Transparency and Memory Tubing\n- Air-Tight sealing with syringe’s tip\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance",
+    "tableInMd": "| Gauge | Flow (ml/min) |\n|---|---|\n| 27G | 2 |\n| 25G | 4 |\n| 23G | 11 |\n| 21G | 22 |\n| 19G | 43 |",
+    "category": 61,
+    "divisions": [
+      47
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

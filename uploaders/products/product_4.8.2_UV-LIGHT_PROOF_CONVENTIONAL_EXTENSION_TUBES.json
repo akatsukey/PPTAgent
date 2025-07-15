@@ -1,0 +1,29 @@
+{
+  "data": {
+    "name": "UV-LIGHT PROOF CONVENTIONAL EXTENSION TUBES",
+    "referenceString": "4.8.2",
+    "category": 66,
+    "categoryName": "Extension Tubes",
+    "divisions": [
+      47,
+      50,
+      50
+    ],
+    "divisionNames": [
+      "Infusion",
+      "Diagnostic",
+      "Diagnostic"
+    ],
+    "standard": "???",
+    "description": "",
+    "tableInMd": "",
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

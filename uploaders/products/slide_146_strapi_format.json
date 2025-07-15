@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "CLOSED SUCTION CATHETER",
+    "referenceString": "4.28.2",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Soft PVC and DEHP-FREE PVC\n- Latex-free\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- Reliable protection against accidental vacuum activation with a special locking button\n- Freely rotating connectors with a double ball-and-socket design\n\n## ANESTHASIA",
+    "tableInMd": "| Size | Color | Tube OD | Length Of Tube |\n|---|---|---|---|\n| Neonatal/24h/Endotracheal | Grey | 5Fr (1.7mm) | 5Fr (1.7mm) |\n| Neonatal/24h/Endotracheal | Light Green | 6Fr (1.95mm) | 6Fr (1.95mm) |\n| Pediatric/24h/Endotracheal | Violet | 7Fr (2.3mm) | 7Fr (2.3mm) |\n| Pediatric/24h/Endotracheal | Blue | 8Fr (2.7mm) | 8Fr (2.7mm) |\n| Adult/24h/Endotracheal | Black | 10Fr (3.35mm) | 10Fr (3.35mm) |\n| Adult/24h/Endotracheal | White | 12Fr (4.05mm) | 12Fr (4.05mm) |\n| Adult/24h/Endotracheal | Green | 14Fr (4.75mm) | 14Fr (4.75mm) |\n| Adult/24h/Endotracheal | Orange | 16Fr (5.45mm) | 16Fr (5.45mm) |\n| Neonatal/24h/Tracheostomy | Grey | 5Fr (1.7mm) | 5Fr (1.7mm) |\n| Neonatal/24h/Tracheostomy | Light Green | 6Fr (1.95mm) | 6Fr (1.95mm) |\n| Pediatric/24h/Tracheostomy | Violet | 7Fr (2.3mm) | 7Fr (2.3mm) |\n| Pediatric/24h/Tracheostomy | Blue | 8Fr (2.7mm) | 8Fr (2.7mm) |\n| Adult/24h/Tracheostomy | Black | 10Fr (3.35mm) | 10Fr (3.35mm) |\n| Adult/24h/Tracheostomy | White | 12Fr (4.05mm) | 12Fr (4.05mm) |\n| Adult/24h/Tracheostomy | Green | 14Fr (4.75mm) | 14Fr (4.75mm) |\n| Adult/24h/Tracheostomy | Orange | 16Fr (5.45mm) | 16Fr (5.45mm) |",
+    "category": 73,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

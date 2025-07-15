@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "INFUSION SETS",
+    "referenceString": "4.5",
+    "standard": "???",
+    "description": "## COMPONENTS\n- spike\n- Air-vent\n- chamber\n- filter\n- Flow regulator\n- tubing\n- Injection Y-port\n- Spike cap\n- Luer connector\n- Luer conenctor cap",
+    "tableInMd": "",
+    "category": 63,
+    "divisions": [
+      47
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

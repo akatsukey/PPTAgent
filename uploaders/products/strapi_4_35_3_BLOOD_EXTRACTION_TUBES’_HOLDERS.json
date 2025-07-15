@@ -1,0 +1,27 @@
+{
+  "name": "BLOOD EXTRACTION TUBES’ HOLDERS",
+  "referenceString": "4.35.3",
+  "category": 77,
+  "categoryName": "BLOOD EXTRACTION",
+  "divisions": [
+    50,
+    59,
+    50
+  ],
+  "divisionNames": [
+    "Diagnostic",
+    "Surgery",
+    "Diagnostic"
+  ],
+  "standard": "???",
+  "description": "## COMPOSITION\n- Medical Grade Polypropylene (PP)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Compatible with standard, multiple sample blood collection needles.\n\n## PERFORMANCE\n- Highly Transparent\n- Smooth Surface",
+  "tableInMd": "| Specification | Qty/ctn. |\n|---|---|\n| Holder, PP | 2000 |",
+  "images": [],
+  "PackagingInformation": {
+    "packing_per_inner_box": 0,
+    "inner_boxes_per_carton": 0,
+    "loading_capacity_20GP": 0,
+    "loading_capacity_40HC": 0,
+    "additional_notes": "Not specified"
+  }
+}

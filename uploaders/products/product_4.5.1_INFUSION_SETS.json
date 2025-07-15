@@ -1,0 +1,27 @@
+{
+  "data": {
+    "name": "INFUSION SETS",
+    "referenceString": "4.5.1",
+    "category": 63,
+    "categoryName": "Infusion Sets",
+    "divisions": [
+      47,
+      50
+    ],
+    "divisionNames": [
+      "Infusion",
+      "Diagnostic"
+    ],
+    "standard": "???",
+    "description": "## COMPOSITION\n- PVC, PVC DEHP-FREE (Non-Phthalate) and PVC-FREE\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Fully Customizable Configurations\n- Gravity and Pump\n- TRANSPARENT and UV-LIGHT PROOF Tubing Finish\n- Soft and Hard Tubing\n\n## PERFORMANCE\n- High Tube Memory kink-resistant\n- Clear Tube and Chamber\n- Clean shaped smooth surfaced components",
+    "tableInMd": "| DRIP CHAMBER | AIR-VENT | FILTER | TUBING | CLAMP | ROLLER CLAMP | INJECTION Y-SITE | ACCESSORIES | CONNECTOR | PROTECTIVE CONNECTOR'S CAP | INDIVIDUAL PACKAGING | INNER PACKAGING |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| MEDIUM / 3 CHANELS | STANDARD | STANDARD | PVC - PREMIUM TRANSPARENT / RIGID | SLIDE | ABS - MEDIUM | LONG / LATEX | FLOW REGULATOR | LUER SLIP / TRANSPARENT | STANDARD | BLISTER | INNER BAG |\n| MEDIUM / MONO-CHANEL | WITH SPRING EFFECT | SAFETY | PVC - PREMIUM OPAC / MEMORY | ROBERT | ABS - MEDIUM WITH SVS HOLDER | LONG / LATEX-FREE | FLUID FILTER | LUER LOCK | LUER LOCK CAP | POUCH | SOFT INNER BOX |\n| MEDIUM WINGED / 3 CHANELS | N/A |  | DEHP-FREE PVC - PREMIUM OPAC / MEMORY |  | ABS - LONG | PREMIUM WITH PROTECTION / LATEX-FREE | 3-WAY STOP COCK | ROTATIVE LUER LOCK | HYDROPHOBIC FILTERED |  | HARD INNER BOX |\n| MEDIUM WINGED / MONO-CHANEL |  |  | DEHP-FREE PVC - PREMIUM TRANSPARENT / RIGID |  | ABS - LONG WITH SVS HOLDER | NEGATIVE NEEDLE-FREE |  |  | NEEDLE |  |  |\n| PREMIUM / 3 CHANELS |  |  | PVC FREE - PREMIUM OPAC / MEMORY |  | ABS - PREMIUM WITH SPIKE HOLDER | POSITIVE NEEDLE-FREE |  |  |  |  |  |\n| PREMIUM / MONO-CHANEL |  |  |  |  |  | NEUTRAL NEEDLE-FREE |  |  |  |  |  |\n| PREMIUM WINGED / 3 CHANELS |  |  |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX |  |  |  |  |  |\n| PREMIUM WINGED / MONO-CHANEL |  |  |  |  |  | RUBBER BULB (FLASH BULB SHAPE) / LATEX-FREE |  |  |  |  |  |\n| PREMIUM DOUBLE SOFT-HARD / MONO-CHANEL |  |  |  |  |  |  |  |  |  |  |  |",
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "HEPARIN CAPS",
+    "referenceString": "4.6.2",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- Polycarbonate (PC) Body\n- Silicon Latex-Free Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Transparent and Yellow\n\n## PERFORMANCE\n- Smooth Surface",
+    "tableInMd": "| YELLOW | LATEX |\n|---|---|\n|  | LATEX FREE |\n| TRANSPARENT | LATEX |\n|  | LATEX FREE |",
+    "category": 64,
+    "divisions": [
+      47
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

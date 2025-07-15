@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Gloves",
+    "referenceString": "4.10",
+    "standard": "???",
+    "description": "## EXAMINATION GLOVES\n- Latex Examination Gloves\n- Nitrile Examination Gloves\n- Vinyl Examination Gloves\n- Poliethylene (PE) Gloves\n\n## SURGICAL GLOVES\n- Latex Surgical Gloves\n- Nitrile Surgical Gloves\n- Polysuprene Surgical Gloves\n\n## PRODUCT DETAILS\n- Finger tip\n- Palm\n- Cuff\n- Back edge\n- Length\n- Size mark",
+    "tableInMd": "",
+    "category": 69,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

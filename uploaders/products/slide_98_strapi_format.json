@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "NO WOVEN SWABS",
+    "referenceString": "4.13.4",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- Non Woven fabric made of 70% viscose + 30% polyester\n\n## STERILIZATION\n- Non Sterile, Ethylene oxide and Steam Sterilization\n\n## PRESENTATIONS\n- Sterile and non-sterile\n- With and Without X-Ray Thread\n\n## PERFORMANCE\n- Highly Absorbent\n\n## AVAILABLE SPECIFICATIONS\n- Non Woven Fabrics’ Quality: 30g/35g/40g/45g/50g\n- With or without x-ray detectable threads\n- Size: 2”x2” / 3”x3” / 4”x4” / 4”x8”\n- Plies: 4ply / 8ply / 12ply / 16ply / 24ply / 32ply\n- Packaging Qty: 1pc, 2pcs, 3pcs, 5pcs, 10pcs per sterile pouch, if non sterile: 100pcs/bag\n- Package:\n  > Sterile Package: Wrapped in sterile paper+paper pouch, paper + film pouch as well as blister\n  > Non sterile package: white paper bag wrap\n  > Colors: white",
+    "tableInMd": "",
+    "category": 71,
+    "divisions": [
+      54
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

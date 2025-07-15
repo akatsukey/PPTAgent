@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "RESPIRATORY CIRCUITS",
+    "referenceString": "4.24",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- Ethylene Oxide (EO) Sterile\n- Medical-grade EVA/PE material or Non-toxic PVC ??????\n- Available with gas bag and water traps\n- Available with extra limb\n- Different length available\n- Available with single and double lumen for therapies with additional additives",
+    "tableInMd": "",
+    "category": null,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}
