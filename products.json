@@ -17,7 +17,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "male-external-catheters"
     }
   },
   {
@@ -35,8 +36,8 @@
         "Diabetis care"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber and Natural Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Latex and latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Low Dead Space\n- Clear graduation printing technology\n- High Transparency Barrel\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Thin wall technology => pressure reduction\n- Smooth sliding\n- Smooth Surface\n\n## INJECTION\n- DIABETES",
+      "tableInMd": "| 1ml With Fixxed Needle | 27G / 29G / 30G / 31G / 32G / 33G | Blister / 10pcs Bag | Soft Box / Hard Box |\n|---|---|---|---|",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -44,7 +45,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "insuline-syringes"
     }
   },
   {
@@ -62,8 +64,8 @@
         "Diabetis care"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Slip Tips\n- With and Without Needle\n- Customizable graduation including logo\n- Some Sizes with Centric and Excentric luer Tips\n\n## PERFORMANCE\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding\n- Smooth Surface",
+      "tableInMd": "| 1ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n|---|---|---|---|\n| 2ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 3ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 5ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 6ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 10ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 12ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 20ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -71,7 +73,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "hypodermic-2-parts-syringes"
     }
   },
   {
@@ -89,8 +92,8 @@
         "Diabetis care"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber and Natural Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Lock and Luer Slip Tips\n- With and Without Needle\n- Latex and latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Clear graduation printing technology\n- UV-Light Proof colour Barrel\n- Smooth sliding\n- Smooth Surface",
+      "tableInMd": "| 1ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n|---|---|---|---|---|---|\n| 2ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 3ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 5ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 6ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 10ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 12ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 20ml | Luer Slip / Luer Lock Tip | Concentric / Eccentric | Without Needle | Blister | Soft Box / Hard Box |\n| 30ml | Luer Slip / Luer Lock Tip | Concentric / Eccentric | Without Needle | Blister | Soft Box / Hard Box |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -98,7 +101,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "light-proof-hypodermic-syringes"
     }
   },
   {
@@ -114,8 +118,8 @@
         "Diabetis care"
       ],
       "standard": "???",
-      "description": "",
-      "tableInMd": "",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber and Natural Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Oral Tip and ENT-FIT Tips\n- With or without cap\n- Latex and latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Clear graduation printing technology\n- High Transparency and UV-Light Proof colour Barrel\n- Smooth sliding\n- Smooth Surface\n## INJECTION",
+      "tableInMd": "| ORAL Tip | 1ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|---|---|---|---|---|\n|  | 2ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 3ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 5ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 10ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 20ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n| ENT-FIT Tip | 1ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 2ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 3ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 5ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 10ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 20ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |",
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -123,7 +127,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "oralfeeding-syringes"
     }
   },
   {
@@ -148,7 +153,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "infusion-pump-syringes"
     }
   },
   {
@@ -173,7 +179,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "conventional-arterial-blood-samplers"
     }
   },
   {
@@ -198,7 +205,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "pc-syringes"
     }
   },
   {
@@ -223,7 +231,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "pre-filled-syringes"
     }
   },
   {
@@ -248,7 +257,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "auto-disabel-ad-safety-syringes"
     }
   },
   {
@@ -273,7 +283,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "needle-covering-safety-syringes"
     }
   },
   {
@@ -300,7 +311,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "safety-arterial-blood-samplers"
     }
   },
   {
@@ -327,7 +339,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "manual-retractable-safety-syringes"
     }
   },
   {
@@ -354,7 +367,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "automatic-retractable-safety-syringes"
     }
   },
   {
@@ -381,7 +395,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "conventional-hypodermic-needles"
     }
   },
   {
@@ -410,7 +425,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "insulin-pen-needles"
     }
   },
   {
@@ -439,7 +455,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "blood-extraction-needles"
     }
   },
   {
@@ -468,7 +485,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "blunt-hypodermic-needles"
     }
   },
   {
@@ -495,7 +513,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "dental-needles"
     }
   },
   {
@@ -522,7 +541,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "safety-protector-covering-safety-needles"
     }
   },
   {
@@ -549,7 +569,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "safety-insulin-pen-needles"
     }
   },
   {
@@ -576,7 +597,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "safety-blood-extraction-needles"
     }
   },
   {
@@ -603,7 +625,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "conventional-scalp-vein-sets"
     }
   },
   {
@@ -630,7 +653,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "safety-scalp-vein-sets"
     }
   },
   {
@@ -657,7 +681,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "safety-scalp-vein-sets-premium"
     }
   },
   {
@@ -686,7 +711,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "conventional-blood-lancets"
     }
   },
   {
@@ -713,7 +739,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "safety-blood-lancets"
     }
   },
   {
@@ -740,7 +767,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "safety-blood-heel-lancets"
     }
   },
   {
@@ -767,7 +795,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "twist-blood-lancets"
     }
   },
   {
@@ -794,7 +823,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "infusion-sets"
     }
   },
   {
@@ -821,7 +851,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "infusion-burette-sets"
     }
   },
   {
@@ -848,7 +879,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "infusion-enteralfeeding-set"
     }
   },
   {
@@ -875,7 +907,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "3-way-stop-cocks"
     }
   },
   {
@@ -902,7 +935,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "heparin-caps"
     }
   },
   {
@@ -929,7 +963,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "negative-needle-free-connector"
     }
   },
   {
@@ -956,7 +991,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "positive-needle-free-connector"
     }
   },
   {
@@ -983,7 +1019,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "neutral-needle-free-connector"
     }
   },
   {
@@ -1010,7 +1047,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "neutral-anti-reflux-needle-free-connector"
     }
   },
   {
@@ -1037,7 +1075,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "flow-regulator"
     }
   },
   {
@@ -1064,7 +1103,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "femalemale-stoppers"
     }
   },
   {
@@ -1091,7 +1131,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "caps"
     }
   },
   {
@@ -1120,7 +1161,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "fluids-transfer-spike"
     }
   },
   {
@@ -1149,7 +1191,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "transfusion-sets"
     }
   },
   {
@@ -1178,7 +1221,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "conventional-extension-tubes"
     }
   },
   {
@@ -1207,7 +1251,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "uv-light-proof-conventional-extension-tubes"
     }
   },
   {
@@ -1236,7 +1281,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "extension-tube-with-3-way-stop-cock"
     }
   },
   {
@@ -1265,7 +1311,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "extension-tube-with-flow-regulator"
     }
   },
   {
@@ -1294,7 +1341,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "high-pressure-extension-tubes"
     }
   },
   {
@@ -1323,7 +1371,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "uv-light-proof-high-pressure-extension-tubes"
     }
   },
   {
@@ -1352,7 +1401,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "pen-type-conventional-iv-cannula"
     }
   },
   {
@@ -1381,7 +1431,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "conventional-iv-cannula-with-wings"
     }
   },
   {
@@ -1410,7 +1461,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "conventional-iv-cannula-with-wings-and-injection-site"
     }
   },
   {
@@ -1437,7 +1489,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "pen-type-passive-retractable-safety-iv-cannula"
     }
   },
   {
@@ -1464,7 +1517,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "passive-safety-iv-cannula-with-wings"
     }
   },
   {
@@ -1491,7 +1545,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "passive-safety-iv-cannula-with-wings-and-injection-site"
     }
   },
   {
@@ -1518,7 +1573,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "manual-retractable-safety-iv-cannula"
     }
   },
   {
@@ -1545,7 +1601,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "automatic-retractable-safety-iv-cannula"
     }
   },
   {
@@ -1572,7 +1629,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "safetyclose-system-iv-cannula-2-ways"
     }
   },
   {
@@ -1599,7 +1657,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "latex-examination-gloves"
     }
   },
   {
@@ -1626,7 +1685,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "nitrile-examination-gloves"
     }
   },
   {
@@ -1653,7 +1713,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "vinyl-examination-gloves"
     }
   },
   {
@@ -1680,7 +1741,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "poliethilene-pe-gloves"
     }
   },
   {
@@ -1707,7 +1769,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "latex-surgical-gloves"
     }
   },
   {
@@ -1734,7 +1797,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "nitrile-surgical-gloves"
     }
   },
   {
@@ -1761,7 +1825,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "polysuprene-surgical-gloves"
     }
   },
   {
@@ -1788,7 +1853,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "latex-examination-gloves-1"
     }
   },
   {
@@ -1815,7 +1881,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "latex-condoms"
     }
   },
   {
@@ -1842,7 +1909,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "non-latex-condoms"
     }
   },
   {
@@ -1869,7 +1937,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "latex-probe-covers"
     }
   },
   {
@@ -1896,7 +1965,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "cotton-surgical-tape"
     }
   },
   {
@@ -1923,7 +1993,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "non-woven-surgical-tape"
     }
   },
   {
@@ -1950,7 +2021,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "transparent-pe-surgical-tape"
     }
   },
   {
@@ -1977,7 +2049,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "silk-rayon-surgical-tape"
     }
   },
   {
@@ -2004,7 +2077,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "non-woven-fix-tape"
     }
   },
   {
@@ -2031,7 +2105,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "pflasters"
     }
   },
   {
@@ -2058,7 +2133,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "poliuretane-pu-transparent-dressings"
     }
   },
   {
@@ -2087,7 +2163,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "poliuretane-pu-iv-dressings"
     }
   },
   {
@@ -2116,7 +2193,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "non-woven-dressings"
     }
   },
   {
@@ -2145,7 +2223,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "alginate-dressings"
     }
   },
   {
@@ -2174,7 +2253,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "silver-dressings"
     }
   },
   {
@@ -2203,7 +2283,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "hydrocoloid-dressing"
     }
   },
   {
@@ -2232,7 +2313,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "hydrogel-dressing"
     }
   },
   {
@@ -2261,7 +2343,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "foam-dressings"
     }
   },
   {
@@ -2290,7 +2373,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "vaseline-dressings"
     }
   },
   {
@@ -2319,7 +2403,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "poliurethane-film"
     }
   },
   {
@@ -2348,7 +2433,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "100-cotton-woven-gauze"
     }
   },
   {
@@ -2377,7 +2463,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "gauze-rolls"
     }
   },
   {
@@ -2406,7 +2493,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "gauze-swabs"
     }
   },
   {
@@ -2435,7 +2523,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "gauze-lap-sponges"
     }
   },
   {
@@ -2464,7 +2553,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "non-woven-swabs"
     }
   },
   {
@@ -2493,7 +2583,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "3-ply-masks"
     }
   },
   {
@@ -2522,7 +2613,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "fffp-masks"
     }
   },
   {
@@ -2551,7 +2643,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "cover-shoes"
     }
   },
   {
@@ -2580,7 +2673,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "cover-boots"
     }
   },
   {
@@ -2609,7 +2703,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "nurse-caps"
     }
   },
   {
@@ -2638,7 +2733,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "shrink-nurse-caps"
     }
   },
   {
@@ -2667,7 +2763,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "doctor-caps"
     }
   },
   {
@@ -2696,7 +2793,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "isolation-gowns"
     }
   },
   {
@@ -2725,7 +2823,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "surgical-gowns"
     }
   },
   {
@@ -2754,7 +2853,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "pe-aprons"
     }
   },
   {
@@ -2783,7 +2883,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "disposable-non-woven-drapes-and-operation-room-surgical-kits"
     }
   },
   {
@@ -2812,7 +2913,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "latex-foley-catheters"
     }
   },
   {
@@ -2841,7 +2943,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "silicon-foley-catheters"
     }
   },
   {
@@ -2870,7 +2973,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "hydrophilic-foley-catheters"
     }
   },
   {
@@ -2899,7 +3003,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "special-foley-catheters"
     }
   },
   {
@@ -2928,7 +3033,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "self-retaining-urinary-catheters"
     }
   },
   {
@@ -2957,7 +3063,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "red-latex-urethral-catheters"
     }
   },
   {
@@ -2986,7 +3093,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "nelaton-catheters"
     }
   },
   {
@@ -3015,7 +3123,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "hydrophilic-intermmitent-catheters"
     }
   },
   {
@@ -3044,7 +3153,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "male-external-catheters-1"
     }
   },
   {
@@ -3073,7 +3183,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "urine-bags-economic-type"
     }
   },
   {
@@ -3102,7 +3213,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "urine-bags-standard-type"
     }
   },
   {
@@ -3131,7 +3243,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "urine-bags-luxus-type"
     }
   },
   {
@@ -3160,7 +3273,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "urine-bags-with-volutrol"
     }
   },
   {
@@ -3189,7 +3303,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "leg-urine-bags"
     }
   },
   {
@@ -3218,7 +3333,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "pediatric-urine-bags"
     }
   },
   {
@@ -3245,7 +3361,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "endotracheal-tubes"
     }
   },
   {
@@ -3272,7 +3389,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "endobroncheal-tubes"
     }
   },
   {
@@ -3299,7 +3417,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "pharingeal-airways"
     }
   },
   {
@@ -3326,7 +3445,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "nasopharingeal-airways"
     }
   },
   {
@@ -3353,7 +3473,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "laryngeal-masks"
     }
   },
   {
@@ -3380,7 +3501,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "tracheostomy"
     }
   },
   {
@@ -3407,7 +3529,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "anesthesia-circuits"
     }
   },
   {
@@ -3434,7 +3557,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "filters"
     }
   },
   {
@@ -3461,7 +3585,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "nasa-oxygen-cannula"
     }
   },
   {
@@ -3488,7 +3613,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "respiratory-masks"
     }
   },
   {
@@ -3515,7 +3641,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "suction-tube-jankauer-handle"
     }
   },
   {
@@ -3542,7 +3669,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "standard-suction-catheter"
     }
   },
   {
@@ -3569,7 +3697,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "closed-suction-catheter"
     }
   },
   {
@@ -3594,7 +3723,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "standard-enteral-feeding-tubes"
     }
   },
   {
@@ -3619,7 +3749,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "long-period-enteral-feeding-tubes"
     }
   },
   {
@@ -3644,7 +3775,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "stomach-tubes"
     }
   },
   {
@@ -3671,7 +3803,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "central-venous-catheters-cvc"
     }
   },
   {
@@ -3698,7 +3831,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "pressure-transducers"
     }
   },
   {
@@ -3727,7 +3861,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "electrodes"
     }
   },
   {
@@ -3756,7 +3891,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "short-term-hemodialysis-catheters"
     }
   },
   {
@@ -3785,7 +3921,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "long-term-hemodialysis-catheters"
     }
   },
   {
@@ -3814,7 +3951,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "blood-vacuum-tubes"
     }
   },
   {
@@ -3843,7 +3981,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "blood-micro-vacuum-tubes"
     }
   },
   {
@@ -3872,7 +4011,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "blood-extraction-tubes-holders"
     }
   },
   {
@@ -3899,7 +4039,8 @@
         "loading_capacity_20GP": 0,
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
-      }
+      },
+      "slug": "blood-extraction-safety-tubes-holders"
     }
   }
 ]

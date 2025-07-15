@@ -14,6 +14,9 @@ import requests
 from pathlib import Path
 from typing import Dict, Any
 
+from dotenv import load_dotenv
+load_dotenv()
+
 
 def check_dependencies():
     """Check if required packages are installed."""
@@ -71,10 +74,10 @@ def main():
     args = parser.parse_args()
     
     # Check for required environment variable
-    token = os.getenv("CMS_TOKEN")
+    token = os.getenv("STRAPI_TOKEN")
     if not token:
-        print("Error: CMS_TOKEN environment variable not set.")
-        print("Set it with: export CMS_TOKEN=your_token_here")
+        print("Error: STRAPI_TOKEN environment variable not set.")
+        print("Set it with: export STRAPI_TOKEN=your_token_here")
         sys.exit(1)
     
     print(f"Fetching data from {args.base_url}...")
