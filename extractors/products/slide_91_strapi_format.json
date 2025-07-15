@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "FOAM DRESSINGS",
+    "referenceString": "4.12.14",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% Polyurethane (PUR) Foam layered film\n- Adhesive: Acrylic and Hotmelt\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Various Shapes\n\n## PERFORMANCE\n- Skin friendly\n- Hypoallergenic\n- Highly Absorbent",
+    "tableInMd": "| Size (cm) | Pouch |\n|---|---|\n| 10x10 | 5pcs |\n| 10x10 | 10pcs |\n| 15x15 | 5pcs |\n| 20x20 | 5pcs |",
+    "category": 70,
+    "divisions": [
+      54
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

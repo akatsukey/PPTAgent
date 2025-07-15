@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Ordering Process",
+    "referenceString": "5.2",
+    "standard": "???",
+    "description": "## ORDER'S CONFIRMATION\n- Purchase Order (PO)\n- Proforma Invoice (PI)\n- Artworks\n- Advanced Payment\n- forwarder’s information\n- Inspection Report\n- Shipment\n- Balance Payment\n\n## TRANSPORTATION WAY\n- Shipping Documents: Commercial / Invoice / Packing List / Bill of Lading  (B/L) / Certificate of Analysis (CoA) / Sterilization Certificate / Certificate of Origine (if required)",
+    "tableInMd": "",
+    "category": 64,
+    "divisions": [
+      47
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

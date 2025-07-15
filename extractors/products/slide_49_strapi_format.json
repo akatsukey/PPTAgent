@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "FEMALE/MALE STOPPERS",
+    "referenceString": "4.6.8",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- Polypropylene (PP) Body\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Red, Blue and White color\n\n## PERFORMANCE\n- Air-Tight sealing\n- Smooth Surface",
+    "tableInMd": "| STERILE | WHITE |\n|---|---|\n|  | BLUE |\n|  | RED |\n| NON STERILE | WHITE |\n|  | BLUE |\n|  | RED |",
+    "category": 64,
+    "divisions": [
+      47
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

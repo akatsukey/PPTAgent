@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "ALL AROUND INCOTERMS",
+    "referenceString": "5.10",
+    "standard": "???",
+    "description": "",
+    "tableInMd": "|  |  |  |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| Incoterms for Any Mode of Transport (Multimodal) | LOADING, DELIVERY TO THE PORT AND EXPORT CUSTOMS | UNLOADING | LOADING AT PORT OF EXPORT | TRANSIT TO DESTINATION | CARGO INSURANCE | UNLOADING AT PORT OF IMPORT | LOADING TRUCK AT PORT OF IMPORT | CARRIAGE TO DESTINATION | IMPORT CUSTUMS CLEARANCE | IMPORT DUTIES | DELIVERY CARTAGE TO FINAL DESTINATION |\n| EXW – Ex Works | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER |\n| FCA – Free Carrier (at DRY PORT) | SELLER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER |\n| FAS – Free Alongside Ship | SELLER | SELLER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER |\n| FOB – Free On Board | SELLER | SELLER | SELLER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER |\n| CFR – Cost and Freight | SELLER | SELLER | SELLER | SELLER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER |\n| CIF – Cost, Insurance, and Freight | SELLER | SELLER | SELLER | SELLER | SELLER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER |\n| CPT – Carriage Paid To | SELLER | SELLER | SELLER | SELLER | SELLER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER |\n| CIP – Carriage and Insurance Paid To | SELLER | SELLER | SELLER | SELLER | SELLER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER |\n| DAT – Delivered at Terminal (Place/Port) | SELLER | SELLER | SELLER | SELLER | SELLER | BUYER | BUYER | BUYER | BUYER | BUYER | BUYER |\n| DAP – Delivered at Place | SELLER | SELLER | SELLER | SELLER | SELLER | SELLER | BUYER | BUYER | BUYER | BUYER | BUYER |\n| DPU – Delivered at Place Unloaded | SELLER | SELLER | SELLER | SELLER | SELLER | SELLER | SELLER | SELLER | BUYER | BUYER | SELLER |\n| DDP – Delivered Duty Paid | SELLER | SELLER | SELLER | SELLER | SELLER | SELLER | SELLER | SELLER | SELLER | SELLER | SELLER |",
+    "category": null,
+    "divisions": [
+      null
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

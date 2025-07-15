@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Condoms",
+    "referenceString": "4.11",
+    "standard": "ISO 4074:2015",
+    "description": "## TYPES\n- Latex Condoms\n- Non-Latex Condoms\n- Latex Probe Covers\n\n## FEATURES\n- Tip\n- Body\n- Wall thickness\n- Back edge\n- Length\n- Width\n- Aluminium sachet",
+    "tableInMd": "",
+    "category": 58,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

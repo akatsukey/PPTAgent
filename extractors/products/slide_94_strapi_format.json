@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "GAUZE",
+    "referenceString": "4.13",
+    "standard": "???",
+    "description": "## FEATURES\n- High absorbance performance\n- Ethylene oxide and Steam Sterilization\n- Sterile and non-sterile\n- Wide range of popular sizes\n- 100% oxygen bleached cotton\n\n## PRODUCTS\n- 100% COTTON WOVEN GAUZE\n- GAUZE ROLLS\n- GAUZE SWABS\n- GAUZE LAP SPONGES\n- NON-WOVEN SWABS\n- Doctor cap\n- gown\n- Cover schoes\n- Face mask",
+    "tableInMd": "",
+    "category": 71,
+    "divisions": [
+      54
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

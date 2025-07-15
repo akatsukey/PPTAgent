@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "CONTAINER /PALLETE DATA",
+    "referenceString": "5.6",
+    "standard": "???",
+    "description": "",
+    "tableInMd": "| Container Type | Volume | External Length | External Width | External Height | Internal Length | Internal Width | Internal Height | Door Width | Door Height | Weight |\n|---|---|---|---|---|---|---|---|---|---|---|\n| 20ft shipping containers | 1.172ft3 | 19,83ft | 8ft | 8,5ft | 17,83ft | 7,5ft | 7,42ft | 7,5ft | 7,42ft | 4.850lb |\n|  | 33,2m3 | 6,05mts | 2,44mts | 2,59mts | 5,44mts | 2,28mts | 2,26mts | 2,28mts | 2,26mts | 2.300kg |\n| 40ft shipping containers | 2.390ft3 | 40ft | 8ft | 8,5ft | 39,5ft | 7,5ft | 7,42ft | 7,5ft | 7,42ft | 8.050lb |\n|  | 67,7m3 | 12,19mts | 2,44mts | 2,59mts | 12,04mts | 2,28mts | 2,26mts | 2,28mts | 2,26mts | 3.655kg |\n| 40ft HIGH QUBE shipping containers | 2.694ft3 | 40ft | 8ft | 9,6lb | 39,5ft | 7,5ft | 8,1ft | 7,5ft | 8,1ft | 8.598lb |\n|  | 76,3m3 | 12,19mts | 2,44mts | 2,99mts | 12,04mts | 2,28mts | 2,7mt | 2,28mts | 2,7mt | 3.900kg |\n| 40ft shipping containers | 2.129ft3 | 40ft | 8ft | 9,6lb | 37,11ft | 7,5ft | 8,1 | 7,5ft | 8,1ft | 10.384lb |\n|  | 60m3 | 12,19mts | 2,44mts | 2,59mts | 11,55mt | 2,29mt | 2,22 | 2,28mts | 2,569mt | 4.240kg |",
+    "category": null,
+    "divisions": [
+      null
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "ANESTHASIA",
+    "referenceString": "",
+    "standard": "???",
+    "description": "",
+    "tableInMd": "| Mechanical HEPA Filter |  |  |\n|---|---|---|\n| Cathegory | ADULT MECHANICAL HEPA | ADULT ANGLED MECHANICAL HEPA |\n| Filtration Efficiency (%) | 999.999 | 999.999 |\n| Humidity Output | 25mg/H2O @ VT500ml | 25mg/H2O @ VT500ml |\n| Resistance | 150pa @ 30LPM | 130pa @ 30LPM |\n| Dead Space (ml) | 52ml | 60ml |\n| Tidal Volume (ml) | 200-1500 | 200-1500 |\n| Connections | 22M/15F - 22F/15M | 22M/15F - 22F/15M |\n| Weight (g) | 40 | 42 |\n| Gas Monitoring Luer Port | Yes | Yes |",
+    "category": null,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

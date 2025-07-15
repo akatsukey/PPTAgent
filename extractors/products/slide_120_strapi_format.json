@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "MALE EXTERNAL CATHETERS",
+    "referenceString": "4.16.9",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% Silicon\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Latex free\n- Short/Medium/Long Sizes\n\n## PERFORMANCE\n- self-adhesive sheath\n- Soft and Skin-friendly\n- Highly Transparent",
+    "tableInMd": "| Type | Shape | Size (mm) |\n|---|---|---|\n| STANDARD |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |\n| SPECIAL |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |\n| EXTRA |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |",
+    "category": 74,
+    "divisions": [
+      53
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

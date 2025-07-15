@@ -1,0 +1,247 @@
+[
+  {
+    "slide_number": 30,
+    "shapes": [
+      {
+        "type": "text_box",
+        "text": "4.3.1 CONVENTIONAL SCALP VEIN SETS\nManufacturing Standard: ??????????",
+        "position": {
+          "left": 3960772,
+          "top": 706672
+        },
+        "size": {
+          "width": 4654661,
+          "height": 677104
+        }
+      },
+      {
+        "type": "picture",
+        "text": "[Image: Picture 2]",
+        "position": {
+          "left": 1420585,
+          "top": 976080
+        },
+        "size": {
+          "width": 2041072,
+          "height": 2041072
+        }
+      },
+      {
+        "type": "text_box",
+        "text": "Link to following information:\n\nPacking: ……… pc/inner box - Packing: ……… inner box/Carton \nLoading Capacity: 20GP (29m3): …….. – 40HC (69m3): ……..",
+        "position": {
+          "left": 8136472,
+          "top": 5942477
+        },
+        "size": {
+          "width": 4028700,
+          "height": 830993
+        }
+      },
+      {
+        "type": "text_box",
+        "text": "COMPOSITION\n100% medical grade stainless steel\nPolyethylene (PE) Wings\nPolypropylene (PP) Connector and Cap\nPVC and DEHP-Free Tubing\n\nSTERILIZATION\nEthylene Oxide (EO) Sterile\n\nPRESENTATIONS\nColor-Coded Size Identification \nMale Luer Lock and holder’s Luer Connector + Cap\n\nPERFROMANCE\n3 bevelled tip sharpness technology\nSoft and anti-slip Surface colored Fixiation Wings\nHigh Transparency and Memory Tubing \nAir-Tight sealing with syringe’s tip \nAutomatic Lubrication’s Technology => Optimal result on penetration resistance",
+        "position": {
+          "left": 653168,
+          "top": 3072352
+        },
+        "size": {
+          "width": 4028699,
+          "height": 3785648
+        }
+      },
+      {
+        "type": "table",
+        "text": {
+          "rows": [
+            [
+              "Gauge",
+              "Flow (ml/min)"
+            ],
+            [
+              "27G",
+              "2"
+            ],
+            [
+              "25G",
+              "4"
+            ],
+            [
+              "23G",
+              "11"
+            ],
+            [
+              "21G",
+              "22"
+            ],
+            [
+              "19G",
+              "43"
+            ]
+          ],
+          "headers": [
+            "Gauge",
+            "Flow (ml/min)"
+          ],
+          "markdown": "| Gauge | Flow (ml/min) |\n| --- | --- |\n| 27G | 2 |\n| 25G | 4 |\n| 23G | 11 |\n| 21G | 22 |\n| 19G | 43 |"
+        },
+        "position": {
+          "left": 5384800,
+          "top": 2819400
+        },
+        "size": {
+          "width": 1422400,
+          "height": 1219200
+        }
+      },
+      {
+        "type": "picture",
+        "text": "[Image: Picture 5]",
+        "position": {
+          "left": 4813300,
+          "top": 4576528
+        },
+        "size": {
+          "width": 1993900,
+          "height": 1574800
+        }
+      },
+      {
+        "type": "text_box",
+        "text": "INFUSION",
+        "position": {
+          "left": 9674352,
+          "top": 159125
+        },
+        "size": {
+          "width": 2363815,
+          "height": 461661
+        }
+      }
+    ],
+    "raw_text": "4.3.1 CONVENTIONAL SCALP VEIN SETS\nManufacturing Standard: ??????????\n\n[Image: Picture 2]\n\nLink to following information:\n\nPacking: ……… pc/inner box - Packing: ……… inner box/Carton \nLoading Capacity: 20GP (29m3): …….. – 40HC (69m3): ……..\n\nCOMPOSITION\n100% medical grade stainless steel\nPolyethylene (PE) Wings\nPolypropylene (PP) Connector and Cap\nPVC and DEHP-Free Tubing\n\nSTERILIZATION\nEthylene Oxide (EO) Sterile\n\nPRESENTATIONS\nColor-Coded Size Identification \nMale Luer Lock and holder’s Luer Connector + Cap\n\nPERFROMANCE\n3 bevelled tip sharpness technology\nSoft and anti-slip Surface colored Fixiation Wings\nHigh Transparency and Memory Tubing \nAir-Tight sealing with syringe’s tip \nAutomatic Lubrication’s Technology => Optimal result on penetration resistance\n\n| Gauge | Flow (ml/min) |\n| --- | --- |\n| 27G | 2 |\n| 25G | 4 |\n| 23G | 11 |\n| 21G | 22 |\n| 19G | 43 |\n\n[Image: Picture 5]\n\nINFUSION",
+    "tables": [
+      {
+        "type": "table",
+        "text": {
+          "rows": [
+            [
+              "Gauge",
+              "Flow (ml/min)"
+            ],
+            [
+              "27G",
+              "2"
+            ],
+            [
+              "25G",
+              "4"
+            ],
+            [
+              "23G",
+              "11"
+            ],
+            [
+              "21G",
+              "22"
+            ],
+            [
+              "19G",
+              "43"
+            ]
+          ],
+          "headers": [
+            "Gauge",
+            "Flow (ml/min)"
+          ],
+          "markdown": "| Gauge | Flow (ml/min) |\n| --- | --- |\n| 27G | 2 |\n| 25G | 4 |\n| 23G | 11 |\n| 21G | 22 |\n| 19G | 43 |"
+        },
+        "position": {
+          "left": 5384800,
+          "top": 2819400
+        },
+        "size": {
+          "width": 1422400,
+          "height": 1219200
+        }
+      }
+    ],
+    "text_boxes": [
+      {
+        "type": "text_box",
+        "text": "4.3.1 CONVENTIONAL SCALP VEIN SETS\nManufacturing Standard: ??????????",
+        "position": {
+          "left": 3960772,
+          "top": 706672
+        },
+        "size": {
+          "width": 4654661,
+          "height": 677104
+        }
+      },
+      {
+        "type": "text_box",
+        "text": "Link to following information:\n\nPacking: ……… pc/inner box - Packing: ……… inner box/Carton \nLoading Capacity: 20GP (29m3): …….. – 40HC (69m3): ……..",
+        "position": {
+          "left": 8136472,
+          "top": 5942477
+        },
+        "size": {
+          "width": 4028700,
+          "height": 830993
+        }
+      },
+      {
+        "type": "text_box",
+        "text": "COMPOSITION\n100% medical grade stainless steel\nPolyethylene (PE) Wings\nPolypropylene (PP) Connector and Cap\nPVC and DEHP-Free Tubing\n\nSTERILIZATION\nEthylene Oxide (EO) Sterile\n\nPRESENTATIONS\nColor-Coded Size Identification \nMale Luer Lock and holder’s Luer Connector + Cap\n\nPERFROMANCE\n3 bevelled tip sharpness technology\nSoft and anti-slip Surface colored Fixiation Wings\nHigh Transparency and Memory Tubing \nAir-Tight sealing with syringe’s tip \nAutomatic Lubrication’s Technology => Optimal result on penetration resistance",
+        "position": {
+          "left": 653168,
+          "top": 3072352
+        },
+        "size": {
+          "width": 4028699,
+          "height": 3785648
+        }
+      },
+      {
+        "type": "text_box",
+        "text": "INFUSION",
+        "position": {
+          "left": 9674352,
+          "top": 159125
+        },
+        "size": {
+          "width": 2363815,
+          "height": 461661
+        }
+      }
+    ],
+    "images": [
+      {
+        "type": "picture",
+        "text": "[Image: Picture 2]",
+        "position": {
+          "left": 1420585,
+          "top": 976080
+        },
+        "size": {
+          "width": 2041072,
+          "height": 2041072
+        }
+      },
+      {
+        "type": "picture",
+        "text": "[Image: Picture 5]",
+        "position": {
+          "left": 4813300,
+          "top": 4576528
+        },
+        "size": {
+          "width": 1993900,
+          "height": 1574800
+        }
+      }
+    ],
+    "other_shapes": []
+  }
+]

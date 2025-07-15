@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "ANESTHASIA",
+    "referenceString": "",
+    "standard": "???",
+    "description": "",
+    "tableInMd": "| TRACHEOSTOMY HME |  |  |  |  |\n|---|---|---|---|---|\n| Material | Foam | Corrugated paper | Neonate | Foam |\n| Humidity Output | 26.1mg/H2O @ VT500ml | 23.4mg/H2O @ VT500ml | 32mg/H2O @ VT25ml | 27mg/H2O @ VT500ml |\n| Resistance | 46-57pa @ 30LPM | 40pa @ 30LPM | 90pa @ 5LPM | 35pa @ 30LPM |\n| Dead Space (ml) | 11ml | 11ml | 3ml | 8ml |\n| Tidal Volume (ml) | >25ml | >25ml | >10ml | >25ml |\n| Connections | 15F | 15F | 15F - 15M | 15F |\n| Weight (g) | 8 | 5 | 3 | 9 |\n| Gas Monitoring Luer Port | No | No | No | No |",
+    "category": null,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

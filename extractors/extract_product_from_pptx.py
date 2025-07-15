@@ -119,11 +119,36 @@ def extract_table_md(slide):
             print("📊 Found table, converting to Markdown...")
             table = shape.table
             
-            # TODO: Extract table data
-            # TODO: Convert to Markdown format
-            # TODO: Handle edge cases
+            # Extract table data
+            rows = []
+            for row in table.rows:
+                row_data = []
+                for cell in row.cells:
+                    # Get cell text and clean it
+                    cell_text = cell.text.strip()
+                    # Replace pipe characters to avoid breaking markdown
+                    cell_text = cell_text.replace('|', '\\|')
+                    row_data.append(cell_text)
+                rows.append(row_data)
             
-            return "| Header 1 | Header 2 | Header 3 |\n|----------|----------|----------|\n| Data 1 | Data 2 | Data 3 |"
+            if not rows:
+                print("⚠️ Table found but no data extracted")
+                return ""
+            
+            # Convert to Markdown format
+            markdown_table = ""
+            
+            # Add header row
+            if rows:
+                markdown_table += "| " + " | ".join(rows[0]) + " |\n"
+                # Add separator row
+                markdown_table += "|" + "|".join(["---"] * len(rows[0])) + "|\n"
+                # Add data rows
+                for row in rows[1:]:
+                    markdown_table += "| " + " | ".join(row) + " |\n"
+            
+            print(f"✅ Converted table with {len(rows)} rows to Markdown")
+            return markdown_table.strip()
     
     print("❌ No table found in slide")
     return ""
@@ -409,12 +434,12 @@ Return ONLY the JSON.
 """
 
 def build_step2_prompt(slide_text):
-    """Build prompt for step 2: Packaging and table information"""
+    """Build prompt for step 2: Packaging information"""
     return f"""
-Extract packaging information and table data from this slide and return ONLY this JSON format:
+Extract packaging information from this slide and return ONLY this JSON format:
 
 {{
-  "tableInMd": "",           ★ Convert the right-hand table into a Markdown table (first row is the headers you infer)
+  "tableInMd": "",           ★ Leave empty - table extraction is handled separately
   "PackagingInformation": {{
     "packing_per_inner_box": 0,        ★ Number of items per inner box (integer)
     "inner_boxes_per_carton": 0,       ★ Number of inner boxes per carton (integer)
@@ -425,7 +450,6 @@ Extract packaging information and table data from this slide and return ONLY thi
 }}
 
 If packaging information is not available, set all packaging values to 0 and additional_notes to "Not specified".
-If no table is present, set tableInMd to "".
 
 Return ONLY the JSON.
 
@@ -490,21 +514,35 @@ def process_slide_two_steps(prs, slide_index):
     """Process a slide using the two-step approach"""
     print(f"\n🎯 Processing slide {slide_index + 1} using two-step extraction...")
     
-    # Step 1: Extract general product information
+    # Get the slide object for table extraction
+    slide = prs.slides[slide_index]
+    
+    # Step 1: Extract general product information using GPT-4
     print("\n📋 STEP 1: Extracting general product information...")
     slide_text = extract_text_from_slide(prs, slide_index)
     step1_prompt = build_step1_prompt(slide_text)
     step1_result = call_openai(step1_prompt, "1")
     print("✅ Step 1 completed")
     
-    # Step 2: Extract packaging and table information
-    print("\n📊 STEP 2: Extracting packaging and table information...")
+    # Step 2: Extract packaging information using GPT-4 and table using python-pptx
+    print("\n📊 STEP 2: Extracting packaging information and table data...")
+    
+    # Extract table using python-pptx
+    table_md = extract_table_md(slide)
+    
+    # Extract packaging information using GPT-4
     step2_prompt = build_step2_prompt(slide_text)
     step2_result = call_openai(step2_prompt, "2")
     print("✅ Step 2 completed")
     
+    # Parse step 2 result and replace tableInMd with actual extracted table
+    step2_data = json.loads(step2_result)
+    if table_md:
+        step2_data["tableInMd"] = table_md
+        print("✅ Replaced GPT-extracted table with actual table data")
+    
     # Merge results
-    final_payload = merge_step_results(step1_result, step2_result)
+    final_payload = merge_step_results(step1_result, json.dumps(step2_data))
     
     # Save to file
     filename = save_json(final_payload, slide_index)

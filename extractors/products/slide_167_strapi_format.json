@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "SYMBOLS MEANING",
+    "referenceString": "5.5",
+    "standard": "???",
+    "description": "",
+    "tableInMd": "",
+    "category": null,
+    "divisions": [
+      null
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

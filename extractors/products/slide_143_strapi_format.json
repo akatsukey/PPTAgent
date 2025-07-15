@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "SUCTION TUBE + YANKAUER HANDLE",
+    "referenceString": "4.27",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Soft PVC and DEHP-FREE PVC\n- Crown and Plain Types\n- Standard and Sectional Connection\n- With and Without Vent\n- Universal Female Connector\n\n## PERFORMANCE\n- Highly Transparent\n- Striated walls’ tube => anti-kinking\n\n## ANESTHASIA",
+    "tableInMd": "| Standard Type | Crown Tip | With Vent |\n|---|---|---|\n|  | Crown Tip | Without Vent |\n|  | Plain Tip | With Vent |\n|  | Plain Tip | Without Vent |\n| Sectional Type | Crown Tip | With Vent |\n|  | Crown Tip | Without Vent |\n|  | Round Tip | With Vent |\n|  | Round Tip | Without Vent |\n|  | Plain Tip | With Vent |\n|  | Plain Tip | Without Vent |\n| Suction Connecting Tube | 5mm (3/16\") | 1.8m (6ft) |\n|  | 5mm (3/16\") | 3m (10ft) |\n|  | 5mm (3/16\") | 3.6m (12ft) |\n|  | 6mm (1/4\") | 1.8m (6ft) |\n|  | 6mm (1/4\") | 3m (10ft) |\n|  | 6mm (1/4\") | 3.6m (12ft) |\n|  | 7mm (9/32\") | 1.8m (6ft) |\n|  | 7mm (9/32\") | 3m (10ft) |\n|  | 7mm (9/32\") | 3.6m (12ft) |",
+    "category": 73,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

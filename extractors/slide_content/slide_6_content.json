@@ -1,0 +1,373 @@
+{
+  "slide_number": 6,
+  "shapes": [
+    {
+      "type": "text_box",
+      "text": "4.1.1  CONVENTIONAL HYPODERMIC 3-PARTS SYRINGES\nManufacturing Standard: ??????????",
+      "position": {
+        "left": 3079156,
+        "top": 84530
+      },
+      "size": {
+        "width": 5553696,
+        "height": 646327
+      }
+    },
+    {
+      "type": "text_box",
+      "text": "Link to following information per size:\n\nPacking: ……… pc/inner box - Packing: ……… inner box/Carton \nLoading Capacity: 20GP (29m3): …….. – 40HC (69m3): ……..",
+      "position": {
+        "left": 8136472,
+        "top": 5942477
+      },
+      "size": {
+        "width": 4028700,
+        "height": 830993
+      }
+    },
+    {
+      "type": "text_box",
+      "text": "COMPOSITION\nBarrel + Plunger: Medical Grade Polypropylene (PP)\nGasket: Isoprene Latex-Free Rubber and Natural Rubber\n\nSTERILIZATION\nEthylene Oxide (EO) Sterile\n\nPRESENTATIONS\nLuer Lock and Luer Slip Tips\nWith and Without Needle\nLatex and latex-free Gasket\nCustomizable graduation including logo\nSome Sizes with Centric and Excentric luer Tips\n\nPERFROMANCE\nClear graduation printing technology\nHigh Transparency Barrel\nSmooth sliding\nSmooth Surface",
+      "position": {
+        "left": 636840,
+        "top": 3429000
+      },
+      "size": {
+        "width": 4028699,
+        "height": 3693315
+      }
+    },
+    {
+      "type": "picture",
+      "text": "[Image: Picture 2]",
+      "position": {
+        "left": 767925,
+        "top": 827762
+      },
+      "size": {
+        "width": 2140527,
+        "height": 2140527
+      }
+    },
+    {
+      "type": "table",
+      "text": {
+        "rows": [
+          [
+            "1ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "2ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "3ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "5ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "6ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "10ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "12ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "20ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric / Eccentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "30ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric / Eccentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "60ml",
+            "Luer Slip / Luer Lock / Catheter Tip",
+            "Concentric / Eccentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "100ml",
+            "Luer Slip / Luer Lock / Catheter Tip",
+            "Concentric / Eccentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "120ml",
+            "Luer Slip / Luer Lock / Catheter Tip",
+            "Concentric / Eccentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ]
+        ],
+        "headers": [
+          "1ml",
+          "Luer Slip / Luer Lock Tip",
+          "Concentric",
+          "Without / With Mounted / Aside / Needle",
+          "Polybag / Blister",
+          "Inner Bag / Soft Box / Hard Box"
+        ],
+        "markdown": "| 1ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| --- | --- | --- | --- | --- | --- |\n| 2ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 3ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 5ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 6ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 10ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 12ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 20ml | Luer Slip / Luer Lock Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 30ml | Luer Slip / Luer Lock Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 60ml | Luer Slip / Luer Lock / Catheter Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 100ml | Luer Slip / Luer Lock / Catheter Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 120ml | Luer Slip / Luer Lock / Catheter Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |"
+      },
+      "position": {
+        "left": 5652844,
+        "top": 783967
+      },
+      "size": {
+        "width": 8552969,
+        "height": 5048196
+      }
+    },
+    {
+      "type": "text_box",
+      "text": "INJECTION",
+      "position": {
+        "left": 9674352,
+        "top": 159125
+      },
+      "size": {
+        "width": 2363815,
+        "height": 461661
+      }
+    }
+  ],
+  "raw_text": "4.1.1  CONVENTIONAL HYPODERMIC 3-PARTS SYRINGES\nManufacturing Standard: ??????????\n\nLink to following information per size:\n\nPacking: ……… pc/inner box - Packing: ……… inner box/Carton \nLoading Capacity: 20GP (29m3): …….. – 40HC (69m3): ……..\n\nCOMPOSITION\nBarrel + Plunger: Medical Grade Polypropylene (PP)\nGasket: Isoprene Latex-Free Rubber and Natural Rubber\n\nSTERILIZATION\nEthylene Oxide (EO) Sterile\n\nPRESENTATIONS\nLuer Lock and Luer Slip Tips\nWith and Without Needle\nLatex and latex-free Gasket\nCustomizable graduation including logo\nSome Sizes with Centric and Excentric luer Tips\n\nPERFROMANCE\nClear graduation printing technology\nHigh Transparency Barrel\nSmooth sliding\nSmooth Surface\n\n[Image: Picture 2]\n\n| 1ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| --- | --- | --- | --- | --- | --- |\n| 2ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 3ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 5ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 6ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 10ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 12ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 20ml | Luer Slip / Luer Lock Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 30ml | Luer Slip / Luer Lock Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 60ml | Luer Slip / Luer Lock / Catheter Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 100ml | Luer Slip / Luer Lock / Catheter Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 120ml | Luer Slip / Luer Lock / Catheter Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n\nINJECTION",
+  "tables": [
+    {
+      "type": "table",
+      "text": {
+        "rows": [
+          [
+            "1ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "2ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "3ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "5ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "6ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "10ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "12ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "20ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric / Eccentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "30ml",
+            "Luer Slip / Luer Lock Tip",
+            "Concentric / Eccentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "60ml",
+            "Luer Slip / Luer Lock / Catheter Tip",
+            "Concentric / Eccentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "100ml",
+            "Luer Slip / Luer Lock / Catheter Tip",
+            "Concentric / Eccentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ],
+          [
+            "120ml",
+            "Luer Slip / Luer Lock / Catheter Tip",
+            "Concentric / Eccentric",
+            "Without / With Mounted / Aside / Needle",
+            "Polybag / Blister",
+            "Inner Bag / Soft Box / Hard Box"
+          ]
+        ],
+        "headers": [
+          "1ml",
+          "Luer Slip / Luer Lock Tip",
+          "Concentric",
+          "Without / With Mounted / Aside / Needle",
+          "Polybag / Blister",
+          "Inner Bag / Soft Box / Hard Box"
+        ],
+        "markdown": "| 1ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| --- | --- | --- | --- | --- | --- |\n| 2ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 3ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 5ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 6ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 10ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 12ml | Luer Slip / Luer Lock Tip | Concentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 20ml | Luer Slip / Luer Lock Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 30ml | Luer Slip / Luer Lock Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 60ml | Luer Slip / Luer Lock / Catheter Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 100ml | Luer Slip / Luer Lock / Catheter Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 120ml | Luer Slip / Luer Lock / Catheter Tip | Concentric / Eccentric | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |"
+      },
+      "position": {
+        "left": 5652844,
+        "top": 783967
+      },
+      "size": {
+        "width": 8552969,
+        "height": 5048196
+      }
+    }
+  ],
+  "text_boxes": [
+    {
+      "type": "text_box",
+      "text": "4.1.1  CONVENTIONAL HYPODERMIC 3-PARTS SYRINGES\nManufacturing Standard: ??????????",
+      "position": {
+        "left": 3079156,
+        "top": 84530
+      },
+      "size": {
+        "width": 5553696,
+        "height": 646327
+      }
+    },
+    {
+      "type": "text_box",
+      "text": "Link to following information per size:\n\nPacking: ……… pc/inner box - Packing: ……… inner box/Carton \nLoading Capacity: 20GP (29m3): …….. – 40HC (69m3): ……..",
+      "position": {
+        "left": 8136472,
+        "top": 5942477
+      },
+      "size": {
+        "width": 4028700,
+        "height": 830993
+      }
+    },
+    {
+      "type": "text_box",
+      "text": "COMPOSITION\nBarrel + Plunger: Medical Grade Polypropylene (PP)\nGasket: Isoprene Latex-Free Rubber and Natural Rubber\n\nSTERILIZATION\nEthylene Oxide (EO) Sterile\n\nPRESENTATIONS\nLuer Lock and Luer Slip Tips\nWith and Without Needle\nLatex and latex-free Gasket\nCustomizable graduation including logo\nSome Sizes with Centric and Excentric luer Tips\n\nPERFROMANCE\nClear graduation printing technology\nHigh Transparency Barrel\nSmooth sliding\nSmooth Surface",
+      "position": {
+        "left": 636840,
+        "top": 3429000
+      },
+      "size": {
+        "width": 4028699,
+        "height": 3693315
+      }
+    },
+    {
+      "type": "text_box",
+      "text": "INJECTION",
+      "position": {
+        "left": 9674352,
+        "top": 159125
+      },
+      "size": {
+        "width": 2363815,
+        "height": 461661
+      }
+    }
+  ],
+  "images": [
+    {
+      "type": "picture",
+      "text": "[Image: Picture 2]",
+      "position": {
+        "left": 767925,
+        "top": 827762
+      },
+      "size": {
+        "width": 2140527,
+        "height": 2140527
+      }
+    }
+  ],
+  "other_shapes": []
+}

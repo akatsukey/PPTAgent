@@ -1,0 +1,65 @@
+[
+  {
+    "data": {
+      "name": "INFUSION PUMP SYRINGES",
+      "referenceString": "4.1.6",
+      "standard": "??????????",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber and Natural Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Lock and Luer Slip Tips\n- With and Without Needle\n- Latex and latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Clear graduation printing technology\n- High Transparency and UV-Light Proof colour Barrel\n- Fit ALL-STANDARD pumps brands worldwide\n- Smooth sliding\n- Smooth Surface\n\n## INJECTION\n\n## ANESTHESIA",
+      "tableInMd": "| 20ml | Luer Lock Tip | Blister | Soft Box / Hard Box |\n|---|---|---|---|\n| 30ml | Luer Lock Tip | Blister | Soft Box / Hard Box |\n| 50ml | Luer Lock Tip | Blister | Soft Box / Hard Box |\n| 60ml | Luer Lock Tip | Blister | Soft Box / Hard Box |\n| 100ml | Luer Lock Tip | Blister | Soft Box / Hard Box |\n| 120ml | Luer Lock Tip | Blister | Soft Box / Hard Box |",
+      "category": 59,
+      "divisions": [
+        47
+      ],
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "CONVENTIONAL ARTERIAL BLOOD SAMPLERS",
+      "referenceString": "4.1.7",
+      "standard": "??????????",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber\n\n## STERILIZATION\n- Gamma Sterilization (R)\n\n## PRESENTATIONS\n- Luer Lock and Luer Slip Tips\n- With and Without Needle\n- Latex -free Gasket\n- Customizable graduation including logo\n- Including Needle Safe Silicon Rubber Dice\n- Including Syringe Luer Cap\n\n## PERFORMANCE\n- Ultra-precision sprayed solid heparin lithium\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding\n- Smooth Surface\n- Luer cap\n- Silicon Rubber",
+      "tableInMd": "| Syringe Size | Needle Size | Blood Preset Volume | Heparin Lithium UI |\n|---|---|---|---|\n| 1ml | 0.5mm x 16mm | 0.6ml | 30IU |\n| 3ml | 0.5mm x 16mm | 1.6ml | 80IU |\n| 3ml | 0.6mm x 16mm | 1.6ml | 80IU |\n| 3ml | 0.5mm x 25mm | 1.6ml | 80IU |\n| 3ml | 0.6mm x 32mm | 1.6ml | 80IU |\n| 3ml | 0.7mm x 25mm | 1.6ml | 80IU |\n| 3ml | 0.7mm x 32mm | 1.6ml | 80IU |",
+      "category": 59,
+      "divisions": [
+        50
+      ],
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  },
+  {
+    "data": {
+      "name": "PC SYRINGES",
+      "referenceString": "4.1.8",
+      "standard": "??????????",
+      "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polycarbonate (PC)\n- Gasket: Isoprene Latex-Free Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Lock Tip\n- With and Without Needle\n- Latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding\n- Smooth Surface\n\n## INJECTION\n## AESTHETIC TREATMENT",
+      "tableInMd": "| 1ml | Luer Lock Tip | Blister | Hard Box |\n|---|---|---|---|\n| 3ml | Luer Lock Tip | Blister | Hard Box |\n| 5ml | Luer Lock Tip | Blister | Hard Box |\n| 10ml | Luer Lock Tip | Blister | Hard Box |\n| 20ml | Luer Lock Tip | Blister | Hard Box |\n| 30ml | Luer Lock Tip | Blister | Hard Box |",
+      "category": 59,
+      "divisions": [
+        48
+      ],
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      }
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Needle Coverering cap",
+    "referenceString": "4.2",
+    "standard": "???",
+    "description": "## COMPONENTS\n- Cannula\n- Needle Hub\n- Needle Bevel",
+    "tableInMd": "",
+    "category": 60,
+    "divisions": [
+      48
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

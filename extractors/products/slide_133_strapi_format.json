@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "TRACHEOSTOMY TUBE",
+    "referenceString": "4.23",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC and Silicone\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC and DEHP-FREE PVC and Silicone\n- Encapsulated radiopaque stripe all along the tube length\n- Highly Visible Size Indication along the Tubing\n- Cuffed and Uncuffed\n\n## PERFORMANCE\n- Easy introduction\n- Smooth Surface and Tips\n\n## ANESTHASIA",
+    "tableInMd": "| Model | CUFFED | UNCUFFED | CUFFED with Suction |\n|---|---|---|---|\n| Size (mm) | 3.0 | 3.0 | n/a |\n|  | 3.5 | 3.5 | n/a |\n|  | 4.0 | 4.0 | n/a |\n|  | 4.5 | 4.5 | n/a |\n|  | 5.0 | 5.0 | n/a |\n|  | 5.0 | 5.0 | n/a |\n|  | 6.0 | 6.0 | 6.0 |\n|  | 6.5 | 6.5 | 6.5 |\n|  | 7.0 | 7.0 | 7.0 |\n|  | 7.5 | 7.5 | 7.5 |\n|  | 8.0 | 8.0 | 8.0 |\n|  | 8.5 | 8.5 | 8.5 |\n|  | 9.0 | 9.0 | 9.0 |\n|  | 9.5 | 9.5 | n/a |\n|  | 10.0 | 10.0 | n/a |",
+    "category": 74,
+    "divisions": [
+      53
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

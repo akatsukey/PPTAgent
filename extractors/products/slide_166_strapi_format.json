@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Difference Between Latex and Latex-Free in the Medical Device Industry",
+    "referenceString": "5.4",
+    "standard": "???",
+    "description": "## What is Latex?\n- Latex is a natural rubber derived from the sap of rubber trees. It is commonly used in medical gloves, tubing, catheters, masks, and other flexible medical devices due to its elasticity, durability, and cost-effectiveness.\n\n## What Does 'Latex-Free' Mean?\n- Latex-Free medical devices do not contain natural rubber latex. They are made from alternative materials such as nitrile, neoprene, silicone, polyurethane, or vinyl.\n\n## Key Differences Between Latex and Latex-Free Medical Devices\n\n## Why Choose Latex-Free Medical Devices?\n- Reduces allergy risks (especially in healthcare workers and patients with latex allergies).\n- Meets regulatory requirements in some regions that restrict latex use in hospitals.\n- Ensures patient safety, especially in high-risk groups (e.g., people with frequent medical exposure).\n- Many healthcare facilities are transitioning to latex-free alternatives to ensure safer and more inclusive medical environments.",
+    "tableInMd": "| Feature | Latex (Natural Rubber) | Latex-Free (Synthetic Alternatives) |\n|---|---|---|\n| Material | Natural rubber from rubber trees | Synthetic materials (nitrile, neoprene, vinyl, silicone, etc.) |\n| Allergy Risk | May cause allergic reactions due to natural rubber proteins | Hypoallergenic, safer for sensitive users |\n| Flexibility & Comfort | Highly elastic and comfortable fit | Varies depending on the material (e.g., nitrile mimics latex best) |\n| Durability | Strong, puncture-resistant | Some alternatives (like nitrile) are as strong, while vinyl is less durable |\n| Cost | Generally lower cost | Some alternatives (like nitrile) are more expensive |\n| Medical Applications | Gloves, catheters, tourniquets, tubing, bandages | Latex-free gloves, catheters, bandages, hypoallergenic medical products |",
+    "category": 69,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

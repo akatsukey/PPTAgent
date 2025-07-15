@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "ISOLATION GOWNS",
+    "referenceString": "4.14.8",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% SMS - Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- Latex free\n- White and Blue\n- Wide Range of Different Materials Compounds and Size\n- Elastic Wrist\n\n## PERFORMANCE\n- Highly Breathable material\n- Outstanding Barrier Properties\n- Comfortable and soft fabric\n\n## PROTECTION\n- DENTAL",
+    "tableInMd": "| Description |\n|---|\n| Low SMS,  S, AAMI Level 1 |\n| Low SMS,  M, AAMI Level 1 |\n| Low SMS,  L, AAMI Level 1 |\n| Low SMS,  XL AAMI Level 1 |\n| Medium SMS, S,  AAMI Level 2 |\n| Medium SMS, M,  AAMI Level 2 |\n| Medium SMS, L, AAMI Level 2 |\n| Medium SMS, XL, AAMI Level 2 |",
+    "category": 72,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

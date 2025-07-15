@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "POLIETHILENE (PE) GLOVES",
+    "referenceString": "4.10.4",
+    "standard": "ISO",
+    "description": "## COMPOSITION\n- 100% Polyethylene (PE)\n\n## STERILIZATION\n- Non-Sterile\n\n## PRESENTATIONS\n- Low and High Density Polyethylene (PE)\n\n## PERFORMANCE\n- Aseptic, non-sterile\n- Strict monitored Protein Content\n- Ambidextrous",
+    "tableInMd": "| HIGH DENSITY | SMALL (S) |\n|---|---|\n|  | LARGE (L) |\n|  | EXTRA LARGE (XL) |\n| LOW DENSITY | SMALL (S) |\n|  | LARGE (L) |\n|  | EXTRA LARGE (XL) |",
+    "category": 69,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

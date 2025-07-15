@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Medical Plastics Introduction",
+    "referenceString": "5.3",
+    "standard": "???",
+    "description": "## MATERIALS\n- Polypropylene (PP): Lightweight, fatigue-resistant, and chemically inert. Used in syringes, medication packaging, tubes, and disposable medical device components.\n- Polyethylene (PE): High-Density Polyethylene (HDPE) is strong and rigid, Low-Density Polyethylene (LDPE) is more flexible. Used in IV fluid bags, medicine bottles, catheters.\n- Polyvinyl Chloride (PVC): Flexible (when mixed with plasticizers), transparent, chemically resistant. Used in IV tubing, blood bags, disposable gloves, oxygen masks.\n- Polycarbonate (PC): Transparent, impact-resistant, withstands repeated sterilization. Used in reusable syringes, surgical lenses, medical device casings.\n- Polyurethane (PU): Biocompatible, flexible, abrasion-resistant. Used in catheters, medical adhesives, implant coatings.\n- Polytetrafluoroethylene (PTFE or Teflon): Heat-resistant, chemically inert, low friction. Used in high-precision catheters, heart valves, prosthetics.\n- Polyether Ether Ketone (PEEK): High mechanical and thermal resistance, biocompatible. Used in orthopedic implants, surgical equipment components.\n- Silicone: Soft, flexible, heat-resistant, biocompatible. Used in breast implants, catheters, heart valves, medical adhesives.\n- Acrylonitrile Butadiene Styrene (ABS): High impact resistance, lightweight, good chemical resistance, easy to sterilize. Used in casings for medical devices, prosthetics, surgical instruments, and medical housing components.\n- Nitrile (NBR - Nitrile Butadiene Rubber): High resistance to chemicals, oils, and punctures. More hypoallergenic than latex. Used in disposable medical gloves, flexible tubing, membranes in medical devices.\n\n## PVC AND DEHP-FREE PVC\n- PVC (Polyvinyl Chloride) is a widely used plastic in medical devices due to its flexibility, durability, and cost-effectiveness. It is often softened with plasticizers to make it more flexible and suitable for applications like IV tubing, blood bags, catheters, and oxygen masks.\n- DEHP (Di(2-ethylhexyl) phthalate) is a common plasticizer added to PVC to increase flexibility. It helps medical devices remain soft and pliable for better patient comfort and usability.\n- DEHP-Free PVC reduces potential health risks, particularly for vulnerable patients (newborns, dialysis patients, pregnant women). It complies with stricter medical regulations in the U.S., EU, and other regions. It maintains the flexibility and functionality of traditional PVC while improving safety. DEHP-Free PVC is becoming the new standard in medical applications where patient exposure to plasticizers is a concern.",
+    "tableInMd": "| Feature | Standard PVC (with DEHP) | DEHP-Free PVC |\n|---|---|---|\n| Plasticizer | Contains DEHP | Uses alternative plasticizers (e.g., DINCH, TOTM, or citrate-based) |\n| Health Concerns | DEHP may leach into fluids and be absorbed by the body, potentially causing health risks | Safer alternative, especially for neonates, pregnant women, and long-term medical use |\n| Regulations | Restricted in some countries and medical applications due to health concerns | Preferred in modern healthcare settings for increased safety |\n| Applications | IV bags, blood bags, tubing, catheters | Pediatric and neonatal care devices, dialysis tubing, enteral feeding systems |",
+    "category": 59,
+    "divisions": [
+      48
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

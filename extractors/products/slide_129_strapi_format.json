@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "ENDOBRONCHIAL TUBES",
+    "referenceString": "4.19",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% PVC and 100% DEHP-FREE PVC\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC and DEHP-FREE PVC\n- Right and Left Sides\n\n## PERFORMANCE\n- Anatomic Tip allowing successful introduction\n- High Seal pressure balloon\n- Encapsulated radiopaque stripe all along the tube length\n- Clear Tube",
+    "tableInMd": "| Left Side | Right Side |\n|---|---|\n| Size (mm) |  |\n| 28Fr | 28Fr |\n| 32Fr | 32Fr |\n| 35Fr | 35Fr |\n| 37Fr | 37Fr |\n| 39Fr | 39Fr |\n| 41Fr | 41Fr |",
+    "category": 67,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

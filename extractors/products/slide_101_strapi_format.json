@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "KN95 MASKS",
+    "referenceString": "4.14.2",
+    "standard": "EN14079",
+    "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n- Loading Capacity: 20GP (29m3): …….. – 40HC (69m3): …….. \n\n## COMPOSITION\n- 100% Non Woven (Polyphenylenether – PPE) fabric made of Viscose and Polyester Fibers\n\n## STERILIZATION\n- Non Sterile\n\n## PRESENTATIONS\n- White\n- With Ties\n- Up to BFE ≥99%\n- Adjustable Nose Fitting Clip\n\n## PERFORMANCE\n- Lightweight and breathable, smooth breathing\n- Low sensitivity, soft and skin-friendly\n- Ultrasonic welding spot, sturdy and durable\n\n## PROTECTION",
+    "tableInMd": "| Description | Sterility |\n|---|---|\n| FFP2 N9501F 11cm × 16cm,4 ply | Non-sterile |",
+    "category": 69,
+    "divisions": [
+      56
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

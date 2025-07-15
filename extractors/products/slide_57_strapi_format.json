@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "CONVENTIONAL IV CANNULA WITH WINGS AND INJECTION SITE",
+    "referenceString": "4.9.3",
+    "standard": "ISO 10555-1:1995",
+    "description": "## COMPOSITION\n- 100% medical grade stainless steel\n- Polypropylene (PP) Body\n- Polypropylene (PP) Filter\n- Teflon (PTFE) and Polyurethane (PUR) Catheter\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n- Stripped and Full X-Ray Detectable Catheter’s Finish\n- With or Without Hydrophobic Filter\n\n## PERFORMANCE\n- 3 bevelled + 2 Back Cuts Sharpness Technology\n- Bevel Orientation Indicator\n- Thin wall technology => High Flow\n- Color-Coded Size Fixiation Wings\n- Injection Port\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Smooth Surface",
+    "tableInMd": "| GAUGE | COLOUR | EXT DIA (mm) | LENGTH (mm) | WATER FLOW (mL/min.) |\n|---|---|---|---|---|\n| 14G | Orange | 2,1 | 32 | 240 |\n| 14G | Orange | 2,1 | 45 | 240 |\n| 16G | Grey | 1,8 | 32 | 180 |\n| 16G | Grey | 1,8 | 45 | 180 |\n| 18G | Green | 1,3 | 32 | 90 |\n| 18G | Green | 1,3 | 38 | 90 |\n| 18G | Green | 1,3 | 45 | 90 |\n| 20G | Pink | 1,1 | 25 | 60 |\n| 20G | Pink | 1,1 | 32 | 60 |\n| 20G | Pink | 1,1 | 38 | 60 |\n| 22G | Blue | 0,9 | 19 | 36 |\n| 22G | Blue | 0,9 | 25 | 36 |\n| 24G | Yellow | 0,7 | 19 | 20 |\n| 26G | Purple | 0,6 | 19 | 13 |",
+    "category": 67,
+    "divisions": [
+      47
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

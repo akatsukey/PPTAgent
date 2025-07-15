@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "OUR QC SYSTEM",
+    "referenceString": "5.1",
+    "standard": "???",
+    "description": "## DESCRIPTION\n- En Letsmed somos testigos de un sistema de salud  con volumenes de cada vez mas grandes que generan mercados cada vez mas competitivos, que al mismo tiempo incrementan la demanda y el consumo como parte de un ciclo muy positivo que solo require un control de CALIDAD de cada uno de sus procesos con el fin de hacerlo sustentable hacia el future.\n\n- Neustro cercania con neustros proveedores nos permite una auditoria constante de su performance acvompanada de inspecciones puntuales, que nos dan una pauta real de cual es el output de Calidad de cada fabrica y nos permite al mismo tiempo tomar medidas correctivas a tiempo.\n\n- Adicionalmente, cada operacion va acompanada de un Informe de inspeccion por lote y segiun las pautas AQL\n\n## PRODUCTION\n\n## INSPECCION\n\n## SHIPMENT\n\n## MARKETING\n\n## FEEDBACK\n\n## FEEDBACK",
+    "tableInMd": "",
+    "category": null,
+    "divisions": [
+      null
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

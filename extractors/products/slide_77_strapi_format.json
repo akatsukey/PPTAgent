@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Adhesive Tapes & Dressings",
+    "referenceString": "4.12",
+    "standard": "???",
+    "description": "## COMPOSITION\n- Cotton Surgical Tape\n- Non-Woven Surgical Tape\n- Transparent (PE) Surgical Tape\n- Silk (Rayon) Surgical Tape\n- Non-Woven Fix Tape\n- Pflasters\n- Poliuretane (PU) Transparent Dressings\n- Poliuretane (PU) IV-Dressings\n- Non-Woven Dressings\n- Alginate Dressings\n- Silver Dressings\n- Hydrocolloid Dressing\n- Hydrogel Dressing\n- Foam Dressings\n- Vaseline Dressings\n- Poliurethane Film\n- Spool Cover\n- Adhesive Material\n- Backing Material\n- Spool",
+    "tableInMd": "",
+    "category": 70,
+    "divisions": [
+      54
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

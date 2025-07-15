@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "LONG-TERM HEMODIALYSIS CATHETERS",
+    "referenceString": "4.34.2",
+    "standard": "??????????",
+    "description": "## CHARACTERISTICS\n- The Catheter is made from premium silicone, which has excellent biocompatibility.\n- The Dacron cuff helps keep the catheter from slipping out and reduce the chance of CBI (Catheter Related Bloodstream Infections.\n- The silicone material makes catheter more floppy, hence it can minimize the trauma to the vein and reduce the incident of clot.\n- Unique catheter design.\n\n## STANDARD KITS INCLUDE\n- Silicone Catheter\n- Vessel Dilator\n- Valved Peelable Introducer\n- Introducer Needle\n- Guide-wire\n- Subcutaneous Tunnel needle\n- Adhesive Wound Dressings\n- Herparin Caps\n- Gauze Sponges\n- Scalpel\n- Syringe\n- Needle with Suture",
+    "tableInMd": "| Lumen | Catheter Size (Fr) | Catheter Length (cm) |\n|---|---|---|\n| Double Lumen | 15Fr | 13/19/23/28/31/33/35/50cm |",
+    "category": 76,
+    "divisions": [
+      51
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

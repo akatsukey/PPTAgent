@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "ANESTHASIA",
+    "referenceString": "",
+    "standard": "???",
+    "description": "",
+    "tableInMd": "| FOAM HME |  |  |  |  |  |\n|---|---|---|---|---|---|\n| Cat. No. | ADULT | ADULT ANGLED | PAEDIATRIC | PAEDIATRIC ANGLED | INFANT ANGLED |\n| Humidity Output | 31mg/H2O @ VT500ml | 31mg/H2O @ VT500ml | >31mg/H2O @ VT500ml | >31mg/H2O @ VT500ml | >31.5mg/H2O @ VT50ml |\n| Resistance | 180pa @ 60LPM | 130pa @ 60LPM | 100pa @ 15LPM | 90pa @ 15LPM | 20pa @ 10LPM |\n| Dead Space (ml) | 53ml | 66ml | 26ml | 31ml | 13ml |\n| Tidal Volume (ml) | 150-1500 | 200-1500 | 90-1500 | 90-1500 | >45 |\n| Connections | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22M/15F - 22F/15M | 22M/15F - 22F |\n| Weight (g) | 27 | 30 | 19 | 18 | 9 |\n| Gas Monitoring Luer Port | Yes | Yes | Yes | Yes | Yes |",
+    "category": null,
+    "divisions": [
+      58
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

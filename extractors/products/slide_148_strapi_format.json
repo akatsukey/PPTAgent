@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "ENTERAL FEEDING TUBES",
+    "referenceString": "4.29.1",
+    "standard": "ISO 80369-3",
+    "description": "## COMPOSITION\n- 100% PVC, 100% DEHP-FREE PVC and 100% Silicone\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- PVC, DEHP-FREE PVC and Silicone\n- Color-Coded Size Identification\n- Standard and Ent-Fit Connector\n- Encapsulated radiopaque stripe all along the tube length\n- Highly Visible Size Indication every 5cm along the Tubing\n\n## PERFORMANCE\n- Smooth surface allowing successful introduction\n\n## ANESTHASIA\n- ENTERAL FEEDING THERAPY",
+    "tableInMd": "|  |  |  |\n|---|---|---|\n| 8Fr |  | 60cm |\n|  |  | 90cm |\n| 10Fr |  | 60cm |\n|  |  | 90cm |\n| 12Fr |  | 60cm |\n|  |  | 90cm |\n| 14Fr |  | 60cm |\n|  |  | 90cm |\n| 16Fr |  | 60cm |\n|  |  | 90cm |\n| 18Fr |  | 60cm |\n|  |  | 90cm |\n| 20Fr |  | 60cm |\n|  |  | 90cm |\n| 22Fr |  | 60cm |\n|  |  | 90cm |\n| 24Fr |  | 60cm |\n|  |  | 90cm |",
+    "category": 75,
+    "divisions": [
+      52
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

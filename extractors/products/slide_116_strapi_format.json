@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "SELF-RETAINING URINARY CATHETERS",
+    "referenceString": "4.16.5",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- 100% Natural Rubber (Latex)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Pezzer/Melacot/Club Types\n\n## PERFORMANCE\n- Highly Smoot Surface allowing successful introduction\n- Funnelled Tips",
+    "tableInMd": "| PEZZER CATHETER |  | MELACOT CATHETER |  | CLUB CATHETER |  |\n|---|---|---|---|---|---|\n| Size (Fr/Ch) | Length (mm) | Size (Fr/Ch) | Length (mm) | Size (Fr/Ch) | Length (mm) |\n| 12 | 33 | 12 | 40 | 12 | 40 |\n| 14 | 33 | 14 | 40 | 14 | 40 |\n| 16 | 33 | 16 | 40 | 16 | 40 |\n| 18 | 33 | 18 | 40 | 18 | 40 |\n| 20 | 33 | 20 | 40 | 20 | 40 |\n| 22 | 33 | 22 | 40 | 22 | 40 |\n| 24 | 33 | 24 | 40 | 24 | 40 |\n| 26 | 33 | 26 | 40 | 26 | 40 |\n| 28 | 33 | 28 | 40 | 28 | 40 |\n| 30 | 33 | 30 | 40 | 30 | 40 |\n| 32 | 33 | 32 | 40 | 32 | 40 |\n| 34 | 33 | 34 | 40 | 34 | 40 |\n| 36 | 33 | 36 | 40 | 36 | 40 |\n| 38 | 33 | 38 | 40 | 38 | 40 |\n| 40 | 33 | 40 | 40 | 40 | 40 |",
+    "category": 74,
+    "divisions": [
+      53
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

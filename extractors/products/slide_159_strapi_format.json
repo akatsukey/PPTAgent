@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "BLOOD MICRO VACUUM TUBES",
+    "referenceString": "4.35.2",
+    "standard": "??????????",
+    "description": "## PACKING\n- ……… pc/inner box\n- Packing: ……… inner box/Carton\n- Loading Capacity: 20GP (29m3): …….. – 40HC (69m3): …….. \n\n## FEATURES\n- Ultrasonically sprayed additives for different clinical lab tests.\n- Precision molded snap cap maintains a tight seal during procedures and allows to open by single hand. They are available in bright attractive colors for sample identification purposes.\n- An integrated scoop on the tube for easier micro blood collection.\n- Marked with fill lines, lot numbers and expiration date on labels.\n- Made from medical grade polypropylene (PP), virtually unbreakable and highly transparent.\n- Immediately after draw, gently invert the tube in order to mix with additives.\n- To obtain serum with clot activator, tubes should be allowed to stand for 30 minutes or until the clot is formed.",
+    "tableInMd": "| Volume/ml | Size/mm | Additive | Separator | Material | Cap Color | Closure |\n|---|---|---|---|---|---|---|\n| 0.5 | 13X75 | NONE | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | Clot Activator | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | EDTA K2 | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | EDTA K3 | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | Heparin Lithium | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | Heparin Sodium | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | Heparin Sodium+ Sodium Fluoride | / | PP |  | Snap Cap |\n| 0.5 | 13X75 | Clot Activator | Gel | PP |  | Snap Cap |\n| 0.5 | 10X45 | NONE | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | Clot Activator | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | EDTA K2 | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | EDTA K3 | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | Heparin Lithium | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | Heparin Sodium | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | Heparin Sodium+ Sodium Fluoride | / | PP |  | Snap Cap |\n| 0.5 | 10X45 | Clot Activator | Gel | PP |  | Snap Cap |",
+    "category": 67,
+    "divisions": [
+      50
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}

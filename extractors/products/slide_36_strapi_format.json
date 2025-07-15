@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "TWIST BLOOD LANCETS",
+    "referenceString": "4.4.3",
+    "standard": "??????????",
+    "description": "## COMPOSITION\n- Polypropylene (PP)\n- Stainless Steel\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Color-Coded Size Identification\n\n## PERFORMANCE\n- Electronic bevel and 100% medical grade stainless steel needle\n- Smooth Surface\n- Low Pain experience",
+    "tableInMd": "| Specifications | Volume Reference |\n|---|---|\n| 33G |  |\n| 30G |  |\n| 28G |  |\n| 26G |  |\n| 23G |  |\n| 21G |  |",
+    "category": 62,
+    "divisions": [
+      49
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}
