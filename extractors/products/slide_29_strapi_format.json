@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "Scalp Vein Sets",
+    "referenceString": "4.3",
+    "standard": "???",
+    "description": "## OUR PRODUCTS\n- Needle Coverering cap\n- Cannula\n- Winged Needle Hub\n- Tubing\n- Needle Bevel\n- Connector\n- Connector cap",
+    "tableInMd": "",
+    "category": 61,
+    "divisions": [
+      48
+    ],
+    "images": [],
+    "PackagingInformation": {
+      "packing_per_inner_box": 0,
+      "inner_boxes_per_carton": 0,
+      "loading_capacity_20GP": 0,
+      "loading_capacity_40HC": 0,
+      "additional_notes": "Not specified"
+    }
+  }
+}
