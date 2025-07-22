@@ -1,3 +1,7 @@
 data/
 .env
 .env-local
+logs/
+__pycache__/
+*.pyc
+.DS_Store
