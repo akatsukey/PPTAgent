@@ -6,10 +6,10 @@
       "standard": "??????????",
       "description": "## COMPOSITION\n- 100% Silicon\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Latex free\n- Short/Medium/Long Sizes\n\n## PERFORMANCE\n- self-adhesive sheath\n- Soft and Skin-friendly\n- Highly Transparent",
       "tableInMd": "| Type | Shape | Size (mm) |\n|---|---|---|\n| STANDARD |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |\n| SPECIAL |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |\n| EXTRA |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |",
-              "category": 225,
-        "divisions": [
-          110
-        ],
+      "category": 74,
+      "divisions": [
+        53
+      ],
       "images": [],
       "PackagingInformation": {
         "packing_per_inner_box": 0,
@@ -606,7 +606,7 @@
     "data": {
       "name": "CONVENTIONAL SCALP VEIN SETS",
       "referenceString": "4.3.1",
-      "category": 212,
+      "category": 59,
       "categoryName": "Scalp vein sets",
       "divisions": [
         104,
@@ -634,7 +634,7 @@
     "data": {
       "name": "SAFETY SCALP VEIN SETS",
       "referenceString": "4.3.2",
-      "category": 212,
+      "category": 59,
       "categoryName": "Scalp vein sets",
       "divisions": [
         104,
@@ -662,7 +662,7 @@
     "data": {
       "name": "SAFETY SCALP VEIN SETS PREMIUM",
       "referenceString": "4.3.3",
-      "category": 212,
+      "category": 59,
       "categoryName": "Scalp vein sets",
       "divisions": [
         104,
@@ -888,7 +888,7 @@
     "data": {
       "name": "3 WAY STOP COCKS",
       "referenceString": "4.6.1",
-      "category": 214,
+      "category": 64,
       "categoryName": "Infusion Sets",
       "divisions": [
         104,
@@ -916,7 +916,7 @@
     "data": {
       "name": "HEPARIN CAPS",
       "referenceString": "4.6.2",
-      "category": 214,
+      "category": 64,
       "categoryName": "Infusion Sets",
       "divisions": [
         104,
@@ -944,7 +944,7 @@
     "data": {
       "name": "NEGATIVE NEEDLE FREE CONNECTOR",
       "referenceString": "4.6.3",
-      "category": 214,
+      "category": 64,
       "categoryName": "Infusion Sets",
       "divisions": [
         104,
@@ -972,7 +972,7 @@
     "data": {
       "name": "POSITIVE NEEDLE FREE CONNECTOR",
       "referenceString": "4.6.4",
-      "category": 214,
+      "category": 64,
       "categoryName": "Infusion Sets",
       "divisions": [
         104,
@@ -1000,7 +1000,7 @@
     "data": {
       "name": "NEUTRAL NEEDLE FREE CONNECTOR",
       "referenceString": "4.6.5",
-      "category": 214,
+      "category": 64,
       "categoryName": "Infusion Sets",
       "divisions": [
         104,
@@ -1028,7 +1028,7 @@
     "data": {
       "name": "NEUTRAL ANTI-REFLUX NEEDLE FREE CONNECTOR",
       "referenceString": "4.6.6",
-      "category": 214,
+      "category": 64,
       "categoryName": "Infusion Sets",
       "divisions": [
         104,
@@ -1056,7 +1056,7 @@
     "data": {
       "name": "FLOW REGULATOR",
       "referenceString": "4.6.7",
-      "category": 214,
+      "category": 64,
       "categoryName": "Infusion Sets",
       "divisions": [
         104,
@@ -1084,7 +1084,7 @@
     "data": {
       "name": "FEMALE/MALE STOPPERS",
       "referenceString": "4.6.8",
-      "category": 214,
+      "category": 64,
       "categoryName": "Infusion Sets",
       "divisions": [
         104,
@@ -1112,7 +1112,7 @@
     "data": {
       "name": "CAPS",
       "referenceString": "4.6.9",
-      "category": 214,
+      "category": 64,
       "categoryName": "Infusion Sets",
       "divisions": [
         104,
@@ -1140,7 +1140,7 @@
     "data": {
       "name": "FLUIDS TRANSFER SPIKE",
       "referenceString": "4.6.10",
-      "category": 214,
+      "category": 64,
       "categoryName": "Infusion Sets",
       "divisions": [
         104,
@@ -1380,7 +1380,7 @@
     "data": {
       "name": "PEN TYPE CONVENTIONAL IV CANNULA",
       "referenceString": "4.9.1",
-      "category": 218,
+      "category": 67,
       "categoryName": "IV CANNULA",
       "divisions": [
         104,
@@ -1410,7 +1410,7 @@
     "data": {
       "name": "CONVENTIONAL IV CANNULA WITH WINGS",
       "referenceString": "4.9.2",
-      "category": 218,
+      "category": 67,
       "categoryName": "IV CANNULA",
       "divisions": [
         104,
@@ -1440,7 +1440,7 @@
     "data": {
       "name": "CONVENTIONAL IV CANNULA WITH WINGS AND INJECTION SITE ",
       "referenceString": "4.9.3",
-      "category": 218,
+      "category": 67,
       "categoryName": "IV CANNULA",
       "divisions": [
         104,
@@ -1470,7 +1470,7 @@
     "data": {
       "name": "PEN TYPE PASSIVE RETRACTABLE SAFETY IV CANNULA",
       "referenceString": "4.9.4",
-      "category": 218,
+      "category": 67,
       "categoryName": "IV CANNULA",
       "divisions": [
         104,
@@ -1498,7 +1498,7 @@
     "data": {
       "name": "PASSIVE SAFETY IV CANNULA WITH WINGS",
       "referenceString": "4.9.5",
-      "category": 218,
+      "category": 67,
       "categoryName": "IV CANNULA",
       "divisions": [
         104,
@@ -1526,7 +1526,7 @@
     "data": {
       "name": "PASSIVE SAFETY IV CANNULA WITH WINGS AND INJECTION SITE",
       "referenceString": "4.9.6",
-      "category": 218,
+      "category": 67,
       "categoryName": "IV CANNULA",
       "divisions": [
         104,
@@ -1554,7 +1554,7 @@
     "data": {
       "name": "MANUAL RETRACTABLE SAFETY IV CANNULA",
       "referenceString": "4.9.7",
-      "category": 218,
+      "category": 67,
       "categoryName": "IV CANNULA",
       "divisions": [
         104,
@@ -1582,7 +1582,7 @@
     "data": {
       "name": "AUTOMATIC RETRACTABLE SAFETY IV CANNULA",
       "referenceString": "4.9.8",
-      "category": 218,
+      "category": 67,
       "categoryName": "IV CANNULA",
       "divisions": [
         104,
@@ -1610,7 +1610,7 @@
     "data": {
       "name": "SAFETYCLOSE-SYSTEM IV CANNULA 2-WAYS",
       "referenceString": "4.9.9",
-      "category": 218,
+      "category": 67,
       "categoryName": "IV CANNULA",
       "divisions": [
         104,
@@ -2862,7 +2862,7 @@
     "data": {
       "name": "DISPOSABLE NON-WOVEN DRAPES AND OPERATION ROOM (SURGICAL) KITS",
       "referenceString": "4.15",
-      "category": 223,
+      "category": 93,
       "categoryName": "Disposable Non-Woven Gourments",
       "divisions": [
         113,
@@ -3162,7 +3162,7 @@
     "data": {
       "name": "URINE BAGS - ECONOMIC TYPE",
       "referenceString": "4.17.1",
-      "category": 225,
+      "category": 92,
       "categoryName": "Urinary Catheters",
       "divisions": [
         110,
@@ -3192,7 +3192,7 @@
     "data": {
       "name": "URINE BAGS - STANDARD TYPE",
       "referenceString": "4.17.2",
-      "category": 225,
+      "category": 92,
       "categoryName": "Urinary Catheters",
       "divisions": [
         110,
@@ -3222,7 +3222,7 @@
     "data": {
       "name": "URINE BAGS - LUXUS TYPE",
       "referenceString": "4.17.3",
-      "category": 225,
+      "category": 92,
       "categoryName": "Urinary Catheters",
       "divisions": [
         110,
@@ -3252,7 +3252,7 @@
     "data": {
       "name": "URINE BAGS WITH VOLUTROL",
       "referenceString": "4.17.4",
-      "category": 225,
+      "category": 92,
       "categoryName": "Urinary Catheters",
       "divisions": [
         110,
@@ -3282,7 +3282,7 @@
     "data": {
       "name": "LEG URINE BAGS",
       "referenceString": "4.17.5",
-      "category": 225,
+      "category": 92,
       "categoryName": "Urinary Catheters",
       "divisions": [
         110,
@@ -3312,7 +3312,7 @@
     "data": {
       "name": "PEDIATRIC URINE BAGS",
       "referenceString": "4.17.6",
-      "category": 225,
+      "category": 92,
       "categoryName": "Urinary Catheters",
       "divisions": [
         110,
@@ -3342,7 +3342,7 @@
     "data": {
       "name": "ENDOTRACHEAL TUBES",
       "referenceString": "4.18",
-      "category": 217,
+      "category": 81,
       "categoryName": "Extension Tubes",
       "divisions": [
         116,
@@ -3370,7 +3370,7 @@
     "data": {
       "name": "ENDOBRONCHEAL TUBES",
       "referenceString": "4.19",
-      "category": 217,
+      "category": 80,
       "categoryName": "Extension Tubes",
       "divisions": [
         116,
@@ -3398,7 +3398,7 @@
     "data": {
       "name": "PHARINGEAL AIRWAYS",
       "referenceString": "4.20",
-      "category": 224,
+      "category": 85,
       "categoryName": "Suction Catheter",
       "divisions": [
         116,
@@ -3426,7 +3426,7 @@
     "data": {
       "name": "NASOPHARINGEAL AIRWAYS",
       "referenceString": "4.21",
-      "category": 224,
+      "category": 84,
       "categoryName": "Suction Catheter",
       "divisions": [
         116,
@@ -3454,7 +3454,7 @@
     "data": {
       "name": "LARYNGEAL MASKS",
       "referenceString": "4.22",
-      "category": 224,
+      "category": 82,
       "categoryName": "Suction Catheter",
       "divisions": [
         116,
@@ -3482,7 +3482,7 @@
     "data": {
       "name": "TRACHEOSTOMY",
       "referenceString": "4.23",
-      "category": 224,
+      "category": 91,
       "categoryName": "Suction Catheter",
       "divisions": [
         116,
@@ -3510,7 +3510,7 @@
     "data": {
       "name": "ANESTHESIA CIRCUITS",
       "referenceString": "4.24.1",
-      "category": 224,
+      "category": 87,
       "categoryName": "Suction Catheter",
       "divisions": [
         116,
@@ -3538,7 +3538,7 @@
     "data": {
       "name": "FILTERS",
       "referenceString": "4.24.2",
-      "category": 224,
+      "category": 87,
       "categoryName": "Suction Catheter",
       "divisions": [
         116,
@@ -3566,7 +3566,7 @@
     "data": {
       "name": "NASA OXYGEN CANNULA",
       "referenceString": "4.25",
-      "category": 218,
+      "category": 83,
       "categoryName": "IV CANNULA",
       "divisions": [
         116,
@@ -3594,7 +3594,7 @@
     "data": {
       "name": "RESPIRATORY MASKS",
       "referenceString": "4.26",
-      "category": 224,
+      "category": 88,
       "categoryName": "Suction Catheter",
       "divisions": [
         116,
@@ -3622,7 +3622,7 @@
     "data": {
       "name": "SUCTION TUBE + JANKAUER HANDLE",
       "referenceString": "4.27",
-      "category": 224,
+      "category": 90,
       "categoryName": "Suction Catheter",
       "divisions": [
         116,
@@ -3758,7 +3758,7 @@
     "data": {
       "name": "STOMACH TUBES",
       "referenceString": "4.30",
-      "category": 217,
+      "category": 89,
       "categoryName": "Extension Tubes",
       "divisions": [
         107
@@ -3784,7 +3784,7 @@
     "data": {
       "name": "CENTRAL VENOUS CATHETERS (CVC)",
       "referenceString": "4.31",
-      "category": 225,
+      "category": 78,
       "categoryName": "Urinary Catheters",
       "divisions": [
         104,
@@ -3812,7 +3812,7 @@
     "data": {
       "name": "PRESSURE TRANSDUCERS",
       "referenceString": "4.32",
-      "category": 219,
+      "category": 86,
       "categoryName": "Electrodes",
       "divisions": [
         116,
@@ -3840,7 +3840,7 @@
     "data": {
       "name": "ELECTRODES  ",
       "referenceString": "4.33",
-      "category": 219,
+      "category": 59,
       "categoryName": "Electrodes",
       "divisions": [
         107,
@@ -3930,7 +3930,7 @@
     "data": {
       "name": "BLOOD VACUUM TUBES",
       "referenceString": "4.35.1",
-      "category": 213,
+      "category": 77,
       "categoryName": "Blood lancets",
       "divisions": [
         107,
@@ -3960,7 +3960,7 @@
     "data": {
       "name": "BLOOD MICRO VACUUM TUBES",
       "referenceString": "4.35.2",
-      "category": 213,
+      "category": 77,
       "categoryName": "Blood lancets",
       "divisions": [
         107,
@@ -3988,9 +3988,9 @@
   },
   {
     "data": {
-      "name": "BLOOD EXTRACTION TUBES HOLDERS",
+      "name": "BLOOD EXTRACTION TUBES’ HOLDERS",
       "referenceString": "4.35.3",
-      "category": 213,
+      "category": 77,
       "categoryName": "Blood lancets",
       "divisions": [
         107,
@@ -4013,14 +4013,14 @@
         "loading_capacity_40HC": 0,
         "additional_notes": "Not specified"
       },
-      "slug": "blood-extraction-tubes-holders-en"
+      "slug": "blood-extraction-tubes-holders"
     }
   },
   {
     "data": {
       "name": "BLOOD EXTRACTION SAFETY TUBES’ HOLDERS",
       "referenceString": "4.35.4",
-      "category": 213,
+      "category": 77,
       "categoryName": "Blood lancets",
       "divisions": [
         107,

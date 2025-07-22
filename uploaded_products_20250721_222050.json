@@ -1,0 +1,823 @@
+{
+  "uploaded_count": 136,
+  "uploaded_products": [
+    {
+      "product_id": 1532,
+      "product_name": "INFUSION PUMP SYRINGES ",
+      "reference": "4.1.6",
+      "upload_time": "2025-07-21T22:16:08.973350"
+    },
+    {
+      "product_id": 1533,
+      "product_name": "CONVENTIONAL ARTERIAL BLOOD SAMPLERS",
+      "reference": "4.1.7",
+      "upload_time": "2025-07-21T22:16:09.678438"
+    },
+    {
+      "product_id": 1534,
+      "product_name": "PC SYRINGES",
+      "reference": "4.1.8",
+      "upload_time": "2025-07-21T22:16:10.928265"
+    },
+    {
+      "product_id": 1535,
+      "product_name": "PRE-FILLED SYRINGES",
+      "reference": "4.1.9",
+      "upload_time": "2025-07-21T22:16:11.938232"
+    },
+    {
+      "product_id": 1536,
+      "product_name": "AUTO-DISABEL (AD) SAFETY SYRINGES",
+      "reference": "4.1.10",
+      "upload_time": "2025-07-21T22:16:12.708976"
+    },
+    {
+      "product_id": 1537,
+      "product_name": "NEEDLE COVERING SAFETY SYRINGES",
+      "reference": "4.1.11",
+      "upload_time": "2025-07-21T22:16:13.399396"
+    },
+    {
+      "product_id": 1538,
+      "product_name": "SAFETY ARTERIAL BLOOD SAMPLERS",
+      "reference": "4.1.12",
+      "upload_time": "2025-07-21T22:16:14.128045"
+    },
+    {
+      "product_id": 1539,
+      "product_name": "MANUAL RETRACTABLE SAFETY SYRINGES",
+      "reference": "4.1.13",
+      "upload_time": "2025-07-21T22:16:15.084973"
+    },
+    {
+      "product_id": 1540,
+      "product_name": "AUTOMATIC RETRACTABLE SAFETY SYRINGES",
+      "reference": "4.1.14",
+      "upload_time": "2025-07-21T22:16:15.883736"
+    },
+    {
+      "product_id": 1541,
+      "product_name": "CONVENTIONAL HYPODERMIC NEEDLES",
+      "reference": "4.2.1",
+      "upload_time": "2025-07-21T22:16:16.576914"
+    },
+    {
+      "product_id": 1542,
+      "product_name": "INSULIN PEN NEEDLES",
+      "reference": "4.2.2",
+      "upload_time": "2025-07-21T22:16:25.992156"
+    },
+    {
+      "product_id": 1543,
+      "product_name": "BLOOD EXTRACTION NEEDLES",
+      "reference": "4.2.3",
+      "upload_time": "2025-07-21T22:16:26.710224"
+    },
+    {
+      "product_id": 1544,
+      "product_name": "BLUNT HYPODERMIC NEEDLES",
+      "reference": "4.2.4",
+      "upload_time": "2025-07-21T22:16:27.400013"
+    },
+    {
+      "product_id": 1545,
+      "product_name": "DENTAL NEEDLES",
+      "reference": "4.2.5",
+      "upload_time": "2025-07-21T22:16:28.133165"
+    },
+    {
+      "product_id": 1546,
+      "product_name": "SAFETY PROTECTOR COVERING SAFETY NEEDLES",
+      "reference": "4.2.6",
+      "upload_time": "2025-07-21T22:16:28.819303"
+    },
+    {
+      "product_id": 1547,
+      "product_name": "SAFETY INSULIN PEN NEEDLES",
+      "reference": "4.2.7",
+      "upload_time": "2025-07-21T22:16:29.514905"
+    },
+    {
+      "product_id": 1548,
+      "product_name": "SAFETY BLOOD EXTRACTION NEEDLES",
+      "reference": "4.2.8",
+      "upload_time": "2025-07-21T22:16:30.265174"
+    },
+    {
+      "product_id": 1549,
+      "product_name": "CONVENTIONAL SCALP VEIN SETS",
+      "reference": "4.3.1",
+      "upload_time": "2025-07-21T22:16:30.990492"
+    },
+    {
+      "product_id": 1550,
+      "product_name": "SAFETY SCALP VEIN SETS",
+      "reference": "4.3.2",
+      "upload_time": "2025-07-21T22:16:31.741240"
+    },
+    {
+      "product_id": 1551,
+      "product_name": "SAFETY SCALP VEIN SETS PREMIUM",
+      "reference": "4.3.3",
+      "upload_time": "2025-07-21T22:16:32.428165"
+    },
+    {
+      "product_id": 1552,
+      "product_name": "CONVENTIONAL BLOOD LANCETS",
+      "reference": "4.4.1",
+      "upload_time": "2025-07-21T22:16:33.233843"
+    },
+    {
+      "product_id": 1553,
+      "product_name": "SAFETY BLOOD LANCETS",
+      "reference": "4.4.2",
+      "upload_time": "2025-07-21T22:16:33.948134"
+    },
+    {
+      "product_id": 1554,
+      "product_name": "SAFETY BLOOD HEEL LANCETS",
+      "reference": "4.4.3",
+      "upload_time": "2025-07-21T22:16:34.610140"
+    },
+    {
+      "product_id": 1555,
+      "product_name": "TWIST BLOOD LANCETS",
+      "reference": "4.4.4",
+      "upload_time": "2025-07-21T22:16:35.302683"
+    },
+    {
+      "product_id": 1556,
+      "product_name": "INFUSION SETS",
+      "reference": "4.5.1",
+      "upload_time": "2025-07-21T22:16:36.080321"
+    },
+    {
+      "product_id": 1557,
+      "product_name": "INFUSION BURETTE SETS",
+      "reference": "4.5.2",
+      "upload_time": "2025-07-21T22:16:43.476137"
+    },
+    {
+      "product_id": 1558,
+      "product_name": "INFUSION ENTERAL/FEEDING SET",
+      "reference": "4.5.3",
+      "upload_time": "2025-07-21T22:16:44.184483"
+    },
+    {
+      "product_id": 1559,
+      "product_name": "3 WAY STOP COCKS",
+      "reference": "4.6.1",
+      "upload_time": "2025-07-21T22:16:44.852358"
+    },
+    {
+      "product_id": 1560,
+      "product_name": "HEPARIN CAPS",
+      "reference": "4.6.2",
+      "upload_time": "2025-07-21T22:16:45.563731"
+    },
+    {
+      "product_id": 1561,
+      "product_name": "NEGATIVE NEEDLE FREE CONNECTOR",
+      "reference": "4.6.3",
+      "upload_time": "2025-07-21T22:16:46.264187"
+    },
+    {
+      "product_id": 1562,
+      "product_name": "POSITIVE NEEDLE FREE CONNECTOR",
+      "reference": "4.6.4",
+      "upload_time": "2025-07-21T22:16:46.997139"
+    },
+    {
+      "product_id": 1563,
+      "product_name": "NEUTRAL NEEDLE FREE CONNECTOR",
+      "reference": "4.6.5",
+      "upload_time": "2025-07-21T22:16:47.692114"
+    },
+    {
+      "product_id": 1564,
+      "product_name": "NEUTRAL ANTI-REFLUX NEEDLE FREE CONNECTOR",
+      "reference": "4.6.6",
+      "upload_time": "2025-07-21T22:16:48.361058"
+    },
+    {
+      "product_id": 1565,
+      "product_name": "FLOW REGULATOR",
+      "reference": "4.6.7",
+      "upload_time": "2025-07-21T22:16:49.037055"
+    },
+    {
+      "product_id": 1566,
+      "product_name": "FEMALE/MALE STOPPERS",
+      "reference": "4.6.8",
+      "upload_time": "2025-07-21T22:16:49.736927"
+    },
+    {
+      "product_id": 1567,
+      "product_name": "CAPS",
+      "reference": "4.6.9",
+      "upload_time": "2025-07-21T22:16:50.418807"
+    },
+    {
+      "product_id": 1568,
+      "product_name": "FLUIDS TRANSFER SPIKE",
+      "reference": "4.6.10",
+      "upload_time": "2025-07-21T22:16:51.124159"
+    },
+    {
+      "product_id": 1569,
+      "product_name": "TRANSFUSION SETS",
+      "reference": "4.7",
+      "upload_time": "2025-07-21T22:16:51.865934"
+    },
+    {
+      "product_id": 1570,
+      "product_name": "CONVENTIONAL EXTENSION TUBES",
+      "reference": "4.8.1",
+      "upload_time": "2025-07-21T22:16:52.527460"
+    },
+    {
+      "product_id": 1571,
+      "product_name": "UV-LIGHT PROOF CONVENTIONAL EXTENSION TUBES",
+      "reference": "4.8.2",
+      "upload_time": "2025-07-21T22:16:53.195853"
+    },
+    {
+      "product_id": 1572,
+      "product_name": "EXTENSION TUBE WITH 3 WAY STOP COCK",
+      "reference": "4.8.3",
+      "upload_time": "2025-07-21T22:17:07.214404"
+    },
+    {
+      "product_id": 1573,
+      "product_name": "EXTENSION TUBE WITH FLOW REGULATOR",
+      "reference": "4.8.4",
+      "upload_time": "2025-07-21T22:17:08.059628"
+    },
+    {
+      "product_id": 1574,
+      "product_name": "HIGH PRESSURE EXTENSION TUBES ",
+      "reference": "4.8.5",
+      "upload_time": "2025-07-21T22:17:08.860208"
+    },
+    {
+      "product_id": 1575,
+      "product_name": "UV-LIGHT PROOF HIGH PRESSURE EXTENSION TUBES ",
+      "reference": "4.8.6",
+      "upload_time": "2025-07-21T22:17:09.630562"
+    },
+    {
+      "product_id": 1576,
+      "product_name": "PEN TYPE CONVENTIONAL IV CANNULA",
+      "reference": "4.9.1",
+      "upload_time": "2025-07-21T22:17:10.340461"
+    },
+    {
+      "product_id": 1577,
+      "product_name": "CONVENTIONAL IV CANNULA WITH WINGS",
+      "reference": "4.9.2",
+      "upload_time": "2025-07-21T22:17:11.108328"
+    },
+    {
+      "product_id": 1578,
+      "product_name": "CONVENTIONAL IV CANNULA WITH WINGS AND INJECTION SITE ",
+      "reference": "4.9.3",
+      "upload_time": "2025-07-21T22:17:11.793525"
+    },
+    {
+      "product_id": 1579,
+      "product_name": "PEN TYPE PASSIVE RETRACTABLE SAFETY IV CANNULA",
+      "reference": "4.9.4",
+      "upload_time": "2025-07-21T22:17:12.519237"
+    },
+    {
+      "product_id": 1580,
+      "product_name": "PASSIVE SAFETY IV CANNULA WITH WINGS",
+      "reference": "4.9.5",
+      "upload_time": "2025-07-21T22:17:13.245319"
+    },
+    {
+      "product_id": 1581,
+      "product_name": "PASSIVE SAFETY IV CANNULA WITH WINGS AND INJECTION SITE",
+      "reference": "4.9.6",
+      "upload_time": "2025-07-21T22:17:13.951392"
+    },
+    {
+      "product_id": 1582,
+      "product_name": "MANUAL RETRACTABLE SAFETY IV CANNULA",
+      "reference": "4.9.7",
+      "upload_time": "2025-07-21T22:17:14.650539"
+    },
+    {
+      "product_id": 1583,
+      "product_name": "AUTOMATIC RETRACTABLE SAFETY IV CANNULA",
+      "reference": "4.9.8",
+      "upload_time": "2025-07-21T22:17:15.382522"
+    },
+    {
+      "product_id": 1584,
+      "product_name": "SAFETYCLOSE-SYSTEM IV CANNULA 2-WAYS",
+      "reference": "4.9.9",
+      "upload_time": "2025-07-21T22:17:16.087806"
+    },
+    {
+      "product_id": 1585,
+      "product_name": "LATEX EXAMINATION GLOVES",
+      "reference": "4.10.1",
+      "upload_time": "2025-07-21T22:17:16.841227"
+    },
+    {
+      "product_id": 1586,
+      "product_name": "NITRILE EXAMINATION GLOVES",
+      "reference": "4.10.2",
+      "upload_time": "2025-07-21T22:17:17.581394"
+    },
+    {
+      "product_id": 1587,
+      "product_name": "VINYL EXAMINATION GLOVES",
+      "reference": "4.10.3",
+      "upload_time": "2025-07-21T22:17:44.871388"
+    },
+    {
+      "product_id": 1588,
+      "product_name": "POLIETHILENE (PE) GLOVES",
+      "reference": "4.10.4",
+      "upload_time": "2025-07-21T22:17:45.542853"
+    },
+    {
+      "product_id": 1589,
+      "product_name": "LATEX SURGICAL GLOVES",
+      "reference": "4.10.5",
+      "upload_time": "2025-07-21T22:17:46.351778"
+    },
+    {
+      "product_id": 1590,
+      "product_name": "NITRILE SURGICAL GLOVES",
+      "reference": "4.10.6",
+      "upload_time": "2025-07-21T22:17:47.090106"
+    },
+    {
+      "product_id": 1591,
+      "product_name": "POLYSUPRENE SURGICAL GLOVES",
+      "reference": "4.10.7",
+      "upload_time": "2025-07-21T22:17:47.796850"
+    },
+    {
+      "product_id": 1592,
+      "product_name": "LATEX EXAMINATION GLOVES",
+      "reference": "4.10.8",
+      "upload_time": "2025-07-21T22:17:48.494362"
+    },
+    {
+      "product_id": 1593,
+      "product_name": "LATEX CONDOMS",
+      "reference": "4.11.1",
+      "upload_time": "2025-07-21T22:17:49.197804"
+    },
+    {
+      "product_id": 1594,
+      "product_name": "NON-LATEX CONDOMS",
+      "reference": "4.11.2",
+      "upload_time": "2025-07-21T22:17:49.863125"
+    },
+    {
+      "product_id": 1595,
+      "product_name": "LATEX PROBE COVERS",
+      "reference": "4.11.3",
+      "upload_time": "2025-07-21T22:17:50.616365"
+    },
+    {
+      "product_id": 1596,
+      "product_name": "COTTON  SURGICAL TAPE",
+      "reference": "4.12.1",
+      "upload_time": "2025-07-21T22:17:51.344445"
+    },
+    {
+      "product_id": 1597,
+      "product_name": "NON-WOVEN SURGICAL TAPE",
+      "reference": "4.12.2",
+      "upload_time": "2025-07-21T22:17:52.044342"
+    },
+    {
+      "product_id": 1598,
+      "product_name": "TRANSPARENT (PE) SURGICAL TAPE",
+      "reference": "4.12.3",
+      "upload_time": "2025-07-21T22:17:52.722505"
+    },
+    {
+      "product_id": 1599,
+      "product_name": "SILK (RAYON) SURGICAL TAPE",
+      "reference": "4.12.4",
+      "upload_time": "2025-07-21T22:17:53.540061"
+    },
+    {
+      "product_id": 1600,
+      "product_name": "NON-WOVEN FIX TAPE",
+      "reference": "4.12.5",
+      "upload_time": "2025-07-21T22:17:54.211705"
+    },
+    {
+      "product_id": 1601,
+      "product_name": "PFLASTERS",
+      "reference": "4.12.6",
+      "upload_time": "2025-07-21T22:17:55.018953"
+    },
+    {
+      "product_id": 1602,
+      "product_name": "POLIURETANE (PU) TRANSPARENT DRESSINGS",
+      "reference": "4.12.7",
+      "upload_time": "2025-07-21T22:18:29.566137"
+    },
+    {
+      "product_id": 1603,
+      "product_name": "POLIURETANE (PU) IV-DRESSINGS",
+      "reference": "4.12.8",
+      "upload_time": "2025-07-21T22:18:40.651303"
+    },
+    {
+      "product_id": 1604,
+      "product_name": "NON-WOVEN DRESSINGS",
+      "reference": "4.12.9",
+      "upload_time": "2025-07-21T22:18:45.437266"
+    },
+    {
+      "product_id": 1605,
+      "product_name": "ALGINATE DRESSINGS",
+      "reference": "4.12.10",
+      "upload_time": "2025-07-21T22:18:47.961949"
+    },
+    {
+      "product_id": 1606,
+      "product_name": "SILVER DRESSINGS",
+      "reference": "4.12.11",
+      "upload_time": "2025-07-21T22:18:50.418159"
+    },
+    {
+      "product_id": 1607,
+      "product_name": "HYDROCOLOID DRESSING",
+      "reference": "4.12.12",
+      "upload_time": "2025-07-21T22:18:51.814511"
+    },
+    {
+      "product_id": 1608,
+      "product_name": "HYDROGEL DRESSING",
+      "reference": "4.12.13",
+      "upload_time": "2025-07-21T22:18:52.515267"
+    },
+    {
+      "product_id": 1609,
+      "product_name": "FOAM DRESSINGS",
+      "reference": "4.12.14",
+      "upload_time": "2025-07-21T22:18:53.226887"
+    },
+    {
+      "product_id": 1610,
+      "product_name": "VASELINE DRESSINGS",
+      "reference": "4.12.15",
+      "upload_time": "2025-07-21T22:18:53.987232"
+    },
+    {
+      "product_id": 1611,
+      "product_name": "POLIURETHANE FILM",
+      "reference": "4.12.16",
+      "upload_time": "2025-07-21T22:18:54.724394"
+    },
+    {
+      "product_id": 1612,
+      "product_name": "100% COTTON WOVEN GAUZE ",
+      "reference": "4.13.1",
+      "upload_time": "2025-07-21T22:18:55.827610"
+    },
+    {
+      "product_id": 1613,
+      "product_name": "GAUZE ROLLS",
+      "reference": "4.13.2",
+      "upload_time": "2025-07-21T22:18:56.530773"
+    },
+    {
+      "product_id": 1614,
+      "product_name": "GAUZE SWABS",
+      "reference": "4.13.3",
+      "upload_time": "2025-07-21T22:18:57.287583"
+    },
+    {
+      "product_id": 1615,
+      "product_name": "GAUZE LAP SPONGES",
+      "reference": "4.13.4",
+      "upload_time": "2025-07-21T22:18:58.053461"
+    },
+    {
+      "product_id": 1616,
+      "product_name": "NON-WOVEN SWABS",
+      "reference": "4.13.5",
+      "upload_time": "2025-07-21T22:18:58.826040"
+    },
+    {
+      "product_id": 1617,
+      "product_name": "3 PLY MASKS",
+      "reference": "4.14.1",
+      "upload_time": "2025-07-21T22:19:21.607949"
+    },
+    {
+      "product_id": 1618,
+      "product_name": "FFFP MASKS",
+      "reference": "4.14.2",
+      "upload_time": "2025-07-21T22:19:22.378454"
+    },
+    {
+      "product_id": 1619,
+      "product_name": "COVER SHOES",
+      "reference": "4.14.3",
+      "upload_time": "2025-07-21T22:19:23.062752"
+    },
+    {
+      "product_id": 1620,
+      "product_name": "COVER BOOTS",
+      "reference": "4.14.4",
+      "upload_time": "2025-07-21T22:19:23.826179"
+    },
+    {
+      "product_id": 1621,
+      "product_name": "NURSE CAPS",
+      "reference": "4.14.5",
+      "upload_time": "2025-07-21T22:19:24.522136"
+    },
+    {
+      "product_id": 1622,
+      "product_name": "SHRINK NURSE CAPS",
+      "reference": "4.14.6",
+      "upload_time": "2025-07-21T22:19:25.335572"
+    },
+    {
+      "product_id": 1623,
+      "product_name": "DOCTOR CAPS",
+      "reference": "4.14.7",
+      "upload_time": "2025-07-21T22:19:26.044266"
+    },
+    {
+      "product_id": 1624,
+      "product_name": "ISOLATION GOWNS",
+      "reference": "4.14.8",
+      "upload_time": "2025-07-21T22:19:26.817391"
+    },
+    {
+      "product_id": 1625,
+      "product_name": "SURGICAL GOWNS",
+      "reference": "4.14.9",
+      "upload_time": "2025-07-21T22:19:27.589992"
+    },
+    {
+      "product_id": 1626,
+      "product_name": "PE APRONS",
+      "reference": "4.14.10",
+      "upload_time": "2025-07-21T22:19:28.318316"
+    },
+    {
+      "product_id": 1627,
+      "product_name": "DISPOSABLE NON-WOVEN DRAPES AND OPERATION ROOM (SURGICAL) KITS",
+      "reference": "4.15",
+      "upload_time": "2025-07-21T22:19:29.142254"
+    },
+    {
+      "product_id": 1628,
+      "product_name": "LATEX FOLEY CATHETERS",
+      "reference": "4.16.1",
+      "upload_time": "2025-07-21T22:19:30.065286"
+    },
+    {
+      "product_id": 1629,
+      "product_name": "SILICON FOLEY CATHETERS",
+      "reference": "4.16.2",
+      "upload_time": "2025-07-21T22:19:30.854941"
+    },
+    {
+      "product_id": 1630,
+      "product_name": "HYDROPHILIC FOLEY CATHETERS",
+      "reference": "4.16.3",
+      "upload_time": "2025-07-21T22:19:31.660348"
+    },
+    {
+      "product_id": 1631,
+      "product_name": "SPECIAL FOLEY CATHETERS",
+      "reference": "4.16.4",
+      "upload_time": "2025-07-21T22:19:32.585754"
+    },
+    {
+      "product_id": 1632,
+      "product_name": "SELF-RETAINING URINARY CATHETERS ",
+      "reference": "4.16.5",
+      "upload_time": "2025-07-21T22:19:44.500549"
+    },
+    {
+      "product_id": 1633,
+      "product_name": "RED-LATEX URETHRAL CATHETERS ",
+      "reference": "4.16.6",
+      "upload_time": "2025-07-21T22:19:45.265219"
+    },
+    {
+      "product_id": 1634,
+      "product_name": "NELATON CATHETERS",
+      "reference": "4.16.7",
+      "upload_time": "2025-07-21T22:19:46.086320"
+    },
+    {
+      "product_id": 1635,
+      "product_name": "HYDROPHILIC INTERMMITENT CATHETERS",
+      "reference": "4.16.8",
+      "upload_time": "2025-07-21T22:19:46.888752"
+    },
+    {
+      "product_id": 1636,
+      "product_name": "MALE EXTERNAL CATHETERS",
+      "reference": "4.16.9",
+      "upload_time": "2025-07-21T22:19:47.678789"
+    },
+    {
+      "product_id": 1637,
+      "product_name": "URINE BAGS - ECONOMIC TYPE",
+      "reference": "4.17.1",
+      "upload_time": "2025-07-21T22:19:48.411345"
+    },
+    {
+      "product_id": 1638,
+      "product_name": "URINE BAGS - STANDARD TYPE",
+      "reference": "4.17.2",
+      "upload_time": "2025-07-21T22:19:49.149718"
+    },
+    {
+      "product_id": 1639,
+      "product_name": "URINE BAGS - LUXUS TYPE",
+      "reference": "4.17.3",
+      "upload_time": "2025-07-21T22:19:49.923456"
+    },
+    {
+      "product_id": 1640,
+      "product_name": "URINE BAGS WITH VOLUTROL",
+      "reference": "4.17.4",
+      "upload_time": "2025-07-21T22:19:50.621740"
+    },
+    {
+      "product_id": 1641,
+      "product_name": "LEG URINE BAGS",
+      "reference": "4.17.5",
+      "upload_time": "2025-07-21T22:19:51.344198"
+    },
+    {
+      "product_id": 1642,
+      "product_name": "PEDIATRIC URINE BAGS",
+      "reference": "4.17.6",
+      "upload_time": "2025-07-21T22:19:52.010296"
+    },
+    {
+      "product_id": 1643,
+      "product_name": "ENDOTRACHEAL TUBES",
+      "reference": "4.18",
+      "upload_time": "2025-07-21T22:19:52.741077"
+    },
+    {
+      "product_id": 1644,
+      "product_name": "ENDOBRONCHEAL TUBES",
+      "reference": "4.19",
+      "upload_time": "2025-07-21T22:19:53.535198"
+    },
+    {
+      "product_id": 1645,
+      "product_name": "PHARINGEAL AIRWAYS",
+      "reference": "4.20",
+      "upload_time": "2025-07-21T22:19:54.233721"
+    },
+    {
+      "product_id": 1646,
+      "product_name": "NASOPHARINGEAL AIRWAYS",
+      "reference": "4.21",
+      "upload_time": "2025-07-21T22:19:54.928131"
+    },
+    {
+      "product_id": 1647,
+      "product_name": "LARYNGEAL MASKS",
+      "reference": "4.22",
+      "upload_time": "2025-07-21T22:20:24.791027"
+    },
+    {
+      "product_id": 1648,
+      "product_name": "TRACHEOSTOMY",
+      "reference": "4.23",
+      "upload_time": "2025-07-21T22:20:25.480001"
+    },
+    {
+      "product_id": 1649,
+      "product_name": "ANESTHESIA CIRCUITS",
+      "reference": "4.24.1",
+      "upload_time": "2025-07-21T22:20:26.271927"
+    },
+    {
+      "product_id": 1650,
+      "product_name": "FILTERS",
+      "reference": "4.24.2",
+      "upload_time": "2025-07-21T22:20:27.047883"
+    },
+    {
+      "product_id": 1651,
+      "product_name": "NASA OXYGEN CANNULA",
+      "reference": "4.25",
+      "upload_time": "2025-07-21T22:20:27.875623"
+    },
+    {
+      "product_id": 1652,
+      "product_name": "RESPIRATORY MASKS",
+      "reference": "4.26",
+      "upload_time": "2025-07-21T22:20:28.758332"
+    },
+    {
+      "product_id": 1653,
+      "product_name": "SUCTION TUBE + JANKAUER HANDLE",
+      "reference": "4.27",
+      "upload_time": "2025-07-21T22:20:29.486580"
+    },
+    {
+      "product_id": 1654,
+      "product_name": "STANDARD SUCTION CATHETER",
+      "reference": "4.28.1",
+      "upload_time": "2025-07-21T22:20:30.252530"
+    },
+    {
+      "product_id": 1655,
+      "product_name": "CLOSED SUCTION CATHETER",
+      "reference": "4.28.2",
+      "upload_time": "2025-07-21T22:20:31.186319"
+    },
+    {
+      "product_id": 1656,
+      "product_name": "STANDARD ENTERAL FEEDING TUBES",
+      "reference": "4.29.1",
+      "upload_time": "2025-07-21T22:20:31.867331"
+    },
+    {
+      "product_id": 1657,
+      "product_name": "LONG PERIOD ENTERAL FEEDING TUBES",
+      "reference": "4.29.2",
+      "upload_time": "2025-07-21T22:20:32.533517"
+    },
+    {
+      "product_id": 1658,
+      "product_name": "STOMACH TUBES",
+      "reference": "4.30",
+      "upload_time": "2025-07-21T22:20:33.360339"
+    },
+    {
+      "product_id": 1659,
+      "product_name": "CENTRAL VENOUS CATHETERS (CVC)",
+      "reference": "4.31",
+      "upload_time": "2025-07-21T22:20:34.364875"
+    },
+    {
+      "product_id": 1660,
+      "product_name": "PRESSURE TRANSDUCERS",
+      "reference": "4.32",
+      "upload_time": "2025-07-21T22:20:35.140221"
+    },
+    {
+      "product_id": 1661,
+      "product_name": "ELECTRODES  ",
+      "reference": "4.33",
+      "upload_time": "2025-07-21T22:20:35.895631"
+    },
+    {
+      "product_id": 1662,
+      "product_name": "SHORT-TERM HEMODIALYSIS CATHETERS",
+      "reference": "4.34.1",
+      "upload_time": "2025-07-21T22:20:45.906192"
+    },
+    {
+      "product_id": 1663,
+      "product_name": "LONG-TERM HEMODIALYSIS CATHETERS",
+      "reference": "4.34.2",
+      "upload_time": "2025-07-21T22:20:46.605083"
+    },
+    {
+      "product_id": 1664,
+      "product_name": "BLOOD VACUUM TUBES",
+      "reference": "4.35.1",
+      "upload_time": "2025-07-21T22:20:47.420590"
+    },
+    {
+      "product_id": 1665,
+      "product_name": "BLOOD MICRO VACUUM TUBES",
+      "reference": "4.35.2",
+      "upload_time": "2025-07-21T22:20:48.303123"
+    },
+    {
+      "product_id": 1666,
+      "product_name": "BLOOD EXTRACTION TUBES HOLDERS",
+      "reference": "4.35.3",
+      "upload_time": "2025-07-21T22:20:49.003278"
+    },
+    {
+      "product_id": 1667,
+      "product_name": "BLOOD EXTRACTION SAFETY TUBES’ HOLDERS",
+      "reference": "4.35.4",
+      "upload_time": "2025-07-21T22:20:49.747418"
+    }
+  ],
+  "session_start": "2025-07-21T22:15:57.995406",
+  "session_end": "2025-07-21T22:20:50.253951"
+}

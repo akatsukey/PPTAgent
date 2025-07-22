@@ -1,0 +1,170 @@
+{
+  "failed_count": 5,
+  "failed_products": [
+    {
+      "product_name": "MALE EXTERNAL CATHETERS",
+      "reference": "4.16.9",
+      "error": "HTTP 400: {\"data\":null,\"error\":{\"status\":400,\"name\":\"ValidationError\",\"message\":\"1 relation(s) of type api::division.division associated with this entity do not exist\",\"details\":{\"errors\":[{\"path\":[],\"message\":\"1 relation(s) of type api::division.division associated with this entity do not exist\",\"name\":\"ValidationError\"}]}}}",
+      "product_data": {
+        "data": {
+          "name": "MALE EXTERNAL CATHETERS",
+          "referenceString": "4.16.9",
+          "standard": "??????????",
+          "description": "## COMPOSITION\n- 100% Silicon\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Latex free\n- Short/Medium/Long Sizes\n\n## PERFORMANCE\n- self-adhesive sheath\n- Soft and Skin-friendly\n- Highly Transparent",
+          "tableInMd": "| Type | Shape | Size (mm) |\n|---|---|---|\n| STANDARD |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |\n| SPECIAL |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |\n| EXTRA |  | 25 |\n|  |  | 28 |\n|  |  | 29 |\n|  |  | 30 |\n|  |  | 32 |\n|  |  | 36 |\n|  |  | 41 |",
+          "category": 225,
+          "divisions": [
+            53
+          ],
+          "images": [],
+          "PackagingInformation": {
+            "packing_per_inner_box": 0,
+            "inner_boxes_per_carton": 0,
+            "loading_capacity_20GP": 0,
+            "loading_capacity_40HC": 0,
+            "additional_notes": "Not specified"
+          },
+          "slug": "male-external-catheters",
+          "categoryName": "Urinary Catheters"
+        }
+      },
+      "upload_time": "2025-07-21T22:16:05.147314"
+    },
+    {
+      "product_name": "INSULINE SYRINGES",
+      "reference": "4.1.2",
+      "error": "HTTP 400: {\"data\":null,\"error\":{\"status\":400,\"name\":\"ValidationError\",\"message\":\"This attribute must be unique\",\"details\":{\"errors\":[{\"path\":[\"slug\"],\"message\":\"This attribute must be unique\",\"name\":\"ValidationError\"}]}}}",
+      "product_data": {
+        "data": {
+          "name": "INSULINE SYRINGES",
+          "referenceString": "4.1.2",
+          "category": 210,
+          "categoryName": "Syringes",
+          "divisions": [
+            105,
+            106
+          ],
+          "divisionNames": [
+            "Injectables",
+            "Diabetis care"
+          ],
+          "standard": "???",
+          "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber and Natural Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Latex and latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Low Dead Space\n- Clear graduation printing technology\n- High Transparency Barrel\n- Automatic Lubrication’s Technology => Optimal result on penetration resistance\n- Thin wall technology => pressure reduction\n- Smooth sliding\n- Smooth Surface\n\n## INJECTION\n- DIABETES",
+          "tableInMd": "| 1ml With Fixxed Needle | 27G / 29G / 30G / 31G / 32G / 33G | Blister / 10pcs Bag | Soft Box / Hard Box |\n|---|---|---|---|",
+          "images": [],
+          "PackagingInformation": {
+            "packing_per_inner_box": 0,
+            "inner_boxes_per_carton": 0,
+            "loading_capacity_20GP": 0,
+            "loading_capacity_40HC": 0,
+            "additional_notes": "Not specified"
+          },
+          "slug": "insuline-syringes"
+        }
+      },
+      "upload_time": "2025-07-21T22:16:05.842377"
+    },
+    {
+      "product_name": "HYPODERMIC 2-PARTS SYRINGES",
+      "reference": "4.1.3",
+      "error": "HTTP 400: {\"data\":null,\"error\":{\"status\":400,\"name\":\"ValidationError\",\"message\":\"This attribute must be unique\",\"details\":{\"errors\":[{\"path\":[\"slug\"],\"message\":\"This attribute must be unique\",\"name\":\"ValidationError\"}]}}}",
+      "product_data": {
+        "data": {
+          "name": "HYPODERMIC 2-PARTS SYRINGES",
+          "referenceString": "4.1.3",
+          "category": 210,
+          "categoryName": "Syringes",
+          "divisions": [
+            105,
+            106
+          ],
+          "divisionNames": [
+            "Injectables",
+            "Diabetis care"
+          ],
+          "standard": "???",
+          "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Slip Tips\n- With and Without Needle\n- Customizable graduation including logo\n- Some Sizes with Centric and Excentric luer Tips\n\n## PERFORMANCE\n- Clear graduation printing technology\n- High Transparency Barrel\n- Smooth sliding\n- Smooth Surface",
+          "tableInMd": "| 1ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n|---|---|---|---|\n| 2ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 3ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 5ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 6ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 10ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 12ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |\n| 20ml | Without / With Mounted / Aside / Needle | Polybag / Blister | Inner Bag / Soft Box / Hard Box |",
+          "images": [],
+          "PackagingInformation": {
+            "packing_per_inner_box": 0,
+            "inner_boxes_per_carton": 0,
+            "loading_capacity_20GP": 0,
+            "loading_capacity_40HC": 0,
+            "additional_notes": "Not specified"
+          },
+          "slug": "hypodermic-2-parts-syringes"
+        }
+      },
+      "upload_time": "2025-07-21T22:16:06.520528"
+    },
+    {
+      "product_name": "LIGHT PROOF HYPODERMIC SYRINGES",
+      "reference": "4.1.4",
+      "error": "HTTP 400: {\"data\":null,\"error\":{\"status\":400,\"name\":\"ValidationError\",\"message\":\"This attribute must be unique\",\"details\":{\"errors\":[{\"path\":[\"slug\"],\"message\":\"This attribute must be unique\",\"name\":\"ValidationError\"}]}}}",
+      "product_data": {
+        "data": {
+          "name": "LIGHT PROOF HYPODERMIC SYRINGES",
+          "referenceString": "4.1.4",
+          "category": 210,
+          "categoryName": "Syringes",
+          "divisions": [
+            105,
+            106
+          ],
+          "divisionNames": [
+            "Injectables",
+            "Diabetis care"
+          ],
+          "standard": "???",
+          "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber and Natural Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Luer Lock and Luer Slip Tips\n- With and Without Needle\n- Latex and latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Clear graduation printing technology\n- UV-Light Proof colour Barrel\n- Smooth sliding\n- Smooth Surface",
+          "tableInMd": "| 1ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n|---|---|---|---|---|---|\n| 2ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 3ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 5ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 6ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 10ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 12ml | Luer Slip / Luer Lock Tip | Concentric | Without Needle | Blister | Soft Box / Hard Box |\n| 20ml | Luer Slip / Luer Lock Tip | Concentric / Eccentric | Without Needle | Blister | Soft Box / Hard Box |\n| 30ml | Luer Slip / Luer Lock Tip | Concentric / Eccentric | Without Needle | Blister | Soft Box / Hard Box |",
+          "images": [],
+          "PackagingInformation": {
+            "packing_per_inner_box": 0,
+            "inner_boxes_per_carton": 0,
+            "loading_capacity_20GP": 0,
+            "loading_capacity_40HC": 0,
+            "additional_notes": "Not specified"
+          },
+          "slug": "light-proof-hypodermic-syringes"
+        }
+      },
+      "upload_time": "2025-07-21T22:16:07.199814"
+    },
+    {
+      "product_name": "ORAL/FEEDING SYRINGES",
+      "reference": "4.1.5",
+      "error": "HTTP 400: {\"data\":null,\"error\":{\"status\":400,\"name\":\"ValidationError\",\"message\":\"This attribute must be unique\",\"details\":{\"errors\":[{\"path\":[\"slug\"],\"message\":\"This attribute must be unique\",\"name\":\"ValidationError\"}]}}}",
+      "product_data": {
+        "data": {
+          "name": "ORAL/FEEDING SYRINGES",
+          "referenceString": "4.1.5",
+          "category": 210,
+          "categoryName": "Syringes",
+          "divisions": [
+            106
+          ],
+          "divisionNames": [
+            "Diabetis care"
+          ],
+          "standard": "???",
+          "description": "## COMPOSITION\n- Barrel + Plunger: Medical Grade Polypropylene (PP)\n- Gasket: Isoprene Latex-Free Rubber and Natural Rubber\n\n## STERILIZATION\n- Ethylene Oxide (EO) Sterile\n\n## PRESENTATIONS\n- Oral Tip and ENT-FIT Tips\n- With or without cap\n- Latex and latex-free Gasket\n- Customizable graduation including logo\n\n## PERFORMANCE\n- Clear graduation printing technology\n- High Transparency and UV-Light Proof colour Barrel\n- Smooth sliding\n- Smooth Surface\n## INJECTION",
+          "tableInMd": "| ORAL Tip | 1ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|---|---|---|---|---|\n|  | 2ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 3ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 5ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 10ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 20ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n| ENT-FIT Tip | 1ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 2ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 3ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 5ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 10ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |\n|  | 20ml | Luer Slip / Luer Lock Tip | Blister | Soft Box / Hard Box |",
+          "images": [],
+          "PackagingInformation": {
+            "packing_per_inner_box": 0,
+            "inner_boxes_per_carton": 0,
+            "loading_capacity_20GP": 0,
+            "loading_capacity_40HC": 0,
+            "additional_notes": "Not specified"
+          },
+          "slug": "oralfeeding-syringes"
+        }
+      },
+      "upload_time": "2025-07-21T22:16:08.141323"
+    }
+  ],
+  "session_start": "2025-07-21T22:15:57.995406",
+  "session_end": "2025-07-21T22:20:50.255261"
+}

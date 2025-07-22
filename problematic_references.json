@@ -1,0 +1,399 @@
+{
+  "problematic_products": [
+    {
+      "index": 1,
+      "reference": "4.16.9",
+      "name": "MALE EXTERNAL CATHETERS",
+      "category_name": "",
+      "issue": "Missing category name"
+    },
+    {
+      "index": 23,
+      "reference": "4.3.1",
+      "name": "CONVENTIONAL SCALP VEIN SETS",
+      "category_name": "SCALP VEIN SETS ",
+      "issue": "Category not in production: \"SCALP VEIN SETS \""
+    },
+    {
+      "index": 24,
+      "reference": "4.3.2",
+      "name": "SAFETY SCALP VEIN SETS",
+      "category_name": "SCALP VEIN SETS ",
+      "issue": "Category not in production: \"SCALP VEIN SETS \""
+    },
+    {
+      "index": 25,
+      "reference": "4.3.3",
+      "name": "SAFETY SCALP VEIN SETS PREMIUM",
+      "category_name": "SCALP VEIN SETS ",
+      "issue": "Category not in production: \"SCALP VEIN SETS \""
+    },
+    {
+      "index": 33,
+      "reference": "4.6.1",
+      "name": "3 WAY STOP COCKS",
+      "category_name": "INFUSION ACCESORIES",
+      "issue": "Category not in production: \"INFUSION ACCESORIES\""
+    },
+    {
+      "index": 34,
+      "reference": "4.6.2",
+      "name": "HEPARIN CAPS",
+      "category_name": "INFUSION ACCESORIES",
+      "issue": "Category not in production: \"INFUSION ACCESORIES\""
+    },
+    {
+      "index": 35,
+      "reference": "4.6.3",
+      "name": "NEGATIVE NEEDLE FREE CONNECTOR",
+      "category_name": "INFUSION ACCESORIES",
+      "issue": "Category not in production: \"INFUSION ACCESORIES\""
+    },
+    {
+      "index": 36,
+      "reference": "4.6.4",
+      "name": "POSITIVE NEEDLE FREE CONNECTOR",
+      "category_name": "INFUSION ACCESORIES",
+      "issue": "Category not in production: \"INFUSION ACCESORIES\""
+    },
+    {
+      "index": 37,
+      "reference": "4.6.5",
+      "name": "NEUTRAL NEEDLE FREE CONNECTOR",
+      "category_name": "INFUSION ACCESORIES",
+      "issue": "Category not in production: \"INFUSION ACCESORIES\""
+    },
+    {
+      "index": 38,
+      "reference": "4.6.6",
+      "name": "NEUTRAL ANTI-REFLUX NEEDLE FREE CONNECTOR",
+      "category_name": "INFUSION ACCESORIES",
+      "issue": "Category not in production: \"INFUSION ACCESORIES\""
+    },
+    {
+      "index": 39,
+      "reference": "4.6.7",
+      "name": "FLOW REGULATOR",
+      "category_name": "INFUSION ACCESORIES",
+      "issue": "Category not in production: \"INFUSION ACCESORIES\""
+    },
+    {
+      "index": 40,
+      "reference": "4.6.8",
+      "name": "FEMALE/MALE STOPPERS",
+      "category_name": "INFUSION ACCESORIES",
+      "issue": "Category not in production: \"INFUSION ACCESORIES\""
+    },
+    {
+      "index": 41,
+      "reference": "4.6.9",
+      "name": "CAPS",
+      "category_name": "INFUSION ACCESORIES",
+      "issue": "Category not in production: \"INFUSION ACCESORIES\""
+    },
+    {
+      "index": 42,
+      "reference": "4.6.10",
+      "name": "FLUIDS TRANSFER SPIKE",
+      "category_name": "INFUSION ACCESORIES",
+      "issue": "Category not in production: \"INFUSION ACCESORIES\""
+    },
+    {
+      "index": 50,
+      "reference": "4.9.1",
+      "name": "PEN TYPE CONVENTIONAL IV CANNULA",
+      "category_name": "IV CANNULAS",
+      "issue": "Category not in production: \"IV CANNULAS\""
+    },
+    {
+      "index": 51,
+      "reference": "4.9.2",
+      "name": "CONVENTIONAL IV CANNULA WITH WINGS",
+      "category_name": "IV CANNULAS",
+      "issue": "Category not in production: \"IV CANNULAS\""
+    },
+    {
+      "index": 52,
+      "reference": "4.9.3",
+      "name": "CONVENTIONAL IV CANNULA WITH WINGS AND INJECTION SITE ",
+      "category_name": "IV CANNULAS",
+      "issue": "Category not in production: \"IV CANNULAS\""
+    },
+    {
+      "index": 53,
+      "reference": "4.9.4",
+      "name": "PEN TYPE PASSIVE RETRACTABLE SAFETY IV CANNULA",
+      "category_name": "IV CANNULAS",
+      "issue": "Category not in production: \"IV CANNULAS\""
+    },
+    {
+      "index": 54,
+      "reference": "4.9.5",
+      "name": "PASSIVE SAFETY IV CANNULA WITH WINGS",
+      "category_name": "IV CANNULAS",
+      "issue": "Category not in production: \"IV CANNULAS\""
+    },
+    {
+      "index": 55,
+      "reference": "4.9.6",
+      "name": "PASSIVE SAFETY IV CANNULA WITH WINGS AND INJECTION SITE",
+      "category_name": "IV CANNULAS",
+      "issue": "Category not in production: \"IV CANNULAS\""
+    },
+    {
+      "index": 56,
+      "reference": "4.9.7",
+      "name": "MANUAL RETRACTABLE SAFETY IV CANNULA",
+      "category_name": "IV CANNULAS",
+      "issue": "Category not in production: \"IV CANNULAS\""
+    },
+    {
+      "index": 57,
+      "reference": "4.9.8",
+      "name": "AUTOMATIC RETRACTABLE SAFETY IV CANNULA",
+      "category_name": "IV CANNULAS",
+      "issue": "Category not in production: \"IV CANNULAS\""
+    },
+    {
+      "index": 58,
+      "reference": "4.9.9",
+      "name": "SAFETYCLOSE-SYSTEM IV CANNULA 2-WAYS",
+      "category_name": "IV CANNULAS",
+      "issue": "Category not in production: \"IV CANNULAS\""
+    },
+    {
+      "index": 101,
+      "reference": "4.15",
+      "name": "DISPOSABLE NON-WOVEN DRAPES AND OPERATION ROOM (SURGICAL) KITS",
+      "category_name": "DISPOSABLE NON-WOVEN OPERATION ROOMS",
+      "issue": "Category not in production: \"DISPOSABLE NON-WOVEN OPERATION ROOMS\""
+    },
+    {
+      "index": 111,
+      "reference": "4.17.1",
+      "name": "URINE BAGS - ECONOMIC TYPE",
+      "category_name": "URINE BAGS",
+      "issue": "Category not in production: \"URINE BAGS\""
+    },
+    {
+      "index": 112,
+      "reference": "4.17.2",
+      "name": "URINE BAGS - STANDARD TYPE",
+      "category_name": "URINE BAGS",
+      "issue": "Category not in production: \"URINE BAGS\""
+    },
+    {
+      "index": 113,
+      "reference": "4.17.3",
+      "name": "URINE BAGS - LUXUS TYPE",
+      "category_name": "URINE BAGS",
+      "issue": "Category not in production: \"URINE BAGS\""
+    },
+    {
+      "index": 114,
+      "reference": "4.17.4",
+      "name": "URINE BAGS WITH VOLUTROL",
+      "category_name": "URINE BAGS",
+      "issue": "Category not in production: \"URINE BAGS\""
+    },
+    {
+      "index": 115,
+      "reference": "4.17.5",
+      "name": "LEG URINE BAGS",
+      "category_name": "URINE BAGS",
+      "issue": "Category not in production: \"URINE BAGS\""
+    },
+    {
+      "index": 116,
+      "reference": "4.17.6",
+      "name": "PEDIATRIC URINE BAGS",
+      "category_name": "URINE BAGS",
+      "issue": "Category not in production: \"URINE BAGS\""
+    },
+    {
+      "index": 117,
+      "reference": "4.18",
+      "name": "ENDOTRACHEAL TUBES",
+      "category_name": "ENDOTRACHEAL TUBES",
+      "issue": "Category not in production: \"ENDOTRACHEAL TUBES\""
+    },
+    {
+      "index": 118,
+      "reference": "4.19",
+      "name": "ENDOBRONCHEAL TUBES",
+      "category_name": "ENDOBRONCHEAL TUBES",
+      "issue": "Category not in production: \"ENDOBRONCHEAL TUBES\""
+    },
+    {
+      "index": 119,
+      "reference": "4.20",
+      "name": "PHARINGEAL AIRWAYS",
+      "category_name": "PHARINGEAL AIRWAYS",
+      "issue": "Category not in production: \"PHARINGEAL AIRWAYS\""
+    },
+    {
+      "index": 120,
+      "reference": "4.21",
+      "name": "NASOPHARINGEAL AIRWAYS",
+      "category_name": "NASOPHARINGEAL AIRWAYS",
+      "issue": "Category not in production: \"NASOPHARINGEAL AIRWAYS\""
+    },
+    {
+      "index": 121,
+      "reference": "4.22",
+      "name": "LARYNGEAL MASKS",
+      "category_name": "LARYNGEAL MASKS",
+      "issue": "Category not in production: \"LARYNGEAL MASKS\""
+    },
+    {
+      "index": 122,
+      "reference": "4.23",
+      "name": "TRACHEOSTOMY",
+      "category_name": "TRACHEOSTOMY",
+      "issue": "Category not in production: \"TRACHEOSTOMY\""
+    },
+    {
+      "index": 123,
+      "reference": "4.24.1",
+      "name": "ANESTHESIA CIRCUITS",
+      "category_name": "RESPIRATORY CIRCUITS",
+      "issue": "Category not in production: \"RESPIRATORY CIRCUITS\""
+    },
+    {
+      "index": 124,
+      "reference": "4.24.2",
+      "name": "FILTERS",
+      "category_name": "RESPIRATORY CIRCUITS",
+      "issue": "Category not in production: \"RESPIRATORY CIRCUITS\""
+    },
+    {
+      "index": 125,
+      "reference": "4.25",
+      "name": "NASA OXYGEN CANNULA",
+      "category_name": "NASA OXYGEN CANNULA",
+      "issue": "Category not in production: \"NASA OXYGEN CANNULA\""
+    },
+    {
+      "index": 126,
+      "reference": "4.26",
+      "name": "RESPIRATORY MASKS",
+      "category_name": "RESPIRATORY MASKS",
+      "issue": "Category not in production: \"RESPIRATORY MASKS\""
+    },
+    {
+      "index": 127,
+      "reference": "4.27",
+      "name": "SUCTION TUBE + JANKAUER HANDLE",
+      "category_name": "SUCTION TUBE + JANKAUER HANDLE",
+      "issue": "Category not in production: \"SUCTION TUBE + JANKAUER HANDLE\""
+    },
+    {
+      "index": 132,
+      "reference": "4.30",
+      "name": "STOMACH TUBES",
+      "category_name": "",
+      "issue": "Missing category name"
+    },
+    {
+      "index": 133,
+      "reference": "4.31",
+      "name": "CENTRAL VENOUS CATHETERS (CVC)",
+      "category_name": "CENTRAL VENOUS CATHETERS (CVC)",
+      "issue": "Category not in production: \"CENTRAL VENOUS CATHETERS (CVC)\""
+    },
+    {
+      "index": 134,
+      "reference": "4.32",
+      "name": "PRESSURE TRANSDUCERS",
+      "category_name": "PRESSURE TRANSDUCERS",
+      "issue": "Category not in production: \"PRESSURE TRANSDUCERS\""
+    },
+    {
+      "index": 135,
+      "reference": "4.33",
+      "name": "ELECTRODES  ",
+      "category_name": "ELECTRODES  ",
+      "issue": "Category not in production: \"ELECTRODES  \""
+    },
+    {
+      "index": 138,
+      "reference": "4.35.1",
+      "name": "BLOOD VACUUM TUBES",
+      "category_name": "BLOOD EXTRACTION",
+      "issue": "Category not in production: \"BLOOD EXTRACTION\""
+    },
+    {
+      "index": 139,
+      "reference": "4.35.2",
+      "name": "BLOOD MICRO VACUUM TUBES",
+      "category_name": "BLOOD EXTRACTION",
+      "issue": "Category not in production: \"BLOOD EXTRACTION\""
+    },
+    {
+      "index": 140,
+      "reference": "4.35.3",
+      "name": "BLOOD EXTRACTION TUBES’ HOLDERS",
+      "category_name": "BLOOD EXTRACTION",
+      "issue": "Category not in production: \"BLOOD EXTRACTION\""
+    },
+    {
+      "index": 141,
+      "reference": "4.35.4",
+      "name": "BLOOD EXTRACTION SAFETY TUBES’ HOLDERS",
+      "category_name": "BLOOD EXTRACTION",
+      "issue": "Category not in production: \"BLOOD EXTRACTION\""
+    }
+  ],
+  "reference_list": [
+    "4.16.9",
+    "4.3.1",
+    "4.3.2",
+    "4.3.3",
+    "4.6.1",
+    "4.6.2",
+    "4.6.3",
+    "4.6.4",
+    "4.6.5",
+    "4.6.6",
+    "4.6.7",
+    "4.6.8",
+    "4.6.9",
+    "4.6.10",
+    "4.9.1",
+    "4.9.2",
+    "4.9.3",
+    "4.9.4",
+    "4.9.5",
+    "4.9.6",
+    "4.9.7",
+    "4.9.8",
+    "4.9.9",
+    "4.15",
+    "4.17.1",
+    "4.17.2",
+    "4.17.3",
+    "4.17.4",
+    "4.17.5",
+    "4.17.6",
+    "4.18",
+    "4.19",
+    "4.20",
+    "4.21",
+    "4.22",
+    "4.23",
+    "4.24.1",
+    "4.24.2",
+    "4.25",
+    "4.26",
+    "4.27",
+    "4.30",
+    "4.31",
+    "4.32",
+    "4.33",
+    "4.35.1",
+    "4.35.2",
+    "4.35.3",
+    "4.35.4"
+  ],
+  "total_count": 49
+}
