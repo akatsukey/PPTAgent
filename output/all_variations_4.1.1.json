@@ -1,0 +1,264 @@
+[
+  {
+    "data": {
+      "name": "HYPODERMIC 3-PARTS SYRINGES",
+      "referenceString": "4.1.1",
+      "category": null,
+      "categoryName": "SYRINGES",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "0,3ml fixed needle",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 8537",
+            "ISO 7864"
+          ],
+          "pcs_inner": 100,
+          "pcs_outer": 3200,
+          "loading_capacity": {
+            "20GP": 800000,
+            "40HC": 1984000
+          },
+          "carton_size": "63x44x40"
+        },
+        {
+          "size": "0,5ml fixed needle",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 8537",
+            "ISO 7864"
+          ],
+          "pcs_inner": 100,
+          "pcs_outer": 3200,
+          "loading_capacity": {
+            "20GP": 800000,
+            "40HC": 1984000
+          },
+          "carton_size": "63x44x40"
+        },
+        {
+          "size": "1ml luer sip or lock mounted needle",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 7886-1",
+            "ISO 7864",
+            "ISO 80369-7"
+          ],
+          "pcs_inner": 100,
+          "pcs_outer": 3200,
+          "loading_capacity": {
+            "20GP": 800000,
+            "40HC": 2016000
+          },
+          "carton_size": "61,5x37,5x48"
+        },
+        {
+          "size": "2ml",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 7886-1",
+            "ISO 7864",
+            "ISO 80369-7"
+          ],
+          "pcs_inner": 100,
+          "pcs_outer": 3200,
+          "loading_capacity": {
+            "20GP": 800000,
+            "40HC": 1890000
+          },
+          "carton_size": "61,5x37,5x48"
+        },
+        {
+          "size": "3ml",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 7886-1",
+            "ISO 7864",
+            "ISO 80369-7"
+          ],
+          "pcs_inner": 100,
+          "pcs_outer": 3000,
+          "loading_capacity": {
+            "20GP": 750000,
+            "40HC": 1890000
+          },
+          "carton_size": "61,5x37,5x48"
+        },
+        {
+          "size": "5ml",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 7886-1",
+            "ISO 7864",
+            "ISO 80369-7"
+          ],
+          "pcs_inner": 100,
+          "pcs_outer": 2400,
+          "loading_capacity": {
+            "20GP": 600000,
+            "40HC": 1512000
+          },
+          "carton_size": "61,5x37,5x48"
+        },
+        {
+          "size": "10ml",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 7886-1",
+            "ISO 7864",
+            "ISO 80369-7"
+          ],
+          "pcs_inner": 100,
+          "pcs_outer": 1600,
+          "loading_capacity": {
+            "20GP": 400000,
+            "40HC": 1008000
+          },
+          "carton_size": "61,5x37,5x48"
+        },
+        {
+          "size": "20ml",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 7886-1",
+            "ISO 7864",
+            "ISO 80369-7"
+          ],
+          "pcs_inner": 50,
+          "pcs_outer": 800,
+          "loading_capacity": {
+            "20GP": 228000,
+            "40HC": 568000
+          },
+          "carton_size": "61,5x34,0x47"
+        },
+        {
+          "size": "30ml",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 7886-1",
+            "ISO 7864",
+            "ISO 80369-7"
+          ],
+          "pcs_inner": 40,
+          "pcs_outer": 640,
+          "loading_capacity": {
+            "20GP": 160000,
+            "40HC": 403200
+          },
+          "carton_size": "61,5x37,5x48"
+        },
+        {
+          "size": "60ml",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 7886-1",
+            "ISO 7864",
+            "ISO 80369-7"
+          ],
+          "pcs_inner": 25,
+          "pcs_outer": 400,
+          "loading_capacity": {
+            "20GP": 100000,
+            "40HC": 252000
+          },
+          "carton_size": "61,5x37,5x48"
+        },
+        {
+          "size": "60ml catheter tip",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 7886-1"
+          ],
+          "pcs_inner": 25,
+          "pcs_outer": 400,
+          "loading_capacity": {
+            "20GP": 98000,
+            "40HC": 238000
+          },
+          "carton_size": "63,5x37,5x48"
+        },
+        {
+          "size": "100ml",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 7886-1"
+          ],
+          "pcs_inner": 25,
+          "pcs_outer": 100,
+          "loading_capacity": {
+            "20GP": 49500,
+            "40HC": 120000
+          },
+          "carton_size": "57x32x31"
+        },
+        {
+          "size": "120ml",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 7886-1"
+          ],
+          "pcs_inner": 25,
+          "pcs_outer": 100,
+          "loading_capacity": {
+            "20GP": 49500,
+            "40HC": 120000
+          },
+          "carton_size": "57x32x31"
+        }
+      ]
+    }
+  }
+]

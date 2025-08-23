@@ -1,0 +1,43 @@
+[
+  {
+    "data": {
+      "name": "HYPODERMIC 3-PARTS SYRINGES",
+      "referenceString": "4.1.1",
+      "category": null,
+      "categoryName": "SYRINGES",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "0,3ml fixed needle",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 8537",
+            "ISO 7864"
+          ],
+          "pcs_inner": 100,
+          "pcs_outer": 3200,
+          "loading_capacity": {
+            "20GP": 800000,
+            "40HC": 1984000
+          },
+          "carton_size": "63x44x40"
+        }
+      ]
+    }
+  }
+]

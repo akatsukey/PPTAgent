@@ -1,0 +1,1561 @@
+[
+  {
+    "data": {
+      "name": "LINERS",
+      "referenceString": "4.36.1",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "1L",
+          "picture": false,
+          "ce": true,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 60,
+          "loading_capacity": {
+            "20GP": 24900,
+            "40HC": 60480
+          },
+          "carton_size": "30*37.5*60"
+        },
+        {
+          "size": "1.5L",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 60,
+          "loading_capacity": {
+            "20GP": 24900,
+            "40HC": 60480
+          },
+          "carton_size": "30*37.5*60"
+        },
+        {
+          "size": "2L",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 60,
+          "loading_capacity": {
+            "20GP": 24900,
+            "40HC": 60480
+          },
+          "carton_size": "30*37.5*60"
+        },
+        {
+          "size": "3L",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 50,
+          "loading_capacity": {
+            "20GP": 20750,
+            "40HC": 50400
+          },
+          "carton_size": "30*37.5*60"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "CANISTERS",
+      "referenceString": "4.36.2",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "1L",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 20,
+          "loading_capacity": {
+            "20GP": 8300,
+            "40HC": 20160
+          },
+          "carton_size": "30*37.5*60"
+        },
+        {
+          "size": "1.5L",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 16,
+          "loading_capacity": {
+            "20GP": 6640,
+            "40HC": 16128
+          },
+          "carton_size": "30*37.5*60"
+        },
+        {
+          "size": "2L",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 15,
+          "loading_capacity": {
+            "20GP": 6225,
+            "40HC": 15120
+          },
+          "carton_size": "30*37.5*60"
+        },
+        {
+          "size": "3L",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 14,
+          "loading_capacity": {
+            "20GP": 5818,
+            "40HC": 14112
+          },
+          "carton_size": "30*37.5*60"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "HUBER NEEDLES",
+      "referenceString": "4.37",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "nan",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [],
+          "pcs_inner": null,
+          "pcs_outer": null,
+          "loading_capacity": {
+            "20GP": null,
+            "40HC": null
+          },
+          "carton_size": "nan"
+        },
+        {
+          "size": "nan",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [],
+          "pcs_inner": null,
+          "pcs_outer": null,
+          "loading_capacity": {
+            "20GP": null,
+            "40HC": null
+          },
+          "carton_size": "nan"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "STANDARD SPHYGMOMANOMETER WITH STETHOSCOPE",
+      "referenceString": "4.38.1",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "HS-50A/30A1",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 50,
+          "loading_capacity": {
+            "20GP": 26000,
+            "40HC": 65000
+          },
+          "carton_size": "56.5*39.5*40.5"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "MESH NEBULIZER",
+      "referenceString": "4.38.10",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "NB-810B",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 10,
+          "loading_capacity": {
+            "20GP": 4340,
+            "40HC": 10850
+          },
+          "carton_size": "69*24*26"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "ULTRASONIC NEBULIZER",
+      "referenceString": "4.38.11",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "NB-152U",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 6,
+          "loading_capacity": {
+            "20GP": 2730,
+            "40HC": 6825
+          },
+          "carton_size": "52*50*22"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "COMPRESSOR NEBULIZER",
+      "referenceString": "4.38.12",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "NB-219C",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 8,
+          "loading_capacity": {
+            "20GP": 3344,
+            "40HC": 8360
+          },
+          "carton_size": "69*40*22.5"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "OTOCSOPE",
+      "referenceString": "4.38.13",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "HS-OT10D",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 20,
+          "loading_capacity": {
+            "20GP": 23630,
+            "40HC": 59050
+          },
+          "carton_size": "40*24*23"
+        },
+        {
+          "size": "nan",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [],
+          "pcs_inner": null,
+          "pcs_outer": null,
+          "loading_capacity": {
+            "20GP": null,
+            "40HC": null
+          },
+          "carton_size": "nan"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "SIMPLE STETHOSCOPE",
+      "referenceString": "4.38.2",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "HS-30A1",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 100,
+          "loading_capacity": {
+            "20GP": 35100,
+            "40HC": 87750
+          },
+          "carton_size": "52.5*45.5*31"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "DUAL STETHOSCOPE",
+      "referenceString": "4.38.3",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "HS-30J",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 50,
+          "loading_capacity": {
+            "20GP": 15500,
+            "40HC": 38750
+          },
+          "carton_size": "69*53*23"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "ANEROID  SPHYGMOMANOMETER",
+      "referenceString": "4.38.4",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "HS-20A",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 50,
+          "loading_capacity": {
+            "20GP": 18600,
+            "40HC": 46500
+          },
+          "carton_size": "57*35*35"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "ANEROID  SPHYGMOMANOMETER",
+      "referenceString": "4.38.5",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "HS-20C",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 50,
+          "loading_capacity": {
+            "20GP": 26000,
+            "40HC": 65000
+          },
+          "carton_size": "56.5*39.5*40.5"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "PALM ANEROID  SPHYGMOMANOMETER",
+      "referenceString": "4.38.6",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "HS-201Q",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 30,
+          "loading_capacity": {
+            "20GP": 11460,
+            "40HC": 28650
+          },
+          "carton_size": "48*44*32"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "WALL   SPHYGMOMANOMETER",
+      "referenceString": "4.38.7",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "HS-60D",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 10,
+          "loading_capacity": {
+            "20GP": 3060,
+            "40HC": 7650
+          },
+          "carton_size": "79.5*44.5*24"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "BLOOD PRESSURE MONITOR",
+      "referenceString": "4.38.8",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "LD-752",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 40,
+          "loading_capacity": {
+            "20GP": 40000,
+            "40HC": 100000
+          },
+          "carton_size": "43*32*19"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "BLOOD PRESSURE MONITOR",
+      "referenceString": "4.38.9",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "LD-527",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 20,
+          "loading_capacity": {
+            "20GP": 13000,
+            "40HC": 32500
+          },
+          "carton_size": "47*24*35"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "ADULT OXIMETER",
+      "referenceString": "4.39.1",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "YK-80B",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 100,
+          "loading_capacity": {
+            "20GP": 79800,
+            "40HC": 199500
+          },
+          "carton_size": "34.5*23*41"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "PEDIATRIC OXIMETER",
+      "referenceString": "4.39.2",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "YK-K1",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 100,
+          "loading_capacity": {
+            "20GP": 79800,
+            "40HC": 199500
+          },
+          "carton_size": "34.5*23*41"
+        },
+        {
+          "size": "nan",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [],
+          "pcs_inner": null,
+          "pcs_outer": null,
+          "loading_capacity": {
+            "20GP": null,
+            "40HC": null
+          },
+          "carton_size": "nan"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "OXYGENTRATOR CONCENTRATOR",
+      "referenceString": "4.40.1",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "5L",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 1,
+          "loading_capacity": {
+            "20GP": 197,
+            "40HC": 495
+          },
+          "carton_size": "54*37*66"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "PORTABLE OXYGENTRATOR CONCENTRATOR",
+      "referenceString": "4.40.2",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "1L",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 1,
+          "loading_capacity": {
+            "20GP": 1306,
+            "40HC": 3265
+          },
+          "carton_size": "32*23*27"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "PORTABLE PHLEM SUCTION",
+      "referenceString": "4.40.3",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "15L",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 2,
+          "loading_capacity": {
+            "20GP": 900,
+            "40HC": 2250
+          },
+          "carton_size": "54*36*30"
+        },
+        {
+          "size": "nan",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [],
+          "pcs_inner": null,
+          "pcs_outer": null,
+          "loading_capacity": {
+            "20GP": null,
+            "40HC": null
+          },
+          "carton_size": "nan"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "COLOSTOMY BAG",
+      "referenceString": "4.41.1",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "70MM",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 400,
+          "loading_capacity": {
+            "20GP": 236000,
+            "40HC": 590000
+          },
+          "carton_size": "33*31*43"
+        },
+        {
+          "size": "nan",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [],
+          "pcs_inner": null,
+          "pcs_outer": null,
+          "loading_capacity": {
+            "20GP": null,
+            "40HC": null
+          },
+          "carton_size": "nan"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "WOOD TONGUE DEPRESSOR",
+      "referenceString": "4.42.1",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "150*17*1. 6mm",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 100,
+          "pcs_outer": 5000,
+          "loading_capacity": {
+            "20GP": 5000000,
+            "40HC": 125000000
+          },
+          "carton_size": "44.5*15.5*35.5"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "STERILE WOOD CERVICAL SCRAPER",
+      "referenceString": "4.42.2",
+      "category": null,
+      "categoryName": "BLOOD EXTRACTION",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "7''",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": true,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 1,
+          "pcs_outer": 1000,
+          "loading_capacity": {
+            "20GP": 928000,
+            "40HC": 2320000
+          },
+          "carton_size": "51*22*24.5"
+        },
+        {
+          "size": "nan",
+          "picture": false,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [],
+          "pcs_inner": null,
+          "pcs_outer": null,
+          "loading_capacity": {
+            "20GP": null,
+            "40HC": null
+          },
+          "carton_size": "nan"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "Synthetic casting tape",
+      "referenceString": "4.43.1",
+      "category": null,
+      "categoryName": "Bandage",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "5cm ×3.6m",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 10,
+          "pcs_outer": 100,
+          "loading_capacity": {
+            "20GP": 44802,
+            "40HC": 104006
+          },
+          "carton_size": "63×31×32"
+        },
+        {
+          "size": "7.5cm ×3.6m",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 10,
+          "pcs_outer": 100,
+          "loading_capacity": {
+            "20GP": 40869,
+            "40HC": 94876
+          },
+          "carton_size": "65×31×34"
+        },
+        {
+          "size": "10cm ×3.6m",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 10,
+          "pcs_outer": 100,
+          "loading_capacity": {
+            "20GP": 34516,
+            "40HC": 80128
+          },
+          "carton_size": "65×32×39"
+        },
+        {
+          "size": "12.5cm ×3.6m",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 10,
+          "pcs_outer": 100,
+          "loading_capacity": {
+            "20GP": 26298,
+            "40HC": 61050
+          },
+          "carton_size": "65×42×39"
+        },
+        {
+          "size": "15cm ×3.6m",
+          "picture": true,
+          "ce": true,
+          "ce_mdr": true,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 10,
+          "pcs_outer": 100,
+          "loading_capacity": {
+            "20GP": 26298,
+            "40HC": 61050
+          },
+          "carton_size": "65×42×39"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "Plaster of Paris Bandage",
+      "referenceString": "4.43.2",
+      "category": null,
+      "categoryName": "Bandage",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "10cm ×2.7m(quick/normal set)",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 80,
+          "loading_capacity": {
+            "20GP": 67166,
+            "40HC": 155922
+          },
+          "carton_size": "46×29×25"
+        },
+        {
+          "size": "15cm×2.7m(quick/normal set)",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 80,
+          "loading_capacity": {
+            "20GP": 47961,
+            "40HC": 111339
+          },
+          "carton_size": "46×29×35"
+        },
+        {
+          "size": "20cm×2.7m(quick/normal set)",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 80,
+          "loading_capacity": {
+            "20GP": 37333,
+            "40HC": 86666
+          },
+          "carton_size": "46×29×45"
+        },
+        {
+          "size": "10cm ×4.0m(quick/normal set)",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 72,
+          "loading_capacity": {
+            "20GP": 55263,
+            "40HC": 128289
+          },
+          "carton_size": "40×38×24"
+        },
+        {
+          "size": "15cm×4.0m(quick/normal set)",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 72,
+          "loading_capacity": {
+            "20GP": 40191,
+            "40HC": 93301
+          },
+          "carton_size": "40×38×33"
+        },
+        {
+          "size": "20cm×4.0m(quick/normal set)",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": null,
+          "pcs_outer": 36,
+          "loading_capacity": {
+            "20GP": 28832,
+            "40HC": 66933
+          },
+          "carton_size": "40×38×23"
+        },
+        {
+          "size": "10cm ×4.6m(quick/normal set)",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 10,
+          "pcs_outer": 80,
+          "loading_capacity": {
+            "20GP": 42666,
+            "40HC": 99047
+          },
+          "carton_size": "50×42×25"
+        },
+        {
+          "size": "15cm×4.6m(quick/normal set)",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 10,
+          "pcs_outer": 80,
+          "loading_capacity": {
+            "20GP": 29304,
+            "40HC": 68027
+          },
+          "carton_size": "50×42×35"
+        },
+        {
+          "size": "20cm×4.6m(quick/normal set)",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 10,
+          "pcs_outer": 40,
+          "loading_capacity": {
+            "20GP": 22222,
+            "40HC": 51587
+          },
+          "carton_size": "50×42×24"
+        }
+      ]
+    }
+  },
+  {
+    "data": {
+      "name": "Orthopedic padding",
+      "referenceString": "4.43.3",
+      "category": null,
+      "categoryName": "Bandage",
+      "divisions": [],
+      "divisionNames": [],
+      "standard": "",
+      "description": "",
+      "tableInMd": "",
+      "images": [],
+      "PackagingInformation": {
+        "packing_per_inner_box": 0,
+        "inner_boxes_per_carton": 0,
+        "loading_capacity_20GP": 0,
+        "loading_capacity_40HC": 0,
+        "additional_notes": "Not specified"
+      },
+      "variations": [
+        {
+          "size": "10cm ×3.0m, 100% polyester",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 12,
+          "pcs_outer": 360,
+          "loading_capacity": {
+            "20GP": 81395,
+            "40HC": 242940
+          },
+          "carton_size": "64×43×45"
+        },
+        {
+          "size": "15cm×3.0m, 100% polyester",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 12,
+          "pcs_outer": 240,
+          "loading_capacity": {
+            "20GP": 54263,
+            "40HC": 161960
+          },
+          "carton_size": "64×43×45"
+        },
+        {
+          "size": "20cm×3.0m, 100% polyester",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 12,
+          "pcs_outer": 180,
+          "loading_capacity": {
+            "20GP": 40697,
+            "40HC": 121470
+          },
+          "carton_size": "64×43×45"
+        },
+        {
+          "size": "10cm ×3.0m, 100% cotton",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 12,
+          "pcs_outer": 360,
+          "loading_capacity": {
+            "20GP": 81395,
+            "40HC": 242940
+          },
+          "carton_size": "64×43×45"
+        },
+        {
+          "size": "15cm×3.0m, 100% cotton",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 12,
+          "pcs_outer": 240,
+          "loading_capacity": {
+            "20GP": 54263,
+            "40HC": 161960
+          },
+          "carton_size": "64×43×45"
+        },
+        {
+          "size": "20cm×3.0m, 100% cotton",
+          "picture": true,
+          "ce": false,
+          "ce_mdr": false,
+          "fda": false,
+          "iso": [
+            "ISO 13485:2016"
+          ],
+          "pcs_inner": 12,
+          "pcs_outer": 180,
+          "loading_capacity": {
+            "20GP": 40697,
+            "40HC": 121470
+          },
+          "carton_size": "64×43×45"
+        }
+      ]
+    }
+  }
+]
