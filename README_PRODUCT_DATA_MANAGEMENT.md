@@ -157,3 +157,4 @@ python3 -c "import json; data=json.load(open('./output/products_enriched.json'))
 - **Incomplete products**: 27
 - **Products not in Excel**: 1 (4.10.8)
 - **Last updated**: August 23, 2024
+
